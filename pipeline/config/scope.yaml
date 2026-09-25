@@ -1,0 +1,32 @@
+# Stage windows and region. The pipeline and audit read the active window from here.
+# Bounds are calendar dates in the stated calendar; `to_exclusive` is exclusive (half-open interval).
+active_stage: stage1
+
+stages:
+  stage1:
+    from: "0901-01-01"
+    to_exclusive: "1100-01-01"
+    calendar: julian
+    # Audit time strata (half-open year ranges within the window)
+    strata:
+      - [901, 951]
+      - [951, 1001]
+      - [1001, 1051]
+      - [1051, 1100]
+
+# Europe + Mediterranean + Anatolia/Levant
+bbox:
+  lon_min: -25
+  lon_max: 50
+  lat_min: 28
+  lat_max: 72
+
+# Audit subregions: rough boxes used only for stratification, not for scope.
+# First match wins, so order matters for overlaps.
+subregions:
+  british_isles:      {lon_min: -11, lon_max: 2,  lat_min: 49, lat_max: 61}
+  iberia_gaul:        {lon_min: -10, lon_max: 8,  lat_min: 36, lat_max: 51.5}
+  italy_w_med:        {lon_min: 6,   lon_max: 19, lat_min: 36, lat_max: 47.5}
+  balkans_byzantium:  {lon_min: 13,  lon_max: 30, lat_min: 34, lat_max: 47}
+  central_north:      {lon_min: -25, lon_max: 50, lat_min: 45, lat_max: 72}
+  anatolia_levant_af: {lon_min: -25, lon_max: 50, lat_min: 28, lat_max: 45}
