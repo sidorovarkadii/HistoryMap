@@ -1,411 +1,322 @@
-# HistoryMap — Architecture (v0.4)
+# HistoryMap — Architecture (v1.0-draft, connection-led)
 
-> Status: **the implementation spec, pending the Milestone 1 audit results.** Revision history is in §0. Reviews are in
-> `docs/reviews/`. 🟡 = a default to be tuned from evidence.
+> Branch: `connection-led`. `main` keeps v0.4 (volume-oriented) and the Milestone 1 audit.
+> Status: **draft**, validated by two pilot stories and an interactive walkthrough before Stage 1 planning.
+> Reviews in `docs/reviews/`; audit corrections in `docs/audit/errata.md`. 🟡 = default to tune from evidence.
 
-## 0. Revision history
+## 0. Why this version exists, and what changed
 
-**v0.3 → v0.4** (review 2):
+The goal is **not** to collect as many data points as possible, but to **show connections**. v0.4 selected
+per-category lists by thresholds and added links afterwards. v1.0 inverts that: **curated stories and anchors →
+relationships fetched in both directions → supporting records admitted only with an evidenced, relevant link**.
+Inclusion and map presentation are separate decisions.
 
-| # | Finding | Resolution |
+| Source | Point | Where addressed |
 |---|---|---|
-| 1 | Occurrence IDs are not stable; multiple statements ≠ multiple occurrences | A persisted **occurrence registry**; statement IDs kept as provenance; an explicit repeated-vs-alternative rule; conflicts go to a review queue (§4.2) |
-| 2 | Date rendering is contradictory; mixed calendars; century bounds; "no end ⇒ point" | Four separate notions (possible interval, representative time, reveal rule, fade reference); a **Julian Day** computation axis; `[1101, 1201)`-style half-open bounds; an explicit `temporalKind` including `openSpan` (§4.3) |
-| 3 | The budget can be consumed by invisible events | A 5-step selection order; opacity-0 events are excluded before ranking; ID tie-break; bounded selection neighbours; future and filtered context rules; selection and sequence added to the invariant (§8) |
-| 4 | Scope and dangling references | The scope governs **events**; a referenced-entity closure; external references for out-of-scope targets; exclusion reasons; validation of subjects, sequences and overrides; a region-evidence rule for unlocated events (§5.1) |
-| 5 | Pairwise derived links explode | **Membership indexes** instead of pairwise links; bounded neighbours at selection time; separate `about` vs `involving` indexes (§4.5, §6) |
-| 6 | Provenance undefined | A `Provenance` type per field: statement IDs, entity revision, extractor version, override, sources; reproducible build manifest (§4.6, §5.3) |
-| 7 | 0.25-year update buckets | rAF-driven playback; ranking throttled separately; a seek evaluates immediately (§9) |
-| M | Milestones | The audit is stratified and includes hard cases; M2 adds a searchable event list (§11) |
-| S | User direction: gradual development | The design targets the full range, but the **stage window** lives in `config/scope.yaml`; Stage 1 = 901–1099; each stage runs build → test → revise → gate before scaling (§1, §11) |
+| Brief 1 | Demonstrate connections, not volume | §1, §3, §11 |
+| Brief 2 | People only if connected (wars, polities, religion, architecture, works, science) | §6.2, §7 |
+| Brief 3 | Architecture threshold by historical/cultural significance | §7.3 |
+| Brief 4 | Rulers' family and marriage connections | §5.2, §10.3 |
+| Brief 5 | Culture/religion by significance, without hard geo-location | §7.4, §8.4 |
+| Brief 6 | Balance fetching and curation | §9 |
+| Review 3 | Stories first; roles; one-step expansion; P39 tenure; war ≠ battles; building ≠ construction event; location assessment, not coordinates; errata | §3, §6, §7, §9, errata |
+| Review 4 | Shared identities + story membership; explicit normalisation to events; corrected relationship semantics; explanation-grade evidence; investigate-not-assume framing; three-state overlap; cross-checks; walkthrough gate | §2–§6, §8, §10, §11 |
 
-**v0.2 → v0.3** (review 1): entity/event/relationship split; typed relationships with provenance; full-catalogue
-loading; `HistDate`; honest locations; labelled border snapshots; `displayPriority` plus a per-viewport budget;
-removed the scaling promises; connected-prototype-first milestones.
-
-**Confirmed defaults:** ghosts off by default (optional *Accumulated history* mode); category-specific
-extractor code; an initial budget of 150 ordinary markers; birth↔death as a derived `sameSubject` relation when
-both are in scope.
+**Carried over from v0.4 unchanged:** occurrence registry and IDs (§4), HistDate and the four time notions (§4.2),
+Location (§4.3), Provenance (§4.4), determinism invariant (§10.4), stage windows in `pipeline/config/scope.yaml`,
+stack (MapLibre GL camera owner + deck.gl `MapboxOverlay`, static data, no backend).
 
 ## 1. Goals and scope
 
 | | |
 |---|---|
-| Purpose | A personal prototype proving **connected exploration**; publishable later |
-| Region | Europe + Mediterranean + Anatolia/Levant: lon −25…50, lat 28…72 |
-| Time | **Designed for** 476–1453 (and beyond). **The current stage window** is set in `config/scope.yaml`; Stage 1 = `[JD(901-01-01), JD(1100-01-01))`, Julian calendar, i.e. 901–1099 CE inclusive. An event is in scope if its possible interval overlaps the window (§4.3, §5.1) |
-| Development | **Staged:** build a small window → test look and function → revise architecture or data → scale the window and data (§11) |
-| Categories | War · Life · Architecture · Science & culture · Religion |
-| Base map | Natural Earth physical base (no modern labels) + toggleable, labelled border snapshots |
-| Connections | On click: bounded arcs + side panel; each link states its type and evidence |
-| Stack | Python → versioned static dataset → Vite + TS + MapLibre GL (camera owner) + deck.gl `MapboxOverlay` |
+| Purpose | Personal prototype proving **connected exploration** of history; publishable later |
+| Unit of selection | A **story** (a curated question or theme) — an entry point into one shared dataset (§3) |
+| Region | Europe + Mediterranean + Anatolia/Levant (bbox in `scope.yaml`) — for *event* scope and map framing, not for admitting entities |
+| Time | Stage window in `scope.yaml` (Stage 1: 901–1099 CE, Julian, half-open). Events: interval-overlap rule. Supporting entities: activity overlap (§7.1) |
+| Pilots (gate) | **1066 succession crisis** · **Church reform, papal authority, and the First Crusade** |
+| What the pilots test | Family/marriage, rulers and claims, military events, religious institutions and disputes, some architecture |
+| What they do **not** test | Culture and science. Next: Bayeux Tapestry (connects to the women of 1066); later a science pilot (authorship, transmission, translation, institutions) |
 
-**Non-goals:** accounts, an editing UI, a backend, mobile-first layout, non-English content, causal inference.
+**Non-goals:** causal inference from data; completeness; accounts/editing UI; backend.
 
-## 2. Architecture overview
+## 2. The shared dataset
 
-```mermaid
-flowchart TD
-    A[Wikidata extracts<br/>per-category extractors] --> C[Resolve claims · normalize · validate]
-    K[Occurrence registry<br/>persisted IDs] <--> C
-    B[Curated overrides,<br/>relationships, sequences] --> C
-    C --> Q[Review queue<br/>conflicting claims]
-    C --> R[Validation report]
-    C --> D[Versioned dataset<br/>manifest · entities · events · memberships · relationships · sequences]
-    D --> E[In-memory catalogue + indexes]
-    G[App state: t · viewport · filters · mode · selection · sequence] --> F
-    E --> F[Pure selectors: eligibility · opacity · budget · neighbours]
-    F --> H[MapLibre: base + border snapshot]
-    F --> I[deck.gl overlay: markers + arcs]
-    F --> J[Timeline · event list/search · panel · legend]
-```
+**One identity per thing.** Every person, polity, office, dynasty, institution, building, work, movement and event
+has exactly one global ID across all stories (QID-based, §4). Relationships are shared records. Stories never own
+records; they *refer* to them.
 
 ```
-HistoryMap/
-├─ docs/            architecture.md · reviews/ · audit/
-├─ pipeline/
-│  ├─ audit/        Milestone 1 harness (throwaway-labelled)
-│  ├─ config/       categories.yaml, regions.yaml
-│  ├─ extractors/   war.py life.py architecture.py culture.py religion.py
-│  ├─ registry/     occurrences.json   ← committed; the source of stable event IDs
-│  ├─ curated/      overrides.yaml relationships.yaml sequences.yaml inclusions.yaml
-│  ├─ review/       conflicts.yaml     ← generated queue, resolutions fed back via overrides
-│  ├─ fetch.py resolve.py normalize.py scope.py derive.py validate.py build.py
-│  └─ tests/
-└─ web/src/         data/ state/ select/ map/ ui/   (+ tests/)
+                 ┌──────────────── shared dataset ────────────────┐
+  Story A ──┐    │ Entity ── Relationship ── Entity                │
+            ├──► │   │                         │                   │
+  Story B ──┘    │ Event ─── Relationship ── Event                 │
+  (membership,   │ Presentation (marker / timeline / span / panel) │
+   path, exits)  └─────────────────────────────────────────────────┘
 ```
 
-## 3. Stack notes
-
-- MapLibre owns the camera; deck.gl is attached via `MapboxOverlay` (interleaved). One camera, one picking path.
-- A synchronous in-memory catalogue for the prototype. If the data outgrows memory, **migrate deliberately** to an
-  async query API (`queryEvents`, `getEvent`, `getRelations`). PMTiles may later serve basemap and borders only.
-- No custom shaders until a benchmark shows a need.
-
-## 4. Data model
-
-### 4.1 Entities and events
-
-```ts
-type EntityKind = "person" | "building" | "work" | "polity" | "place" | "conflict" | "council" | "other";
-
-interface Entity {
-  id: string;                    // QID or "hm:e:<slug>"
-  kind: EntityKind;
-  label: string;
-  wikipedia?: string;
-  role: "subject" | "reference"; // reference = included only to interpret retained events (§5.1)
-  source: Provenance;
-}
-
-interface HistEvent {
-  id: string;                    // from the occurrence registry (§4.2); never computed from query order
-  eventType: string;             // battle | siege | war | birth | death | built | destroyed | created |
-                                 // published | discovered | council | schism | …
-  subjectEntity: string;         // the entity the event is ABOUT
-  primaryCategory: Category;
-  categories: Category[];
-  title: string;
-  timing: Timing;                // §4.3
-  location?: Location;           // §4.4; absent ⇒ never on the map
-  displayPriority: number;       // 0..1, prominence only (§8)
-  status: "ok" | "sourceMissing" | "needsReview";
-  source: Provenance;            // §4.6
-}
-type Category = "war" | "life" | "architecture" | "culture" | "religion";
-```
-
-### 4.2 Occurrence identity and claim resolution
-
-**Registry.** `pipeline/registry/occurrences.json` is committed and append-only:
-
-```json
-{ "Q8581:birth":            { "entity": "Q8581", "eventType": "birth",     "statements": ["Q8581-1a2b…"], "created": "2026-09-24" },
-  "Q12345:destroyed:k7f3q": { "entity": "Q12345","eventType": "destroyed", "statements": ["Q12345-9c…"],  "created": "2026-09-24" } }
-```
-
-- **First occurrence** of `(entity, eventType)` gets `"{qid}:{eventType}"`.
-- **Additional distinct occurrences** get `"{qid}:{eventType}:{key}"`, where `key` = the first 5 base32 characters of
-  the SHA-1 of the **statement GUID that first evidenced it**. It is minted once, stored, and never recomputed from order.
-- Each build **matches** incoming statements to registry entries by statement GUID. An unmatched statement is
-  resolved with the rules below; only a *new distinct occurrence* mints a new ID.
-- If every statement behind a registered ID disappears, the event stays with `status: "sourceMissing"` (kept in
-  the build, flagged in the report). The ID is never reused, so curated links never break silently.
-
-**Repeated occurrence vs. alternative claim.** Multiple values of one property (e.g. two P576 dates) are:
-
-1. **Alternative claims about one event** (the default). The claims are merged into one event, and the chosen claim is:
-   the preferred-rank (`BestRank`) claim → the best-sourced (most references) → the narrowest precision. Deprecated claims
-   are ignored.
-2. **Distinct occurrences**, only when there is positive evidence: distinct `P793 significant event` items each
-   with their own date; or series-ordinal (P1545) qualifiers; or an explicit curated entry in
-   `curated/overrides.yaml` (`splitOccurrences`).
-3. **Conflict → review queue.** If the alternative claims have **non-overlapping possible intervals** and no
-   `BestRank` claim decides between them, the event gets `status: "needsReview"`. It uses the widest envelope as its possible
-   interval, the conflict is written to `review/conflicts.yaml`, and it's resolved through an override. It is never
-   auto-split.
-
-*Test:* reversing statement order or adding a new alternative claim leaves every existing ID unchanged and
-leaves curated links resolvable.
-
-### 4.3 Time
-
-**Computation axis:** every date is converted from its **source calendar** to a Julian Day Number (JD). All
-comparisons use JD. The timeline axis is the Julian epoch `t = 2000 + (JD − 2451545.0) / 365.25`, which is used **for
-positioning and animation only**. It is anchored to Gregorian 2000, so it sits about 13 days off Julian calendar years.
-All **boundaries** (scope, filters) are therefore calendar dates converted to JD, e.g. the Stage 1 window is
-`[JD(901-01-01 Julian), JD(1100-01-01 Julian))`. The original value, precision and calendar are kept for display
-("c. 1150, Julian").
-
-```ts
-interface HistDate {
-  raw: string;                 // "+1150-00-00T00:00:00Z"
-  precision: "day" | "month" | "year" | "decade" | "century" | "millennium";
-  calendar: "julian" | "gregorian";
-  earliestJd: number;          // INCLUSIVE lower bound
-  latestJd: number;            // EXCLUSIVE upper bound — every interval is half-open [earliest, latest)
-  circa?: boolean;             // P1480 = Q5727902
-  statementId: string;
-}
-interface Timing {
-  temporalKind: "point" | "span" | "openSpan";
-  start: HistDate;
-  end?: HistDate;              // required for "span"; absent for "point" and "openSpan"
-  // openSpan = a known duration with an unknown end (or unknown start); NOT a point event
-}
-```
-
-Bounds by precision (Wikidata semantics): year Y → `[Y-01-01, (Y+1)-01-01)`; **century C → years
-`[100(C−1)+1, 100C+1)`**, i.e. the 12th century = `[1101, 1201)`; decade → `[10k, 10k+10)`. P1319/P1326 qualifiers, when
-present, replace the bounds. P4241 (refine date, e.g. "beginning of") narrows them.
-
-**The four notions, defined once:**
-
-| Notion | Definition |
+| Record | Purpose |
 |---|---|
-| **Possible interval** | `[start.earliest, (end ?? start).latest)`. Used for scope (§5.1) and shown on selection as an uncertainty bar |
-| **Representative time** `rt(d)` | The midpoint of `d`'s bounds, unless a curated override sets it. A display convention, not a claim |
-| **Reveal rule** | point → visible from `rt(start)`; span → from `rt(start)` until `rt(end)`; openSpan → from `rt(start)` for a 🟡 default 5 years (styled "end unknown") |
-| **Fade reference** `f` | point → `rt(start)`; span → `rt(end)`; openSpan → `rt(start) + 5` |
+| `Entity` | Person, polity, office, dynasty, institution, building, work, movement, place |
+| `HistEvent` | Something that happened, with timing (§4.2) and optional location |
+| `Relationship` | A sourced statement connecting two records (§5) |
+| `Story` | Title, framing **question**, window |
+| `StoryMembership` | `{story, ref, role, explanation, sources}` — the role lives **here**, not on the entity |
+| `StoryPath` | Editorial reading order + onward exits (§3.3) — **never** a historical relationship |
+| `Presentation` | How a record appears: marker / timeline / context span / panel-only (§8) |
 
-Uncertain events therefore appear once, at their representative time, styled as uncertain. They **do not** stay
-active across their uncertainty interval, which keeps uncertainty and duration apart.
+Per-story files are **views** (filters over the shared dataset). Merging any views yields no duplicates because
+IDs are global. Moving from one story to another is navigation within one dataset, not opening another.
 
-### 4.4 Locations
+## 3. Stories as entry points
 
-```ts
-interface Location {
-  lat: number; lon: number;
-  role: "eventSite" | "settlement" | "buildingSite" | "creationPlace";
-  precision: "exact" | "settlement" | "region";
-  source: Provenance;          // which entity and statement the coordinate came from
-}
-```
+### 3.1 Membership roles (per story)
 
-| Category | Chain (first hit wins); none ⇒ unlocated |
+| Role | Meaning |
 |---|---|
-| War | event P625 → P276's P625. Wars are spans with members (§4.5); no invented point |
-| Life | P19/P20 place's P625 (`settlement`) |
-| Architecture | item P625 (`buildingSite`). P571 is shown as "founded / inception" |
-| Culture | P1071 location of creation → curated. **No creator-birthplace fallback** |
-| Religion | event P625 → P276's P625 |
+| `anchor` | Curated; central to the story; carries a significance sentence and source |
+| `connecting` | Admitted because it has an evidenced, relevant relationship to the story's anchors |
+| `context` | Helps interpret the story (e.g. a predecessor, a founding abbot); shown as context, not active in playback |
+| `candidate` | Found by expansion; not published until relevance rules or review admit it |
 
-### 4.5 Memberships and relationships
+The same person can be an `anchor` in one story and `context` in another.
 
-**Memberships** (grouping facts, stored once per member, **never expanded pairwise**):
+### 3.2 Framing
+
+A story is a **question to investigate**, not a predetermined chain. Pilot 2 is "Church reform, papal authority,
+and the First Crusade", not "reform → crusade". Its connections are labelled independently (affiliation, personal
+involvement, shared concern, conflict, chronology, influence) and may branch, disagree, or be missing.
+
+### 3.3 Paths and onward exits
+
+`StoryPath` = ordered steps with a short note each ("next in this story" — editorial). `exits` = connected records
+beyond the narrative ("continue exploring"), so a story never dead-ends: e.g. First Crusade → Alexios I's appeal,
+Rhineland massacres, Kingdom of Jerusalem; 1066 → Harrying of the North, Domesday. Crossing into another story
+through a **shared record** is shown explicitly.
+
+## 4. Identity and time (carried over from v0.4)
+
+### 4.1 Occurrence registry
+`pipeline/registry/occurrences.json`, committed and append-only. First occurrence of `(entity, eventType)` =
+`"{qid}:{eventType}"`; additional **distinct** occurrences = `"{qid}:{eventType}:{key}"` (key from the SHA-1 of
+the first evidencing statement GUID, minted once). Multiple values of one property default to **alternative claims
+about one event**; distinct occurrences need positive evidence (P793 items, P1545 ordinals, curated split);
+non-overlapping claims with no deciding rank → `needsReview`, never auto-split. Vanished statements →
+`sourceMissing`; IDs are never reused. Relationship IDs follow the same rule: `"{from}>{type}>{to}"`, stable.
+
+### 4.2 Time
+Unchanged from v0.4 §4.3: dates converted from their **source calendar** to Julian Day (canonical values come from
+entity JSON — WDQS converts day-precision Julian dates, audit F1); half-open bounds by precision with
+`century C = ceil(Y/100)` (audit F2); possible interval / representative time / reveal rule / fade reference as
+four separate notions. Precision coarser than a century is list-only (audit F3).
 
 ```ts
-interface Membership { event: string; group: string; kind: "conflict" | "campaign" | "council-series"; source: Provenance; }
+interface HistDate { raw; precision; calendar; earliestJd; latestJd /* exclusive */; circa?; statementId }
+interface Timing   { temporalKind: "point" | "span" | "openSpan"; start: HistDate; end?: HistDate }
 ```
 
-**Relationships** (binary facts):
+### 4.3 Location
+v0.4 `Location {lat, lon, role, precision, source}`, plus: `precision` is **derived from the target's type**
+(settlement vs region; audit F5); works never use P625/P276 (current holding location) and manuscripts never use
+P577 (modern edition; audit F6). Every record carries a **location assessment**: `located` / `unknown` /
+`distributed` (e.g. East–West Schism) / `not-applicable` (offices, dynasties). A coordinate is never required.
+
+### 4.4 Provenance
+v0.4 `Provenance` (claims with entity, property, statement ID, entity revision; extractor version; override;
+sources), extended by §5.4.
+
+## 5. Relationships
+
+### 5.1 Three layers
+
+| Layer | Example | Source |
+|---|---|---|
+| `relationship` | Emma of Normandy was married to Cnut | Imported or curated |
+| `claim` | William claimed the English throne | Curated, sourced — records that a historical actor asserted something |
+| `interpretation` | Emma's marriages connected the English and Danish royal houses | Curated, sourced — significance; never auto-published |
+
+A family relationship can help explain a succession claim without establishing that the claim was legitimate;
+the UI shows the three layers distinctly.
+
+### 5.2 Kinds and semantics
+
+| Kind | Type(s) | Wikidata source | Rules |
+|---|---|---|---|
+| kinship | `fatherOf`, `motherOf`, `parentOf` | P22, P25 on the child; P40 on the parent | P22/P25 give father/mother. A reverse **P40 alone gives neutral `parentOf`** (P40 does not say which parent). Merge both directions into one link |
+| marriage | `spouseOf` | P26 (symmetric) | Keep P580/P582 dates and **P2842 place of marriage**. "Married to" ≠ "political alliance" (that is an interpretation) |
+| dynasty | `memberOfDynasty` | P53 | Target type `dynasty/family` |
+| office | `heldOffice` | P39 + qualifiers P580/P582, P1365/P1366 (replaces / replaced by) | A **temporal relationship**, not an event. Jurisdiction from the office item's **P1001**. An occupation ("monarch") never implies "ruled X". P642 is not used (no longer available) |
+| participation | `participatedIn` | P607 on the person; P710 on the event | Participation in a **war** is never expanded into its battles |
+| affiliation | `memberOf`, `religiousOrder` | P463, P611 | Institutional affiliation, not shared belief |
+| founding | `founded`, `commissioned`, `architectOf` | P112, P88, P84 | Check the building **phase** the claim describes |
+| authorship | `authorOf`, `creatorOf`, `discovererOf` | P50, P170, P61 (on the work) | **P800 (notable work) only discovers candidates**; the role must be verified through these properties |
+| structure | `partOf`, `precedes` | P361, P155/P156 | `partOf` = membership (never expanded pairwise) |
+| chronology | `precedes` (derived) | derived from dates | Labelled "came before", never "led to" |
+| shared concern / conflict / influence | curated types | `curated/connections.yaml` | Interpretive or claim layer; sources required |
+
+Target types admitted: person, polity, **office**, **dynasty**, **institution**, **movement**, building, work,
+event, place.
+
+### 5.3 Deduplication
+
+One **displayed** link per `(from, type, to)`; it keeps **every supporting statement** (from both sides) and any
+**conflicting dates** side by side. Inverse pairs (P40 ↔ P22/P25) and symmetric pairs (P26 on both spouses) merge.
+
+### 5.4 Evidence and explanation
 
 ```ts
 interface Relationship {
-  id: string;                          // registry-style stable ID: "{from}>{type}>{to}"
-  type: "partOf" | "precedes" | "participant" | "createdBy" | "locatedAt" | "sameSubject" | "influenced" | "ledTo";
-  from: Ref; to: Ref;                  // Ref = { kind: "event" | "entity" | "external"; id: string; label?: string; url?: string }
+  id: string; kind: Kind; type: string; layer: "relationship" | "claim" | "interpretation";
+  from: Ref; to: Ref;
+  time?: { start?: HistDate; end?: HistDate };
+  overlap: "overlapping" | "not-overlapping" | "unknown";      // with the stage window (§7.1)
+  qualifiers?: { placeOfMarriage?: Ref; jurisdiction?: Ref; replaces?: Ref; replacedBy?: Ref };
+  statements: Array<{ entity: string; property: string; statementId: string; revision: number;
+                      rank: string; references: Reference[]; time?: {...} }>;
+  conflicts?: string[];                                        // e.g. differing dates between statements
+  explanation: string;                                         // short, readable
+  uncertainty?: string;                                        // competing claims / interpretations
+  tier: "verified" | "supported" | "review" | "conflict" | "curated";   // §10
+  status: "published" | "candidate" | "rejected";
   provenance: "imported" | "derived" | "curated";
-  evidence: string;                    // human-readable sentence shown in the panel
-  source: Provenance;
 }
+interface Reference { strength: "strong" | "weak" | "none"; statedIn?: Ref; url?: string; importedFrom?: string; retrieved?: string }
 ```
 
-- `sameConflict` / `sameCampaign` are **not stored**. They're derived at selection time from memberships (§6).
-- `sameSubject` (e.g. birth↔death) is stored only when both events are retained. It's one link per pair and small.
-- `influenced` / `ledTo` are **curated only**, and require `source.sources` URLs plus an explanation.
-- Labels are narrow: "Part of the same war", "Followed by (per Wikidata)", never an implied cause.
+- A source attached to a **seed** does not support that seed's relationships. Each link carries its own evidence.
+- Imported explanations are generated from the assertion ("Wikidata records Cnut as a spouse of Emma of Normandy
+  (1017–1035)") and show the reference detail, not a count.
+- **Curated connections** live in `pipeline/curated/connections.yaml`: endpoints, type, layer, explanation, sources,
+  status.
+- **Review decisions** live in `pipeline/curated/decisions.yaml`, keyed by relationship ID; rebuilds preserve them.
 
-### 4.6 Provenance
+## 6. Normalisation: from selected claims to playable content
 
-```ts
-interface Provenance {
-  claims: Array<{
-    field: "timing.start" | "timing.end" | "location" | "title" | "membership" | "relationship" | "type";
-    entity: string;              // QID the value came from (may differ from the subject, e.g. a birthplace)
-    property: string;            // "P569"
-    statementId?: string;        // wds GUID
-    entityRevision: number;      // schema:version at fetch time
-  }>;
-  extractor: { name: string; version: string };  // e.g. { "life", "0.3.1" }
-  override?: { id: string; reason: string; date: string };
-  sources?: string[];            // URLs for curated interpretations
-}
-```
+Knowing that Harold exists and fought at Hastings is not the same as producing playable content. The **normalise**
+stage turns selected source claims into:
 
-## 5. Pipeline
+| Output | Example | Rule |
+|---|---|---|
+| Canonical dated **events** | Battle of Hastings (14 Oct 1066, Julian) | Timing via §4.2 and claim resolution |
+| **Participation** links | Harold → Hastings, William → Hastings | From P607/P710; war ≠ battles |
+| Relevant **life events** | Birth/death of Emma | Only for admitted people; shown when they aid the story |
+| **Office tenures** | Edward the Confessor, King of England 1042–1066 | Temporal **relationships**, drawn as spans on the timeline, not events |
+| **Institutions** | Cluny Abbey | The institution's existence ≠ a construction event; a *founding* event only when dated (910) |
+| **Presentation records** | marker / timeline / span / panel | §8 |
 
-### 5.1 Scope policy
+Entities are kept even when they produce no marker. No dated event is manufactured just because an entity was admitted.
 
-- **Events** are retained iff:
-  1. the possible interval overlaps the **stage window** from `config/scope.yaml` (Stage 1: `[JD(901-01-01 Julian),
-     JD(1100-01-01 Julian))`), **and**
-  2. region: the location is inside the bbox; **or** the event is unlocated and has *region evidence*
-     (P17 country / P710 participant / P276 place resolving to a polity or place inside `config/regions.yaml`);
-     **or** it's listed in `curated/inclusions.yaml`.
-- Unlocated events without region evidence are **excluded**, with the reason `unlocated-no-region-evidence`.
-- **Entities:** the closure of every entity referenced by retained events (subjects, participants, creators, places,
-  groups) is included as `role: "reference"` when it isn't itself a subject. This is one hop only.
-- **Event→event links** whose target is not retained become `Ref { kind: "external", label, url }`, with the reason
-  (`target-out-of-time-scope`, `target-out-of-region`, `target-excluded:<reason>`). They are never silently dropped.
-- **Validation (build fails on):** ID collisions; a dangling `subjectEntity`, membership group, relationship
-  ref, sequence step, or override target; a registry entry changing its entity or eventType.
+## 7. Admission
 
-### 5.2 Stages
+### 7.1 Activity overlap (supporting entities)
 
-`fetch` (WDQS: cache, serialized, backoff on `Retry-After`, window splitting on timeout) → `extract` (per
-category) → `resolve` (claims + registry, §4.2) → `normalize` (JD, bounds, locations) → merge curated → `scope`
-(§5.1) → `derive` (sameSubject, reverse indexes' inputs) → `validate` → `build`.
+Three states: **overlapping** (a dated activity — office tenure, participation, founding, authorship, marriage —
+overlaps the window), **not overlapping**, **unknown** (activity undated). **Unknown → review**, never automatic
+exclusion. Birth/death alone never admits anyone.
 
-### 5.3 Reproducibility
+**Historical-context exception (reviewed):** a predecessor, founder or ancestor outside the window may be admitted
+as `context` when it explains an in-window institution or claim (e.g. William I of Aquitaine founding Cluny in
+910). Context entities do not appear as active in playback and do not widen the window.
 
-- Raw WDQS responses are cached content-addressed under `pipeline/cache/` and never mutated.
-- `manifest.json` records: the dataset version; the git commit; the hash of `config/` + `curated/` + `registry/`; each
-  extractor's version; the set of cache-entry hashes used; per-source licence, version/commit and retrieval date;
-  and the counts.
-- **Rebuild guarantee:** the same commit + cache set ⇒ a byte-identical dataset (checked in CI later; manually for now).
+### 7.2 Candidates and publication
 
-### 5.4 Output
+Straightforward imported claims enter as **candidates**. Type, period and a selected target establish *technical
+eligibility*, not historical importance. Publication follows explicit relevance rules (a link on a story path,
+kinship/marriage/office between admitted people, participation in an admitted event) plus the verification tier
+(§10), or review. "Same country / religion / century" and birth↔death alone never qualify.
 
-`web/public/data/<version>/`: manifest.json · entities.json · events.json · memberships.json ·
-relationships.json · sequences.json · details/ (optional, lazy).
+### 7.3 Architecture
 
-## 6. Catalogue and indexes
+Historical role first: cathedrals, major abbeys, royal/political centres, major mosques, important fortifications
+are prioritised for review; ordinary local buildings excluded by default, with reviewed exceptions for a documented
+role (a council, coronation, work). Sitelinks order the review queue and never veto. A type count ("church
+building") measures discovery volume; it never classifies a building as a parish church. A building/institution
+is separate from its construction event; century-dated sites stay as context without an invented construction event.
 
-The full catalogue is loaded before Play is enabled. Indexes:
-- `byId`
-- `eventsAbout(entity)` (subject)
-- **`eventsInvolving(entity)`** (participant / createdBy / locatedAt)
-- `membersOf(group)`, `groupsOf(event)`
-- `relationsFrom/To(ref)`
-- a time-sorted array by `rt(start)`
+### 7.4 Culture and religion
 
-**Bounded neighbours on selection:**
-- Siblings are drawn from `membersOf(groupsOf(e))`, ranked by |Δt| then displayPriority, then ID, up to K = 🟡 12 per
-  relation type.
-- Stored relationships of each type are capped the same way.
-- "Show all N" opens the list in the panel.
+Curated anchor IDs + automated enrichment (creators, participants, institutions, dates, references). Work ≠
+manuscript/fragment/edition. A **location assessment** is required, not a coordinate. Not every located council or
+synod is admitted — each needs a meaningful institutional, doctrinal, political or personal connection. Each
+anchor records *why it matters to the period or story, and what source supports that*.
 
-Measure and record gzipped size, parse time and heap in M2. Revisit chunking only if the data demands it.
+## 8. Presentation
 
-## 7. Map layers
+- **Event markers** (located events) and **timeline** entries follow the v0.4 reveal/fade rules. **Arcs** connect
+  located event↔event links only.
+- **Entity relationships** (kinship, marriage, office, affiliation) appear in a compact **relationship view in the
+  side panel**, grouped by kind — never as arcs between birthplaces.
+- **Office tenures** appear as timeline spans on the entity's panel.
+- **Unlocated records** (Emma of Normandy, the Investiture Controversy, the East–West Schism) take full part through
+  the panel, timeline and search.
+- **Century-dated items** (audit D1): list/panel by default; an optional "dated to century" layer shows them faintly
+  with uncertainty styling.
+- Kinds are visually distinct: kinship · marriage · participation · office · affiliation · chronology ·
+  claim · interpretation. Tier badges on every link; "evidence missing" is shown, never papered over.
 
-- Physical base: Natural Earth, dark style, no modern labels.
-- **Border snapshot:** the latest snapshot ≤ t, **always labelled** "Borders: c. 1400 · Timeline: 1453", described as
-  approximate context. Changes happen as a visible step. Stage 1 uses the 900 and 1000 snapshots (at most ~100 years
-  stale). Known gaps for later stages: 400→500 and 1400→1492. Polity-ID mapping is later work.
-- Markers: deck.gl `ScatterplotLayer`. Arcs: `ArcLayer`, for the selected event's bounded neighbours only.
+## 9. Fetching workflow (balance of curation and automation)
 
-## 8. Visibility selection (pure, deterministic)
+Curation supplies **selection, missing connections, interpretation, corrections**. Automation supplies
+**identities, claims, references, repeatable enrichment, cross-checks**.
 
-Input state `S = (t, viewport, zoom, filters, mode, selection, sequence)`.
+1. **Curate seeds** per story (`pipeline/curated/stories/*.yaml`): English Wikipedia titles resolved to QIDs at build
+   time; role, significance, source; path and exits.
+2. **Re-extract** relationships from cached entity JSON (the cache is indexed by QID and `lastrevid`, so batch
+   composition never forces a re-download).
+3. **Fetch missing immediate neighbours only** — entity batches of 50 and small reverse queries scoped to selected IDs
+   (`VALUES ?seed {…} ?x wdt:P710|wdt:P607|wdt:P40|wdt:P26 ?seed`). No global discovery.
+4. **Resolve metadata** (labels, office jurisdictions, place coordinates) — does not consume the expansion step.
+5. **Expand a second step only for a named gap** declared in the story file.
+6. **Cross-check** (§10), **normalise** (§6), **generate** the shared dataset and per-story views + reports.
 
-1. **Eligibility:** the category is enabled; `t ≥ rt(start)` (reveal rule, §4.3); the event is located.
-2. **Opacity:** full while revealed and active; after `f`, it fades to 0 over `window = lerp(10, 80, displayPriority)` 🟡 years.
-   In *Accumulated history* mode the floor is 0.12 instead of 0.
-3. **Candidates:** the eligible events that are in the viewport with **opacity > 0**. Everything else is excluded before ranking.
-4. **Rank + budget:** sort by `(displayPriority desc, id asc)` and keep the top N (🟡 150, scaled by zoom). The
-   remainder make up the "+N more here" list.
-5. **Context exceptions** (applied after the budget, not counted against it):
-   - The selected event is always drawn, even if faded or out of budget.
-   - Its bounded neighbours (§6, ≤ K per type): past ones are drawn with a "context" outline. **Future ones are panel-only**
-     with a "jump to" action, and appear on the map only after an explicit time jump. Neighbours in **disabled
-     categories** are drawn dashed and greyed, and labelled "filtered".
-   - An active **sequence** draws its steps with `rt(start) ≤ t` and the connecting path.
+Discovery rules learned in the audit remain for later broad stages: SPARQL for discovery only; entity JSON for
+details; validate before caching; split batches/windows on timeouts; direct P31 for huge classes; maxlag handling.
 
-Unlocated events are never drawn. They appear in the event list, search and panels ("location unknown").
+## 10. Verification tiers and cross-checks
 
-**Determinism invariant (tested):** for the same dataset and `S`, the rendered set and styles are identical
-regardless of how `S` was reached. There's no accumulated render state.
+The user decides editorial emphasis and genuinely ambiguous cases; the pipeline does the fact-checking legwork.
 
-**displayPriority** 🟡 = the within-category sitelink rank blended with a type prior, plus curated overrides. It
-measures prominence only; uncertainty never lowers it.
+| Check | Examples | Failure → |
+|---|---|---|
+| **Logical constraints** (JD) | parent born ≥ 12 years before child, alive (or ≤ 1 year dead for fathers) at birth; marriage within both lifetimes; participant alive at event; tenure within lifetime | `conflict` |
+| **Agreement within Wikidata** | P26 on both spouses; P22/P25 matching the parent's P40 | disagreement → `conflict` |
+| **Reference quality** | P248 stated-in / P854 URL = strong; P143 imported-from-Wikimedia only = weak; none | lowers tier |
+| **Independent corroboration** | English Wikipedia article of one endpoint links to the other's article (MediaWiki `prop=links`) | lowers tier |
 
-**Uncertainty styling:**
-- Precision coarser than a year, or `circa`: a hollow marker.
-- `region` location: a soft, larger marker.
-- `needsReview`: a small "?" badge.
-- openSpan: an "end unknown" tail on the timeline.
-- On selection, the timeline shows the possible interval as an uncertainty bar, separate from any duration span.
+| Tier | Rule | Publication |
+|---|---|---|
+| `verified` | logic OK ∧ (agreement ∨ strong reference) ∧ corroborated | auto-publish |
+| `supported` | logic OK ∧ at least one of agreement / reference / corroboration | publish, marked "single-source" |
+| `review` | logic OK, nothing supports it — or overlap unknown | review list |
+| `conflict` | constraint failed or sources disagree | shown as conflict; review list |
+| `curated` | from `connections.yaml` with its own sources | as reviewed |
 
-## 9. Playback and performance
+Claim and interpretation layers are never auto-published. The review list shown to the user holds only `review` /
+`conflict` items **on a story path** plus editorial choices; the report states every rule applied.
 
-- The Clock is driven by `requestAnimationFrame`: `t += speed × Δwall`. Opacity is recomputed every frame (the
-  prototype has ≤ 300 events in M2).
-- The expensive ranking step (step 4) may be throttled (🟡 ≤ 10 Hz) **during play only**. A **seek, pause, filter
-  change or viewport end evaluates the full selection immediately**, so the invariant holds at every settled state.
-- Benchmarks in M5: frame time at 1/5/25 y/s with borders on and off, for 300 / 10k / full data. GPU filtering is
-  considered only if the profile shows CPU attribute generation dominating.
+### 10.4 Determinism
+v0.4 invariant, extended: for the same dataset and state `(t, viewport, zoom, filters, mode, selection, story, path
+step)`, the rendered set and styles are identical regardless of navigation history.
 
-## 10. Acceptance checks
+## 11. Success criteria (the walkthrough gate)
 
-- [ ] Birth and death for one person both exist with distinct IDs.
-- [ ] Reordering statements or adding an alternative claim changes no existing ID; curated links still resolve.
-- [ ] A removed source statement yields `sourceMissing`, not a renumbered ID.
-- [ ] Conflicting non-overlapping claims produce `needsReview` and a queue entry, never two events.
-- [ ] Seek-to-X ≡ play-to-X ≡ play-past-and-seek-back-to-X (property test over random X, selections and sequences).
-- [ ] 12th-century events have the bounds `[1101, 1201)`; Julian and Gregorian dates compare correctly on the JD axis.
-- [ ] Window edges: events anywhere in the last window year (Stage 1: 1099), and spans already underway at the window
-      start (Stage 1: 901), are included; changing only `scope.yaml` moves the window without code changes.
-- [ ] Budget: faded (opacity 0) or off-screen events never take a slot; equal priorities break ties by ID.
-- [ ] Selecting a battle in a 1,000-battle war draws ≤ K sibling arcs; the dataset stores 1,000 memberships, not pairs.
-- [ ] `eventsInvolving(polity)` finds battles with that polity as a participant.
-- [ ] Every referenced entity resolves; out-of-scope targets are external refs with reasons; the build fails on a dangling ref.
-- [ ] Unlocated events without region evidence are excluded with a reason; those with evidence can be found in the list.
-- [ ] Border UI always shows the snapshot date next to the timeline date.
-- [ ] Rebuilding from the same commit and cache produces a byte-identical dataset.
-- [ ] In informal testing, users can explain what a connection means.
+Before Stage 1 planning, the pilots and walkthrough must show:
 
-## 11. Staged development
+- [ ] A reader follows a meaningful path **event → person → event/institution**, with onward exits beyond the story.
+- [ ] One path **crosses between the two pilots through shared records**.
+- [ ] Each important connection has a **readable explanation and inspectable evidence**.
+- [ ] **Kinship, participation, chronology and interpretation** are visibly distinguishable.
+- [ ] An **unlocated item** participates fully in exploration.
+- [ ] **Missing evidence stays visible** rather than being replaced by an inferred link.
+- [ ] A small **interactive walkthrough** demonstrates map selection, timeline navigation and relationship
+      exploration together.
 
-Each stage runs the same loop: **build → test (look and function) → revise architecture or data if needed → gate →
-next stage.** A stage passes its gate only when its acceptance checks (§10) pass and you're satisfied with the look and
-behaviour. Findings are recorded in `docs/audit/stage-N-review.md`, and any spec change bumps this document's version.
+Metrics reported per story: anchors with complete explainable paths; people linked to an admitted event, office,
+institution or work; cross-category links; links with evidence and temporal context; items admitted without
+coordinates; tiers distribution; review-list size.
 
-### Stage 1: MVP, window 901–1099 CE, all five categories
-1. **Data feasibility audit** (stratified): about 40–60 items per category across 4 half-century strata × 6 subregions,
-   plus deliberate hard cases (no location, coarse dates, conflicting claims, no relations). Output:
-   `docs/audit/feasibility.md` with a go / adjust / drop recommendation per category, and the in-window counts.
-2. **Connected prototype:** about 100–300 events (auto-ingested and reviewed, or curated, depending on the audit counts),
-   3–5 sequences (🟡 Lechfeld → Otto I 955–962 · the East–West Schism 1054 · Stamford Bridge → Hastings 1066 ·
-   Manzikert 1071 · the First Crusade 1096–1099). It includes playback and scrubbing, selection with bounded arcs and explanations,
-   uncertainty display, a labelled borders toggle (900/1000 snapshots), and a **searchable event list**. Record load and parse metrics.
-3. **Look and interaction test:** does it look as intended? Can users follow a sequence, explain a connection,
-   recover a faded event, and tell the event date from the border date?
-4. **Revise:** apply the changes to the architecture, data model and entry rules → gate.
+## 12. Next after the gate
 
-### Stage 2: Scale the data within the window
-Broad automated ingestion for 901–1099 (registry, review queue, overrides, validation report, reproducible
-builds), density and budget tuning, and a timeline histogram. Test → revise → gate.
-
-### Stage 3: Scale the time range
-Widen `scope.yaml` step by step (e.g. 801–1200 → 476–1453). Benchmarks (§9), the chunking decision (§6),
-the border-gap handling for 400→500 and 1400→1492, and the final aesthetic. Test → revise → gate.
-
-### Later
-Wider range (0 CE onward), other regions, other languages, public deployment.
-
-## 12. Licensing and provenance
-
-Recorded per source in `manifest.json` from the first build: Wikidata (CC0), Natural Earth (public domain),
-historical-basemaps (commit and licence, to be confirmed before any public release), Wikipedia (links only).
+Stage 1 planning on this branch (writing-plans); Bayeux Tapestry culture extension (creation, depiction,
+patronage, interpretation treated separately); science pilot; historical-basemaps licence check (GPL-3.0 vs the
+repo's CC0) before bundling borders.
