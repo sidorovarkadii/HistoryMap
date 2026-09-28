@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HistoryMap — connected pilot</title>
+  </head>
+  <body>
+    <div id="app">
+      <header id="topbar">
+        <div class="brand">HistoryMap <span class="muted">pilot</span></div>
+        <div id="story-tabs"></div>
+        <input id="search" type="search" placeholder="Search people, events, places…" autocomplete="off" />
+        <div id="search-results" hidden></div>
+      </header>
+      <main>
+        <div id="map"></div>
+        <aside id="panel" aria-live="polite"></aside>
+      </main>
+      <footer id="timeline">
+        <button id="play" aria-label="Play">▶</button>
+        <select id="speed" aria-label="Speed">
+          <option value="2">2 y/s</option>
+          <option value="5" selected>5 y/s</option>
+          <option value="15">15 y/s</option>
+        </select>
+        <div id="track">
+          <div id="ticks"></div>
+          <input id="scrub" type="range" min="900" max="1100" step="0.05" value="1040" aria-label="Year" />
+        </div>
+        <div id="year">1040</div>
+      </footer>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
