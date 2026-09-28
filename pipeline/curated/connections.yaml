@@ -1,0 +1,119 @@
+# Curated connections — links Wikidata does not hold, or holds too thinly to explain.
+# Each record: endpoints (English Wikipedia titles), kind, type, layer (relationship | claim | interpretation),
+# explanation (readable), sources (URLs that support THIS link), uncertainty (competing views), status.
+# Curated links are never auto-tiered; they are published only with status: accepted.
+
+connections:
+  - id: alexander2-banner-william
+    from: "Pope Alexander II"
+    to: "William the Conqueror"
+    kind: claim
+    type: sanctioned
+    layer: claim
+    time: {start: "1066"}
+    explanation: >-
+      According to William of Poitiers, Pope Alexander II sent William a papal banner before the 1066 invasion,
+      signifying the pope's blessing of the campaign.
+    sources:
+      - "https://en.wikipedia.org/wiki/Pope_Alexander_II"
+    uncertainty: >-
+      The account comes from William of Poitiers, William's own chaplain and a partisan source; how explicitly the
+      papacy endorsed the invasion is debated.
+    status: accepted
+
+  # The five links below are absent from Wikidata (pilot build 2026-09-28, known-link checks: missing).
+  - id: william1-aquitaine-founded-cluny
+    from: "William I, Duke of Aquitaine"
+    to: "Cluny Abbey"
+    kind: founding
+    type: founded
+    layer: relationship
+    time: {start: "910"}
+    explanation: >-
+      William I of Aquitaine founded Cluny in 910, stipulating that it be free from local lay and ecclesiastical
+      authorities and subject only to the pope.
+    sources:
+      - "https://en.wikipedia.org/wiki/Cluny_Abbey"
+    status: accepted
+
+  - id: urban2-convened-clermont
+    from: "Pope Urban II"
+    to: "Council of Clermont"
+    kind: participation
+    type: participatedIn
+    layer: relationship
+    time: {start: "1095"}
+    explanation: >-
+      Urban II convened the Council of Clermont in November 1095; his speech of 27 November included the call to
+      arms that resulted in the First Crusade.
+    sources:
+      - "https://en.wikipedia.org/wiki/Council_of_Clermont"
+    status: accepted
+
+  - id: gregory7-canossa
+    from: "Pope Gregory VII"
+    to: "Road to Canossa"
+    kind: participation
+    type: participatedIn
+    layer: relationship
+    time: {start: "1077"}
+    explanation: >-
+      Gregory VII was staying at Canossa when Henry IV arrived in January 1077, and absolved him on 28 January.
+    sources:
+      - "https://en.wikipedia.org/wiki/Road_to_Canossa"
+    status: accepted
+
+  - id: henry4-canossa
+    from: "Henry IV, Holy Roman Emperor"
+    to: "Road to Canossa"
+    kind: participation
+    type: participatedIn
+    layer: relationship
+    time: {start: "1077"}
+    explanation: >-
+      Henry IV travelled to Canossa, reaching it on 25 January 1077, to seek the lifting of his excommunication.
+    sources:
+      - "https://en.wikipedia.org/wiki/Road_to_Canossa"
+    status: accepted
+
+  - id: matilda-canossa
+    from: "Matilda of Tuscany"
+    to: "Road to Canossa"
+    kind: participation
+    type: participatedIn
+    layer: relationship
+    time: {start: "1077"}
+    explanation: >-
+      The pope was staying at Canossa as Matilda's guest; she is also shown as a mediator between Henry and Gregory.
+    sources:
+      - "https://en.wikipedia.org/wiki/Road_to_Canossa"
+    status: accepted
+
+  - id: hugh-cluny-canossa
+    from: "Hugh of Cluny"
+    to: "Road to Canossa"
+    kind: participation
+    type: participatedIn
+    layer: relationship
+    time: {start: "1077"}
+    explanation: >-
+      A medieval manuscript illustration shows Henry IV asking Matilda and Abbot Hugh of Cluny to intervene in his
+      dispute with the pope.
+    sources:
+      - "https://en.wikipedia.org/wiki/Road_to_Canossa"
+    uncertainty: >-
+      The cited source describes Hugh's mediating role through a manuscript illustration; the extent of his part in
+      the negotiations is not detailed there.
+    status: accepted
+
+  - id: urban2-prior-cluny
+    from: "Pope Urban II"
+    to: "Cluny Abbey"
+    kind: affiliation
+    type: memberOf
+    layer: relationship
+    explanation: >-
+      Before becoming pope, Odo of Châtillon (Urban II) was prior of the abbey of Cluny.
+    sources:
+      - "https://en.wikipedia.org/wiki/Pope_Urban_II"
+    status: accepted

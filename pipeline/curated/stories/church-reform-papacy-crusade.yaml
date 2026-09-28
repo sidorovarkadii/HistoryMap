@@ -1,0 +1,58 @@
+# Story: church reform, papal authority, and the First Crusade.
+# A question to investigate — not a predetermined causal chain. Each connection is labelled and sourced on its own.
+id: church-reform-papacy-crusade
+title: Church reform, papal authority, and the First Crusade
+question: >-
+  How were monastic reform, the reforming papacy, its conflict with the emperor, and the call to crusade connected —
+  through people, institutions and councils — and where do the connections run out or remain disputed?
+window: {from: "0901-01-01", to_exclusive: "1100-01-01"}
+
+seeds:
+  - {title: "Cluny Abbey", role: anchor, significance: "Benedictine abbey founded 910; centre of a monastic reform movement.", source: "https://en.wikipedia.org/wiki/Cluny_Abbey"}
+  - {title: "William I, Duke of Aquitaine", role: context, significance: "Founded Cluny in 910 and placed it under papal protection.", source: "https://en.wikipedia.org/wiki/William_I,_Duke_of_Aquitaine"}
+  - {title: "Hugh of Cluny", role: anchor, significance: "Abbot of Cluny 1049–1109; godfather of Henry IV and mediator at Canossa.", source: "https://en.wikipedia.org/wiki/Hugh_of_Cluny"}
+  - {title: "Pope Leo IX", role: anchor, significance: "Reforming pope 1049–1054; his legates' excommunication of the patriarch is dated to the 1054 schism.", source: "https://en.wikipedia.org/wiki/Pope_Leo_IX"}
+  - {title: "East–West Schism", role: anchor, significance: "Break between the churches of Rome and Constantinople, conventionally dated 1054.", source: "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"}
+  - {title: "Pope Alexander II", role: anchor, significance: "Reform pope 1061–1073; approved William of Normandy's 1066 invasion.", source: "https://en.wikipedia.org/wiki/Pope_Alexander_II"}
+  - {title: "Pope Gregory VII", role: anchor, significance: "Pope 1073–1085; asserted papal authority over the emperor in the Investiture Controversy.", source: "https://en.wikipedia.org/wiki/Pope_Gregory_VII"}
+  - {title: "Henry IV, Holy Roman Emperor", role: anchor, significance: "King and emperor who opposed Gregory VII; did penance at Canossa in 1077.", source: "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"}
+  - {title: "Matilda of Tuscany", role: anchor, significance: "Margravine allied with the reform papacy; hosted the meeting at Canossa.", source: "https://en.wikipedia.org/wiki/Matilda_of_Tuscany"}
+  - {title: "Investiture Controversy", role: anchor, significance: "Conflict between papacy and empire over appointing bishops.", source: "https://en.wikipedia.org/wiki/Investiture_Controversy"}
+  # Curated correction: Wikidata types this item as an idiom ("Redewendung") with no usable date or place.
+  - {title: "Road to Canossa", role: anchor, significance: "Henry IV's penance before Gregory VII at Canossa, January 1077.", source: "https://en.wikipedia.org/wiki/Road_to_Canossa",
+     override: {kind: event, eventType: "penance and reconciliation", date: "1077-01", place: "Canossa Castle", source: "https://en.wikipedia.org/wiki/Road_to_Canossa"}}
+  - {title: "Pope Urban II", role: anchor, significance: "Former prior of Cluny; pope 1088–1099 who preached the First Crusade.", source: "https://en.wikipedia.org/wiki/Pope_Urban_II"}
+  # Curated correction: no location in Wikidata; the council met at Clermont (today Clermont-Ferrand).
+  - {title: "Council of Clermont", role: anchor, significance: "Council of 1095 at which Urban II called for the crusade.", source: "https://en.wikipedia.org/wiki/Council_of_Clermont",
+     override: {place: "Clermont-Ferrand", source: "https://en.wikipedia.org/wiki/Council_of_Clermont"}}
+  - {title: "First Crusade", role: anchor, significance: "Military expedition 1096–1099 ending in the capture of Jerusalem.", source: "https://en.wikipedia.org/wiki/First_Crusade"}
+  - {title: "Robert Guiscard", role: context, significance: "Norman ruler in southern Italy; papal vassal who rescued Gregory VII in 1084.", source: "https://en.wikipedia.org/wiki/Robert_Guiscard"}
+
+path:
+  - {title: "Cluny Abbey", note: "A reforming abbey founded outside lay control."}
+  - {title: "Hugh of Cluny", note: "Its long-serving abbot, close to both popes and emperor."}
+  - {title: "Pope Leo IX", note: "Reform reaches the papacy."}
+  - {title: "East–West Schism", note: "Papal claims meet Constantinople's."}
+  - {title: "Pope Gregory VII", note: "The reform pope who confronts the emperor."}
+  - {title: "Investiture Controversy", note: "Who appoints bishops?"}
+  - {title: "Road to Canossa", note: "Henry IV's penance, 1077."}
+  - {title: "Pope Urban II", note: "A Cluniac monk becomes pope."}
+  - {title: "Council of Clermont", note: "The call of 1095."}
+  - {title: "First Crusade", note: "The expedition — with its own onward consequences."}
+
+exits:
+  - {title: "Alexios I Komnenos", note: "The Byzantine emperor whose appeal preceded Clermont."}
+  - {title: "Rhineland massacres", note: "Attacks on Jewish communities by crusading bands in 1096."}
+  - {title: "Kingdom of Jerusalem", note: "The crusader state founded in 1099."}
+  - {title: "Sack of Rome (1084)", note: "Robert Guiscard's rescue of Gregory VII."}
+  - {title: "William the Conqueror", note: "Crosses into the 1066 story through Pope Alexander II."}
+
+gaps:
+  - {from: "Pope Urban II", to: "Cluny Abbey", note: "Urban II was a monk and prior of Cluny before becoming pope."}
+
+expect:
+  - {from: "William I, Duke of Aquitaine", type: founded, to: "Cluny Abbey"}
+  - {from: "Pope Urban II", type: participatedIn, to: "Council of Clermont"}
+  - {from: "Pope Gregory VII", type: participatedIn, to: "Road to Canossa"}
+  - {from: "Henry IV, Holy Roman Emperor", type: participatedIn, to: "Road to Canossa"}
+  - {from: "Matilda of Tuscany", type: participatedIn, to: "Road to Canossa"}

@@ -1,0 +1,63 @@
+# Story: the 1066 succession crisis.
+# Seeds are English Wikipedia titles, resolved to Wikidata QIDs at build time (redirects followed).
+# role: anchor | context. `significance` = why it matters to this story; `source` supports that sentence.
+id: 1066-succession
+title: The 1066 succession crisis
+question: >-
+  How did marriages and family ties across England, Normandy, Denmark and Norway produce three rival claims to the
+  English throne in 1066 — and how were they settled?
+window: {from: "1000-01-01", to_exclusive: "1100-01-01"}
+
+seeds:
+  - {title: "Emma of Normandy", role: anchor, significance: "Queen of two English kings (Æthelred, Cnut) and mother of two more (Harthacnut, Edward); her family ties link England, Normandy and Denmark.", source: "https://en.wikipedia.org/wiki/Emma_of_Normandy"}
+  - {title: "Æthelred the Unready", role: context, significance: "Emma's first husband and Edward the Confessor's father; his reign ended in the Danish conquest of England.", source: "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready"}
+  - {title: "Cnut", role: anchor, significance: "Danish king of England, Denmark and Norway; Emma's second husband.", source: "https://en.wikipedia.org/wiki/Cnut"}
+  - {title: "Harthacnut", role: context, significance: "Son of Cnut and Emma; king of England 1040–1042, succeeded by his half-brother Edward.", source: "https://en.wikipedia.org/wiki/Harthacnut"}
+  - {title: "Edward the Confessor", role: anchor, significance: "King of England 1042–1066; his childless death opened the succession crisis.", source: "https://en.wikipedia.org/wiki/Edward_the_Confessor"}
+  - {title: "Edith of Wessex", role: anchor, significance: "Edward the Confessor's queen and a daughter of Earl Godwin, tying the royal house to the Godwins.", source: "https://en.wikipedia.org/wiki/Edith_of_Wessex"}
+  - {title: "Godwin, Earl of Wessex", role: context, significance: "Most powerful English earl under Cnut and Edward; father of Harold, Tostig and Queen Edith.", source: "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex"}
+  - {title: "Harold Godwinson", role: anchor, significance: "Crowned king in January 1066; fought at Stamford Bridge and was killed at Hastings.", source: "https://en.wikipedia.org/wiki/Harold_Godwinson"}
+  - {title: "Tostig Godwinson", role: anchor, significance: "Harold's exiled brother who joined Harald Hardrada's invasion.", source: "https://en.wikipedia.org/wiki/Tostig_Godwinson"}
+  - {title: "Harald Hardrada", role: anchor, significance: "King of Norway who claimed the English throne and invaded in 1066.", source: "https://en.wikipedia.org/wiki/Harald_Hardrada"}
+  - {title: "William the Conqueror", role: anchor, significance: "Duke of Normandy, Emma's great-nephew, who claimed the throne and won at Hastings.", source: "https://en.wikipedia.org/wiki/William_the_Conqueror"}
+  - {title: "Matilda of Flanders", role: context, significance: "William's wife; regent of Normandy during the 1066 campaign.", source: "https://en.wikipedia.org/wiki/Matilda_of_Flanders"}
+  - {title: "Edgar Ætheling", role: anchor, significance: "Last male of the House of Wessex; proclaimed king after Hastings but never crowned.", source: "https://en.wikipedia.org/wiki/Edgar_%C3%86theling"}
+  - {title: "Battle of Fulford", role: anchor, significance: "First battle of 1066: Hardrada and Tostig defeat the northern earls.", source: "https://en.wikipedia.org/wiki/Battle_of_Fulford"}
+  - {title: "Battle of Stamford Bridge", role: anchor, significance: "Harold defeats Hardrada and Tostig, both killed.", source: "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"}
+  - {title: "Battle of Hastings", role: anchor, significance: "William defeats Harold, who is killed.", source: "https://en.wikipedia.org/wiki/Battle_of_Hastings"}
+  - {title: "Norman Conquest", role: anchor, significance: "The conquest of England that followed Hastings.", source: "https://en.wikipedia.org/wiki/Norman_Conquest"}
+
+# Editorial reading order — NOT a historical relationship.
+path:
+  - {title: "Emma of Normandy", note: "Start with the queen whose marriages connect the claimants."}
+  - {title: "Edward the Confessor", note: "Her son; his death without heirs opens the crisis."}
+  - {title: "Harold Godwinson", note: "The Godwin claimant, crowned on the day of Edward's burial."}
+  - {title: "Harald Hardrada", note: "The Norwegian claimant, invading with Harold's brother Tostig."}
+  - {title: "Battle of Fulford", note: "The invaders win the first battle."}
+  - {title: "Battle of Stamford Bridge", note: "Harold marches north and defeats them."}
+  - {title: "William the Conqueror", note: "The Norman claimant lands in the south."}
+  - {title: "Battle of Hastings", note: "Harold is killed; the Norman claim prevails."}
+  - {title: "Norman Conquest", note: "What followed."}
+
+# "Continue exploring" — connected records beyond this narrative.
+exits:
+  - {title: "Harrying of the North", note: "William's campaign against northern resistance, 1069–70."}
+  - {title: "Domesday Book", note: "The 1086 survey of the conquered kingdom."}
+  - {title: "Pope Alexander II", note: "Reform pope of the other pilot story — see the curated banner link."}
+
+# Named gaps: a second expansion step is allowed only to connect these pairs.
+gaps:
+  - {from: "William the Conqueror", to: "Emma of Normandy", note: "William's claim ran through Emma's Norman family."}
+
+# Known-link checks — reported as found / missing / different, never assumed.
+expect:
+  - {from: "Emma of Normandy", type: spouseOf, to: "Æthelred the Unready"}
+  - {from: "Emma of Normandy", type: spouseOf, to: "Cnut"}
+  - {from: "Emma of Normandy", type: parent, to: "Edward the Confessor"}
+  - {from: "Emma of Normandy", type: parent, to: "Harthacnut"}
+  - {from: "Edith of Wessex", type: spouseOf, to: "Edward the Confessor"}
+  - {from: "Godwin, Earl of Wessex", type: parent, to: "Harold Godwinson"}
+  - {from: "Godwin, Earl of Wessex", type: parent, to: "Tostig Godwinson"}
+  - {from: "Harold Godwinson", type: participatedIn, to: "Battle of Hastings"}
+  - {from: "Harold Godwinson", type: participatedIn, to: "Battle of Stamford Bridge"}
+  - {from: "William the Conqueror", type: spouseOf, to: "Matilda of Flanders"}

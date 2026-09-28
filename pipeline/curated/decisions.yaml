@@ -1,0 +1,4 @@
+# Review decisions, keyed by relationship ID (see docs/pilots/*.md review lists).
+# Preserved across rebuilds: a decision overrides the automatic tier/status for that link.
+#   <relationship id>: {decision: accept | reject, reason: "...", date: "YYYY-MM-DD"}
+decisions: {}

@@ -1,0 +1,3838 @@
+{
+ "Q100900836:birth": {
+  "entity": "Q100900836",
+  "eventType": "birth",
+  "statements": [
+   "Q100900836$2f7688e6-4563-0e9f-03a8-5928ac4de2c4"
+  ]
+ },
+ "Q100900836:death": {
+  "entity": "Q100900836",
+  "eventType": "death",
+  "statements": [
+   "Q100900836$0197eaa8-4ac5-1914-bb71-044b3febf283"
+  ]
+ },
+ "Q101003176:birth": {
+  "entity": "Q101003176",
+  "eventType": "birth",
+  "statements": [
+   "Q101003176$1dc5e77c-40e1-45ba-ecc5-c548663edf6d"
+  ]
+ },
+ "Q101003176:death": {
+  "entity": "Q101003176",
+  "eventType": "death",
+  "statements": [
+   "Q101003176$4dd052ce-4490-b9db-3eb9-7cf635c66688"
+  ]
+ },
+ "Q101384:birth": {
+  "entity": "Q101384",
+  "eventType": "birth",
+  "statements": [
+   "Q101384$EBC5A3AC-373C-4A33-9EA7-1D42402FC005"
+  ]
+ },
+ "Q101384:death": {
+  "entity": "Q101384",
+  "eventType": "death",
+  "statements": [
+   "Q101384$4D20345B-B882-4931-B02C-F744DCF4AE86"
+  ]
+ },
+ "Q102005:birth": {
+  "entity": "Q102005",
+  "eventType": "birth",
+  "statements": [
+   "Q102005$D848BBAB-0753-4C95-9526-533026F87957"
+  ]
+ },
+ "Q102005:death": {
+  "entity": "Q102005",
+  "eventType": "death",
+  "statements": [
+   "q102005$94EEB9F7-0395-4FB5-8650-2FE734564B2A"
+  ]
+ },
+ "Q103565819:birth": {
+  "entity": "Q103565819",
+  "eventType": "birth",
+  "statements": [
+   "Q103565819$4719EF89-2C95-44AB-8585-B9E5BF22F367"
+  ]
+ },
+ "Q103565819:death": {
+  "entity": "Q103565819",
+  "eventType": "death",
+  "statements": [
+   "Q103565819$BB8BAC7F-6BC1-4642-BE95-C4D9107804A2"
+  ]
+ },
+ "Q1035742:founded": {
+  "entity": "Q1035742",
+  "eventType": "founded",
+  "statements": [
+   "Q1035742$26fed20d-4172-c14b-3373-37fe28d7af17"
+  ]
+ },
+ "Q104866179:synod": {
+  "entity": "Q104866179",
+  "eventType": "synod",
+  "statements": [
+   "Q104866179$57d8c8e6-4007-18f6-7efb-b19c8e957869"
+  ]
+ },
+ "Q105616523:battle": {
+  "entity": "Q105616523",
+  "eventType": "battle",
+  "statements": [
+   "Q105616523$fc203896-460a-17c6-41c7-00e75961281a"
+  ]
+ },
+ "Q1113659:battle": {
+  "entity": "Q1113659",
+  "eventType": "battle",
+  "statements": [
+   "Q1113659$a341c808-435b-ec1d-f9bf-ab6f2339ae8e"
+  ]
+ },
+ "Q111953993:invasion": {
+  "entity": "Q111953993",
+  "eventType": "invasion",
+  "statements": [
+   "Q111953993$603adbe5-4dc5-6298-06a8-403a3aa4ec2c"
+  ]
+ },
+ "Q112243839:siege": {
+  "entity": "Q112243839",
+  "eventType": "siege",
+  "statements": [
+   "Q112243839$e47d1746-479b-f09d-a237-317dfdb5574c"
+  ]
+ },
+ "Q116005812:birth": {
+  "entity": "Q116005812",
+  "eventType": "birth",
+  "statements": [
+   "Q116005812$705DCA96-91A9-472F-B85C-8BC2FEC8C504"
+  ]
+ },
+ "Q116005812:death": {
+  "entity": "Q116005812",
+  "eventType": "death",
+  "statements": [
+   "Q116005812$750981ED-0D18-472A-A426-73E71E4E55C1"
+  ]
+ },
+ "Q11688167:battle": {
+  "entity": "Q11688167",
+  "eventType": "battle",
+  "statements": [
+   "Q11688167$ccad51f7-4196-66c7-102d-4202157bf16d"
+  ]
+ },
+ "Q116983467:birth": {
+  "entity": "Q116983467",
+  "eventType": "birth",
+  "statements": [
+   "Q116983467$A866763A-8994-440B-A0D9-533D60207E34"
+  ]
+ },
+ "Q116983467:death": {
+  "entity": "Q116983467",
+  "eventType": "death",
+  "statements": [
+   "Q116983467$2E99E5CE-A7FF-4B36-8895-BD0572F62DF2"
+  ]
+ },
+ "Q117029100:birth": {
+  "entity": "Q117029100",
+  "eventType": "birth",
+  "statements": [
+   "Q117029100$9feca31a-4022-6a5a-c9fd-3cc18bd2215d"
+  ]
+ },
+ "Q117029100:death": {
+  "entity": "Q117029100",
+  "eventType": "death",
+  "statements": [
+   "Q117029100$d64f3b1e-4bca-8e15-d541-580223b0c765"
+  ]
+ },
+ "Q117647:birth": {
+  "entity": "Q117647",
+  "eventType": "birth",
+  "statements": [
+   "Q117647$EDD5E15D-7300-460D-99D8-40B3487CD29F"
+  ]
+ },
+ "Q117647:death": {
+  "entity": "Q117647",
+  "eventType": "death",
+  "statements": [
+   "Q117647$CF3FE1A9-7536-4580-BA9D-8B658ED7FD6F"
+  ]
+ },
+ "Q12428:battle": {
+  "entity": "Q12428",
+  "eventType": "battle",
+  "statements": [
+   "Q12428$15129ceb-4269-37f6-6e4a-8ca368f060c2"
+  ]
+ },
+ "Q1243052:birth": {
+  "entity": "Q1243052",
+  "eventType": "birth",
+  "statements": [
+   "Q1243052$F3ABD059-AF74-4F0C-B23B-3B36696F82C2"
+  ]
+ },
+ "Q1243052:death": {
+  "entity": "Q1243052",
+  "eventType": "death",
+  "statements": [
+   "Q1243052$C195CE2C-999B-4D48-9733-646C1DD37712"
+  ]
+ },
+ "Q1244579:birth": {
+  "entity": "Q1244579",
+  "eventType": "birth",
+  "statements": [
+   "Q1244579$84B8374C-4FE8-4C79-9043-588260E13A0A"
+  ]
+ },
+ "Q1244579:death": {
+  "entity": "Q1244579",
+  "eventType": "death",
+  "statements": [
+   "Q1244579$9DCB292D-317C-4CE8-9536-EAACC5C06AD9"
+  ]
+ },
+ "Q1249624:birth": {
+  "entity": "Q1249624",
+  "eventType": "birth",
+  "statements": [
+   "Q1249624$0B973847-DF34-4889-9E49-4C8526AA3FA2"
+  ]
+ },
+ "Q1249624:death": {
+  "entity": "Q1249624",
+  "eventType": "death",
+  "statements": [
+   "Q1249624$0F58775B-0314-43BC-8BEA-9BBB3F01680C"
+  ]
+ },
+ "Q1249857:birth": {
+  "entity": "Q1249857",
+  "eventType": "birth",
+  "statements": [
+   "Q1249857$62AFECC6-B9F4-49F2-9C6C-2A0AF3D8B423"
+  ]
+ },
+ "Q1249857:death": {
+  "entity": "Q1249857",
+  "eventType": "death",
+  "statements": [
+   "Q1249857$6605481C-1479-4FCC-A6A9-8BD17A878C9F"
+  ]
+ },
+ "Q12546:series of wars": {
+  "entity": "Q12546",
+  "eventType": "series of wars",
+  "statements": [
+   "Q12546$DCDC70C6-41CA-4B96-9F55-E4E0FFF0BA8C"
+  ]
+ },
+ "Q1261974:birth": {
+  "entity": "Q1261974",
+  "eventType": "birth",
+  "statements": [
+   "Q1261974$DFB424C1-C5DF-4ED0-B3A0-9804DB094F6B"
+  ]
+ },
+ "Q1261974:death": {
+  "entity": "Q1261974",
+  "eventType": "death",
+  "statements": [
+   "Q1261974$2B6701CE-68F7-4C73-AF54-72D0BE222443"
+  ]
+ },
+ "Q130005:death": {
+  "entity": "Q130005",
+  "eventType": "death",
+  "statements": [
+   "q130005$0ddc7d7e-46c7-fd14-994b-f68b9e1ea6e2"
+  ]
+ },
+ "Q132125934:birth": {
+  "entity": "Q132125934",
+  "eventType": "birth",
+  "statements": [
+   "Q132125934$b6e2e00d-4495-9627-81a7-6216480c49ff"
+  ]
+ },
+ "Q132125934:death": {
+  "entity": "Q132125934",
+  "eventType": "death",
+  "statements": [
+   "Q132125934$0c3fc9c2-4ace-f382-cca2-08ed8a74a619"
+  ]
+ },
+ "Q132155856:birth": {
+  "entity": "Q132155856",
+  "eventType": "birth",
+  "statements": [
+   "Q132155856$4a7ffd96-4f10-5f35-5335-7b31aef296e7"
+  ]
+ },
+ "Q132155856:death": {
+  "entity": "Q132155856",
+  "eventType": "death",
+  "statements": [
+   "Q132155856$2c42234a-42c1-3737-b3c5-7bbf3bedd6b0"
+  ]
+ },
+ "Q132353152:birth": {
+  "entity": "Q132353152",
+  "eventType": "birth",
+  "statements": [
+   "Q132353152$e96967a5-4b47-05dd-a2b4-bfddb4fd4b99"
+  ]
+ },
+ "Q132353152:death": {
+  "entity": "Q132353152",
+  "eventType": "death",
+  "statements": [
+   "Q132353152$edb424f2-490d-0ced-91fa-1ebf1d948d71"
+  ]
+ },
+ "Q132444920:birth": {
+  "entity": "Q132444920",
+  "eventType": "birth",
+  "statements": [
+   "Q132444920$75a9ce5a-44b1-94b9-a9bb-b7b90d14777f"
+  ]
+ },
+ "Q132444920:death": {
+  "entity": "Q132444920",
+  "eventType": "death",
+  "statements": [
+   "Q132444920$6035c193-4b4d-5a6d-0b5a-0f1b98be79e2"
+  ]
+ },
+ "Q132531885:battle": {
+  "entity": "Q132531885",
+  "eventType": "battle",
+  "statements": [
+   "Q132531885$a859e04d-4ab7-4c5f-92d0-f354abf7bd5f"
+  ]
+ },
+ "Q133063:birth": {
+  "entity": "Q133063",
+  "eventType": "birth",
+  "statements": [
+   "q133063$ac417712-4b2a-7a4c-aa29-ebe3b9c88cb6"
+  ]
+ },
+ "Q133063:death": {
+  "entity": "Q133063",
+  "eventType": "death",
+  "statements": [
+   "Q133063$A68EC7B8-2618-4B26-BA4A-6CF22C2766AA"
+  ]
+ },
+ "Q133877646:rebellion": {
+  "entity": "Q133877646",
+  "eventType": "rebellion",
+  "statements": [
+   "Q133877646$a536e7f4-400b-ee73-09e2-b4ca33c1ff50"
+  ]
+ },
+ "Q134128:birth": {
+  "entity": "Q134128",
+  "eventType": "birth",
+  "statements": [
+   "Q134128$F22D85D5-6FBD-43E7-86D9-2AA930FB4079"
+  ]
+ },
+ "Q134128:death": {
+  "entity": "Q134128",
+  "eventType": "death",
+  "statements": [
+   "Q134128$57FF96B1-C5CA-4B27-98BC-958CB7D39E85"
+  ]
+ },
+ "Q134613406:birth": {
+  "entity": "Q134613406",
+  "eventType": "birth",
+  "statements": [
+   "Q134613406$a3f21659-4f10-1c4e-be1f-6c06b319de37"
+  ]
+ },
+ "Q134613406:death": {
+  "entity": "Q134613406",
+  "eventType": "death",
+  "statements": [
+   "Q134613406$303139d3-4ac1-6673-7278-9bf8cb5cb1f3"
+  ]
+ },
+ "Q134613593:birth": {
+  "entity": "Q134613593",
+  "eventType": "birth",
+  "statements": [
+   "Q134613593$26bc456c-42cf-1d38-db2a-7d3e4e8933c5"
+  ]
+ },
+ "Q134613593:death": {
+  "entity": "Q134613593",
+  "eventType": "death",
+  "statements": [
+   "Q134613593$95e4a01a-465f-9fa3-5991-498db85b4659"
+  ]
+ },
+ "Q134701618:birth": {
+  "entity": "Q134701618",
+  "eventType": "birth",
+  "statements": [
+   "Q134701618$ec86e5a1-4d80-3155-a014-087fecb9f044"
+  ]
+ },
+ "Q134701618:death": {
+  "entity": "Q134701618",
+  "eventType": "death",
+  "statements": [
+   "Q134701618$ad7b3858-4f0c-da4c-8593-561ba37e2a38"
+  ]
+ },
+ "Q134881230:birth": {
+  "entity": "Q134881230",
+  "eventType": "birth",
+  "statements": [
+   "Q134881230$ef99a047-4c9b-7f4c-87ba-e3211d53b384"
+  ]
+ },
+ "Q134881230:death": {
+  "entity": "Q134881230",
+  "eventType": "death",
+  "statements": [
+   "Q134881230$06e0945f-4584-1f2f-2be3-d2f586ce6555"
+  ]
+ },
+ "Q135188677:birth": {
+  "entity": "Q135188677",
+  "eventType": "birth",
+  "statements": [
+   "Q135188677$4d24f346-4965-6585-68db-a34babf798b2"
+  ]
+ },
+ "Q135188677:death": {
+  "entity": "Q135188677",
+  "eventType": "death",
+  "statements": [
+   "Q135188677$0d95f61c-49e9-2c42-7ff8-fcbce1f328a1"
+  ]
+ },
+ "Q135409762:birth": {
+  "entity": "Q135409762",
+  "eventType": "birth",
+  "statements": [
+   "Q135409762$fd179c2d-4052-dc65-e1b3-99c2579658cd"
+  ]
+ },
+ "Q135409762:death": {
+  "entity": "Q135409762",
+  "eventType": "death",
+  "statements": [
+   "Q135409762$91c1ca92-4b36-0428-51d2-c6b4048c43cb"
+  ]
+ },
+ "Q135416042:birth": {
+  "entity": "Q135416042",
+  "eventType": "birth",
+  "statements": [
+   "Q135416042$b18e09dd-4884-4398-2780-0ba84d564586"
+  ]
+ },
+ "Q135416042:death": {
+  "entity": "Q135416042",
+  "eventType": "death",
+  "statements": [
+   "Q135416042$0cbaf59d-4572-d9f9-e8a2-37f82f6feb76"
+  ]
+ },
+ "Q135518284:death": {
+  "entity": "Q135518284",
+  "eventType": "death",
+  "statements": [
+   "Q135518284$22d5c44e-4e04-964a-1609-267b218ff41f"
+  ]
+ },
+ "Q135666222:birth": {
+  "entity": "Q135666222",
+  "eventType": "birth",
+  "statements": [
+   "Q135666222$1214216b-42d8-c911-8736-869eebbc19cb"
+  ]
+ },
+ "Q135666222:death": {
+  "entity": "Q135666222",
+  "eventType": "death",
+  "statements": [
+   "Q135666222$a0177b4a-40d7-4df3-a42d-c99d9ae3d046"
+  ]
+ },
+ "Q135669738:birth": {
+  "entity": "Q135669738",
+  "eventType": "birth",
+  "statements": [
+   "Q135669738$b35869db-441a-3cd7-43f9-dce19f708661"
+  ]
+ },
+ "Q135669738:death": {
+  "entity": "Q135669738",
+  "eventType": "death",
+  "statements": [
+   "Q135669738$eaac8ace-4bd4-c66d-eb40-abf9061454b1"
+  ]
+ },
+ "Q135925961:birth": {
+  "entity": "Q135925961",
+  "eventType": "birth",
+  "statements": [
+   "Q135925961$69d91c48-4e15-23e6-c39c-13dd89000236"
+  ]
+ },
+ "Q135925961:death": {
+  "entity": "Q135925961",
+  "eventType": "death",
+  "statements": [
+   "Q135925961$0c1f41a4-4d6e-4070-1583-0e953611807e"
+  ]
+ },
+ "Q136101170:birth": {
+  "entity": "Q136101170",
+  "eventType": "birth",
+  "statements": [
+   "Q136101170$a683be22-44be-63b1-22b7-699bbd85ae9f"
+  ]
+ },
+ "Q136101170:death": {
+  "entity": "Q136101170",
+  "eventType": "death",
+  "statements": [
+   "Q136101170$c34cf73f-40e8-4652-592a-93dbe87abcd1"
+  ]
+ },
+ "Q136108672:birth": {
+  "entity": "Q136108672",
+  "eventType": "birth",
+  "statements": [
+   "Q136108672$b10dadef-40ff-9a0d-7dab-38435231d00b"
+  ]
+ },
+ "Q136108672:death": {
+  "entity": "Q136108672",
+  "eventType": "death",
+  "statements": [
+   "Q136108672$47177196-47ff-3e70-355f-3facdea27727"
+  ]
+ },
+ "Q136162015:birth": {
+  "entity": "Q136162015",
+  "eventType": "birth",
+  "statements": [
+   "Q136162015$57948870-4ca1-6ad4-7909-837d0163d875"
+  ]
+ },
+ "Q136162015:death": {
+  "entity": "Q136162015",
+  "eventType": "death",
+  "statements": [
+   "Q136162015$4da484f6-45cc-57c7-bb0b-f812bc55241f"
+  ]
+ },
+ "Q136254867:birth": {
+  "entity": "Q136254867",
+  "eventType": "birth",
+  "statements": [
+   "Q136254867$3a0f9606-474e-1d18-8ca9-ccc13583bcc6"
+  ]
+ },
+ "Q136254867:death": {
+  "entity": "Q136254867",
+  "eventType": "death",
+  "statements": [
+   "Q136254867$95151322-4a56-eece-573b-3a9f62a99082"
+  ]
+ },
+ "Q136259712:death": {
+  "entity": "Q136259712",
+  "eventType": "death",
+  "statements": [
+   "Q136259712$e4a0c8d6-4c6b-9952-c011-957f45cf488b"
+  ]
+ },
+ "Q136324881:death": {
+  "entity": "Q136324881",
+  "eventType": "death",
+  "statements": [
+   "Q136324881$b930121a-4c84-e1cf-4430-9a73d86bc568"
+  ]
+ },
+ "Q136325059:birth": {
+  "entity": "Q136325059",
+  "eventType": "birth",
+  "statements": [
+   "Q136325059$d3397a84-4151-0312-83c1-b5e88345a330"
+  ]
+ },
+ "Q136325059:death": {
+  "entity": "Q136325059",
+  "eventType": "death",
+  "statements": [
+   "Q136325059$fc5e0d81-41aa-44d4-35c2-338e14a36480"
+  ]
+ },
+ "Q136327838:birth": {
+  "entity": "Q136327838",
+  "eventType": "birth",
+  "statements": [
+   "Q136327838$0300b92e-4471-8594-328a-6c41edcef53a"
+  ]
+ },
+ "Q136327838:death": {
+  "entity": "Q136327838",
+  "eventType": "death",
+  "statements": [
+   "Q136327838$9ebddfa8-4309-e8f6-cd7a-381d00814197"
+  ]
+ },
+ "Q136333699:birth": {
+  "entity": "Q136333699",
+  "eventType": "birth",
+  "statements": [
+   "Q136333699$f86acf3d-4f1c-fa06-3514-d01650407b80"
+  ]
+ },
+ "Q136333699:death": {
+  "entity": "Q136333699",
+  "eventType": "death",
+  "statements": [
+   "Q136333699$7cc7c27b-4128-5928-b1f4-bbd5fccfbf9f"
+  ]
+ },
+ "Q136374245:birth": {
+  "entity": "Q136374245",
+  "eventType": "birth",
+  "statements": [
+   "Q136374245$0b3b860c-4755-284e-1249-a9f4923bf2d6"
+  ]
+ },
+ "Q136374245:death": {
+  "entity": "Q136374245",
+  "eventType": "death",
+  "statements": [
+   "Q136374245$51e2c5e1-4055-fa39-1459-0c1f0b585d9d"
+  ]
+ },
+ "Q136386061:birth": {
+  "entity": "Q136386061",
+  "eventType": "birth",
+  "statements": [
+   "Q136386061$0e284f63-4f2a-b902-7636-6a577eb61fa9"
+  ]
+ },
+ "Q136386061:death": {
+  "entity": "Q136386061",
+  "eventType": "death",
+  "statements": [
+   "Q136386061$1cce543b-4010-5836-7e00-95daa43ac401"
+  ]
+ },
+ "Q136409037:death": {
+  "entity": "Q136409037",
+  "eventType": "death",
+  "statements": [
+   "Q136409037$bffe19de-49c3-cff0-4af8-f04fc36bb6ff"
+  ]
+ },
+ "Q136410944:birth": {
+  "entity": "Q136410944",
+  "eventType": "birth",
+  "statements": [
+   "Q136410944$81a22c08-46c5-1123-a2c9-0e3e351e94c1"
+  ]
+ },
+ "Q136410944:death": {
+  "entity": "Q136410944",
+  "eventType": "death",
+  "statements": [
+   "Q136410944$bcdbc473-4443-54cb-71d4-002e6495056d"
+  ]
+ },
+ "Q136510764:birth": {
+  "entity": "Q136510764",
+  "eventType": "birth",
+  "statements": [
+   "Q136510764$a88071bb-4a12-796d-2655-b05802edf6c4"
+  ]
+ },
+ "Q136510764:death": {
+  "entity": "Q136510764",
+  "eventType": "death",
+  "statements": [
+   "Q136510764$942baa7d-4721-9548-348f-2098b00f5251"
+  ]
+ },
+ "Q136512941:birth": {
+  "entity": "Q136512941",
+  "eventType": "birth",
+  "statements": [
+   "Q136512941$c685ba37-44eb-3d6c-977e-264f61f83d97"
+  ]
+ },
+ "Q136512941:death": {
+  "entity": "Q136512941",
+  "eventType": "death",
+  "statements": [
+   "Q136512941$30cc749a-4b23-802d-6c85-a89039d7842d"
+  ]
+ },
+ "Q136547194:birth": {
+  "entity": "Q136547194",
+  "eventType": "birth",
+  "statements": [
+   "Q136547194$15335a2e-4e1a-a998-468f-8d00780ae670"
+  ]
+ },
+ "Q136547194:death": {
+  "entity": "Q136547194",
+  "eventType": "death",
+  "statements": [
+   "Q136547194$5b2328d2-49a6-0297-9381-f295da73e1af"
+  ]
+ },
+ "Q136723886:death": {
+  "entity": "Q136723886",
+  "eventType": "death",
+  "statements": [
+   "Q136723886$f220a8dd-4c30-63c3-71e6-f5e19d6124c4"
+  ]
+ },
+ "Q136736186:birth": {
+  "entity": "Q136736186",
+  "eventType": "birth",
+  "statements": [
+   "Q136736186$06b59b0d-4af0-0c9b-7ce2-8e37fd4171a9"
+  ]
+ },
+ "Q136736186:death": {
+  "entity": "Q136736186",
+  "eventType": "death",
+  "statements": [
+   "Q136736186$ba60d94f-44e5-db80-be28-bacf2e46b19b"
+  ]
+ },
+ "Q136756357:birth": {
+  "entity": "Q136756357",
+  "eventType": "birth",
+  "statements": [
+   "Q136756357$0f26bfc1-4dd8-7fdd-9e29-054bd1c71501"
+  ]
+ },
+ "Q136757174:birth": {
+  "entity": "Q136757174",
+  "eventType": "birth",
+  "statements": [
+   "Q136757174$29809298-4fc0-b90f-9ace-01f8c49870fb"
+  ]
+ },
+ "Q136757174:death": {
+  "entity": "Q136757174",
+  "eventType": "death",
+  "statements": [
+   "Q136757174$ae545680-42e0-899d-8d30-44ad01722988"
+  ]
+ },
+ "Q136761819:death": {
+  "entity": "Q136761819",
+  "eventType": "death",
+  "statements": [
+   "Q136761819$0b5bedd6-4328-4a02-76e7-e2ce69fa0db9"
+  ]
+ },
+ "Q136784254:death": {
+  "entity": "Q136784254",
+  "eventType": "death",
+  "statements": [
+   "Q136784254$875dd66c-462d-b72b-7b75-b438abdf63bc"
+  ]
+ },
+ "Q136813053:death": {
+  "entity": "Q136813053",
+  "eventType": "death",
+  "statements": [
+   "Q136813053$9498ff7c-4329-0288-63ac-a2a3c8372020"
+  ]
+ },
+ "Q136824521:birth": {
+  "entity": "Q136824521",
+  "eventType": "birth",
+  "statements": [
+   "Q136824521$92243d8d-4a80-da2b-3c6a-c98967f9fa0a"
+  ]
+ },
+ "Q136824521:death": {
+  "entity": "Q136824521",
+  "eventType": "death",
+  "statements": [
+   "Q136824521$e7467f90-4aef-b4a5-78a1-d13b14c02b67"
+  ]
+ },
+ "Q137104913:massacre": {
+  "entity": "Q137104913",
+  "eventType": "massacre",
+  "statements": [
+   "Q137104913$d452f724-4eaa-8fa9-2b7a-34f86c1c52eb"
+  ]
+ },
+ "Q137178964:birth": {
+  "entity": "Q137178964",
+  "eventType": "birth",
+  "statements": [
+   "Q137178964$0ccfb8c8-45b2-062e-de7a-f2bcba07849c"
+  ]
+ },
+ "Q137178964:death": {
+  "entity": "Q137178964",
+  "eventType": "death",
+  "statements": [
+   "Q137178964$222e220b-4d3a-cda1-e83a-8c982d78baee"
+  ]
+ },
+ "Q137186411:birth": {
+  "entity": "Q137186411",
+  "eventType": "birth",
+  "statements": [
+   "Q137186411$a7224a0f-406f-29bf-20af-68e1e5bd01e2"
+  ]
+ },
+ "Q137186411:death": {
+  "entity": "Q137186411",
+  "eventType": "death",
+  "statements": [
+   "Q137186411$f3aa5fbb-4bbb-d68f-d7dc-0a13745616de"
+  ]
+ },
+ "Q137187466:birth": {
+  "entity": "Q137187466",
+  "eventType": "birth",
+  "statements": [
+   "Q137187466$68229457-463c-ab68-0d9f-38998d0f36ce"
+  ]
+ },
+ "Q137187466:death": {
+  "entity": "Q137187466",
+  "eventType": "death",
+  "statements": [
+   "Q137187466$b0502470-4051-369a-df25-388a468647ee"
+  ]
+ },
+ "Q137195961:birth": {
+  "entity": "Q137195961",
+  "eventType": "birth",
+  "statements": [
+   "Q137195961$794f6cb7-4a8e-5d47-aa30-0bf7e9bad85d"
+  ]
+ },
+ "Q137195961:death": {
+  "entity": "Q137195961",
+  "eventType": "death",
+  "statements": [
+   "Q137195961$ee20bfe2-4821-a17e-6b46-6c13e6921c3d"
+  ]
+ },
+ "Q137209815:birth": {
+  "entity": "Q137209815",
+  "eventType": "birth",
+  "statements": [
+   "Q137209815$8bf5663c-4980-f94f-7959-dc9d4a417a9b"
+  ]
+ },
+ "Q137209815:death": {
+  "entity": "Q137209815",
+  "eventType": "death",
+  "statements": [
+   "Q137209815$166a35e7-4927-64bf-f7c8-a83b10a27a94"
+  ]
+ },
+ "Q137210592:birth": {
+  "entity": "Q137210592",
+  "eventType": "birth",
+  "statements": [
+   "Q137210592$61303067-42d2-451e-444b-370316e4e8a8"
+  ]
+ },
+ "Q137210592:death": {
+  "entity": "Q137210592",
+  "eventType": "death",
+  "statements": [
+   "Q137210592$7a137ceb-4edb-deac-31c5-2fc52df07583"
+  ]
+ },
+ "Q137212779:birth": {
+  "entity": "Q137212779",
+  "eventType": "birth",
+  "statements": [
+   "Q137212779$50307215-4d5e-fc40-b72e-bb22e956c156"
+  ]
+ },
+ "Q137212779:death": {
+  "entity": "Q137212779",
+  "eventType": "death",
+  "statements": [
+   "Q137212779$fbb66620-4750-4e0c-9437-1e160ab32f18"
+  ]
+ },
+ "Q137217684:death": {
+  "entity": "Q137217684",
+  "eventType": "death",
+  "statements": [
+   "Q137217684$ce7d83f1-40f8-fea4-4cf6-f685a25c5488"
+  ]
+ },
+ "Q137301126:birth": {
+  "entity": "Q137301126",
+  "eventType": "birth",
+  "statements": [
+   "Q137301126$939ce4a3-449e-3b0e-1812-3c8c51f5b40b"
+  ]
+ },
+ "Q137301126:death": {
+  "entity": "Q137301126",
+  "eventType": "death",
+  "statements": [
+   "Q137301126$aa4faa2b-4f62-2f90-534a-c655ac914650"
+  ]
+ },
+ "Q137382028:birth": {
+  "entity": "Q137382028",
+  "eventType": "birth",
+  "statements": [
+   "Q137382028$be711238-4fa4-0b8c-0fbf-4713ff518e77"
+  ]
+ },
+ "Q137382028:death": {
+  "entity": "Q137382028",
+  "eventType": "death",
+  "statements": [
+   "Q137382028$840c204f-4367-aca9-f8e6-cf5e9a85117e"
+  ]
+ },
+ "Q137385876:birth": {
+  "entity": "Q137385876",
+  "eventType": "birth",
+  "statements": [
+   "Q137385876$a38d878b-425a-207a-bef3-83115c3d6f07"
+  ]
+ },
+ "Q137385876:death": {
+  "entity": "Q137385876",
+  "eventType": "death",
+  "statements": [
+   "Q137385876$4e95ce4e-45eb-8e0b-9504-614b58793bd5"
+  ]
+ },
+ "Q137387028:birth": {
+  "entity": "Q137387028",
+  "eventType": "birth",
+  "statements": [
+   "Q137387028$b9608024-4e4f-1230-e604-97e94e58237d"
+  ]
+ },
+ "Q137387028:death": {
+  "entity": "Q137387028",
+  "eventType": "death",
+  "statements": [
+   "Q137387028$a7883ccd-4877-df3b-c4ab-1bfe3c21bb17"
+  ]
+ },
+ "Q137399356:birth": {
+  "entity": "Q137399356",
+  "eventType": "birth",
+  "statements": [
+   "Q137399356$79369a85-4202-6b48-4a97-8101ccc13e46"
+  ]
+ },
+ "Q137399356:death": {
+  "entity": "Q137399356",
+  "eventType": "death",
+  "statements": [
+   "Q137399356$ce1c3781-40d1-c2b0-549a-c8121d8417c8"
+  ]
+ },
+ "Q137427146:birth": {
+  "entity": "Q137427146",
+  "eventType": "birth",
+  "statements": [
+   "Q137427146$39036862-4ca0-9f2d-dbd4-e40e48a9ca1a"
+  ]
+ },
+ "Q137427146:death": {
+  "entity": "Q137427146",
+  "eventType": "death",
+  "statements": [
+   "Q137427146$366dfcbe-432e-15e7-b701-ac4c80f789eb"
+  ]
+ },
+ "Q137430147:birth": {
+  "entity": "Q137430147",
+  "eventType": "birth",
+  "statements": [
+   "Q137430147$04abe43c-4fcf-0ac6-567d-53a78b71b0cd"
+  ]
+ },
+ "Q137430147:death": {
+  "entity": "Q137430147",
+  "eventType": "death",
+  "statements": [
+   "Q137430147$38720f4a-47d7-af7e-7e7d-1998d0c6a79b"
+  ]
+ },
+ "Q137599277:death": {
+  "entity": "Q137599277",
+  "eventType": "death",
+  "statements": [
+   "Q137599277$32e05c7d-49dc-d834-0b0e-95d4ed3860ac"
+  ]
+ },
+ "Q137613681:birth": {
+  "entity": "Q137613681",
+  "eventType": "birth",
+  "statements": [
+   "Q137613681$d2f5fb47-48c6-b18a-d951-887c20e4cd99"
+  ]
+ },
+ "Q137613681:death": {
+  "entity": "Q137613681",
+  "eventType": "death",
+  "statements": [
+   "Q137613681$d6ddcbd1-4dd0-a4f1-16c4-6af828fd5103"
+  ]
+ },
+ "Q137667873:birth": {
+  "entity": "Q137667873",
+  "eventType": "birth",
+  "statements": [
+   "Q137667873$796acfa9-4b4e-15b8-6caf-57898bff6867"
+  ]
+ },
+ "Q137667873:death": {
+  "entity": "Q137667873",
+  "eventType": "death",
+  "statements": [
+   "Q137667873$a8efe6d5-46bb-a703-be78-4bd263511198"
+  ]
+ },
+ "Q137669752:death": {
+  "entity": "Q137669752",
+  "eventType": "death",
+  "statements": [
+   "Q137669752$24852736-4433-6b7c-83e5-41923f475327"
+  ]
+ },
+ "Q137704927:birth": {
+  "entity": "Q137704927",
+  "eventType": "birth",
+  "statements": [
+   "Q137704927$5e79ed01-4879-87db-2c36-5c5ee8da297d"
+  ]
+ },
+ "Q137704927:death": {
+  "entity": "Q137704927",
+  "eventType": "death",
+  "statements": [
+   "Q137704927$c4efde01-451a-ba6e-7a68-d434f3810b5c"
+  ]
+ },
+ "Q137735966:birth": {
+  "entity": "Q137735966",
+  "eventType": "birth",
+  "statements": [
+   "Q137735966$6c01328c-4e02-61ae-009f-c23ab7c49ec2"
+  ]
+ },
+ "Q137735966:death": {
+  "entity": "Q137735966",
+  "eventType": "death",
+  "statements": [
+   "Q137735966$6f076078-444e-a5a9-1a26-4bf6d6b690eb"
+  ]
+ },
+ "Q137765455:birth": {
+  "entity": "Q137765455",
+  "eventType": "birth",
+  "statements": [
+   "Q137765455$fbbcf047-41f0-cda8-c6e2-836d434248dd"
+  ]
+ },
+ "Q137765455:death": {
+  "entity": "Q137765455",
+  "eventType": "death",
+  "statements": [
+   "Q137765455$e9bc68ac-488c-167c-b33e-d233c76b0639"
+  ]
+ },
+ "Q137775834:birth": {
+  "entity": "Q137775834",
+  "eventType": "birth",
+  "statements": [
+   "Q137775834$0209a0a7-49c4-30e2-8f52-087904a6c984"
+  ]
+ },
+ "Q137775834:death": {
+  "entity": "Q137775834",
+  "eventType": "death",
+  "statements": [
+   "Q137775834$c4eceb7e-49b4-f255-970f-f4a50b571c88"
+  ]
+ },
+ "Q137841505:birth": {
+  "entity": "Q137841505",
+  "eventType": "birth",
+  "statements": [
+   "Q137841505$8517d84c-4056-5ebc-39e6-af1d067096b3"
+  ]
+ },
+ "Q137841505:death": {
+  "entity": "Q137841505",
+  "eventType": "death",
+  "statements": [
+   "Q137841505$bc6f1363-47b7-ba09-03a0-47f873e11187"
+  ]
+ },
+ "Q137845228:birth": {
+  "entity": "Q137845228",
+  "eventType": "birth",
+  "statements": [
+   "Q137845228$1b3d7220-4921-9b5b-75b7-976238cd233a"
+  ]
+ },
+ "Q137845228:death": {
+  "entity": "Q137845228",
+  "eventType": "death",
+  "statements": [
+   "Q137845228$bab229d4-461c-9660-5bff-c5eb297203c4"
+  ]
+ },
+ "Q137857528:birth": {
+  "entity": "Q137857528",
+  "eventType": "birth",
+  "statements": [
+   "Q137857528$dc1bdbe7-4279-9729-6100-bf3cc93d61e2"
+  ]
+ },
+ "Q137857528:death": {
+  "entity": "Q137857528",
+  "eventType": "death",
+  "statements": [
+   "Q137857528$77e37c58-4abf-9eb7-e8f7-36a4481dbe7b"
+  ]
+ },
+ "Q137858980:birth": {
+  "entity": "Q137858980",
+  "eventType": "birth",
+  "statements": [
+   "Q137858980$a789ed44-4a06-76ee-d753-f9f0afecc1fc"
+  ]
+ },
+ "Q137858980:death": {
+  "entity": "Q137858980",
+  "eventType": "death",
+  "statements": [
+   "Q137858980$70076d12-4f32-9c90-60b0-89a37b7a6845"
+  ]
+ },
+ "Q138095951:birth": {
+  "entity": "Q138095951",
+  "eventType": "birth",
+  "statements": [
+   "Q138095951$10231ebf-4f78-3e7f-fead-bc48ebadb7c8"
+  ]
+ },
+ "Q138095951:death": {
+  "entity": "Q138095951",
+  "eventType": "death",
+  "statements": [
+   "Q138095951$024b6251-4eee-b93b-7c0f-c37b34159b15"
+  ]
+ },
+ "Q1382635:birth": {
+  "entity": "Q1382635",
+  "eventType": "birth",
+  "statements": [
+   "Q1382635$23ce21f0-479a-065e-8736-e57757809d73"
+  ]
+ },
+ "Q1382635:death": {
+  "entity": "Q1382635",
+  "eventType": "death",
+  "statements": [
+   "Q1382635$C8583413-2260-401F-8986-D4C277B58F2B"
+  ]
+ },
+ "Q1386498:birth": {
+  "entity": "Q1386498",
+  "eventType": "birth",
+  "statements": [
+   "Q1386498$8c8f5d89-4cb4-78d3-851b-bd7be16f7e87"
+  ]
+ },
+ "Q1386498:death": {
+  "entity": "Q1386498",
+  "eventType": "death",
+  "statements": [
+   "Q1386498$01C3B0C3-B42B-485A-8C05-DECFC9426047"
+  ]
+ },
+ "Q138678758:birth": {
+  "entity": "Q138678758",
+  "eventType": "birth",
+  "statements": [
+   "Q138678758$b1d59f7c-45fc-8dd8-f2d4-e79986f70a5f"
+  ]
+ },
+ "Q138678758:death": {
+  "entity": "Q138678758",
+  "eventType": "death",
+  "statements": [
+   "Q138678758$bb79f8d5-4569-c486-9edb-927dc982fd6a"
+  ]
+ },
+ "Q138721903:death": {
+  "entity": "Q138721903",
+  "eventType": "death",
+  "statements": [
+   "Q138721903$83cea785-4537-44d2-7c67-6969b59de3ef"
+  ]
+ },
+ "Q138746760:death": {
+  "entity": "Q138746760",
+  "eventType": "death",
+  "statements": [
+   "Q138746760$36ab85ef-4562-867b-22ce-f2193b0c5716"
+  ]
+ },
+ "Q138771122:birth": {
+  "entity": "Q138771122",
+  "eventType": "birth",
+  "statements": [
+   "Q138771122$64165564-4c6e-9edd-041c-2820458703e1"
+  ]
+ },
+ "Q138771122:death": {
+  "entity": "Q138771122",
+  "eventType": "death",
+  "statements": [
+   "Q138771122$e011b64c-4fe9-b572-fe99-62068a09df57"
+  ]
+ },
+ "Q138841020:birth": {
+  "entity": "Q138841020",
+  "eventType": "birth",
+  "statements": [
+   "Q138841020$f4939cff-4506-efd8-51c4-b8f298842cf1"
+  ]
+ },
+ "Q138841020:death": {
+  "entity": "Q138841020",
+  "eventType": "death",
+  "statements": [
+   "Q138841020$707caa5c-405f-e482-04d4-c3a00dd3140e"
+  ]
+ },
+ "Q138843558:birth": {
+  "entity": "Q138843558",
+  "eventType": "birth",
+  "statements": [
+   "Q138843558$ddb6fadd-45da-f4e0-4b8d-7e85c7824645"
+  ]
+ },
+ "Q138843558:death": {
+  "entity": "Q138843558",
+  "eventType": "death",
+  "statements": [
+   "Q138843558$2e138f67-48bb-61e0-7b8e-24f1b3ad4b89"
+  ]
+ },
+ "Q138857150:birth": {
+  "entity": "Q138857150",
+  "eventType": "birth",
+  "statements": [
+   "Q138857150$1aaa0d7d-46c6-e7f5-5ef6-be3f22844ad3"
+  ]
+ },
+ "Q138857150:death": {
+  "entity": "Q138857150",
+  "eventType": "death",
+  "statements": [
+   "Q138857150$1553dd70-487a-7387-1e81-b47214566034"
+  ]
+ },
+ "Q138868471:birth": {
+  "entity": "Q138868471",
+  "eventType": "birth",
+  "statements": [
+   "Q138868471$0fc2f0d1-4e8b-0669-5283-66f28f9b20b7"
+  ]
+ },
+ "Q138868471:death": {
+  "entity": "Q138868471",
+  "eventType": "death",
+  "statements": [
+   "Q138868471$3600a255-4d08-e7e4-883d-56b79437b6a8"
+  ]
+ },
+ "Q138913439:birth": {
+  "entity": "Q138913439",
+  "eventType": "birth",
+  "statements": [
+   "Q138913439$1abd61f3-476e-7f3e-6526-c66ec2b18f63"
+  ]
+ },
+ "Q138913439:death": {
+  "entity": "Q138913439",
+  "eventType": "death",
+  "statements": [
+   "Q138913439$ebdee213-49d4-675e-d2a2-72be0187fb1b"
+  ]
+ },
+ "Q138974117:birth": {
+  "entity": "Q138974117",
+  "eventType": "birth",
+  "statements": [
+   "Q138974117$dab57f63-4f49-7394-d15d-d372f9d359d9"
+  ]
+ },
+ "Q138974117:death": {
+  "entity": "Q138974117",
+  "eventType": "death",
+  "statements": [
+   "Q138974117$dffc5b1b-444c-b4e9-9d2c-094aca76f7bb"
+  ]
+ },
+ "Q139078126:birth": {
+  "entity": "Q139078126",
+  "eventType": "birth",
+  "statements": [
+   "Q139078126$8d41ffb8-4126-e8bc-0a92-f1032eee5561"
+  ]
+ },
+ "Q139078126:death": {
+  "entity": "Q139078126",
+  "eventType": "death",
+  "statements": [
+   "Q139078126$0c609022-4781-99b2-5386-1e9d1ad1b02f"
+  ]
+ },
+ "Q139300138:death": {
+  "entity": "Q139300138",
+  "eventType": "death",
+  "statements": [
+   "Q139300138$149b88ae-4fac-6975-5587-53d287e0be9d"
+  ]
+ },
+ "Q139384669:birth": {
+  "entity": "Q139384669",
+  "eventType": "birth",
+  "statements": [
+   "Q139384669$d502bed9-420d-a5f6-c978-997f1bb74671"
+  ]
+ },
+ "Q139384669:death": {
+  "entity": "Q139384669",
+  "eventType": "death",
+  "statements": [
+   "Q139384669$b61ba5da-4303-48cc-7045-2e670f9c150d"
+  ]
+ },
+ "Q139387174:birth": {
+  "entity": "Q139387174",
+  "eventType": "birth",
+  "statements": [
+   "Q139387174$15cce731-44d1-d827-ab6d-f6db1fe24664"
+  ]
+ },
+ "Q139387174:death": {
+  "entity": "Q139387174",
+  "eventType": "death",
+  "statements": [
+   "Q139387174$5d35ed84-474e-5c98-ab36-6653bc651d7e"
+  ]
+ },
+ "Q139496746:death": {
+  "entity": "Q139496746",
+  "eventType": "death",
+  "statements": [
+   "Q139496746$5701e51b-436a-01c1-63a8-0b52c8974021"
+  ]
+ },
+ "Q139550592:birth": {
+  "entity": "Q139550592",
+  "eventType": "birth",
+  "statements": [
+   "Q139550592$d187e217-49a7-000e-bbf1-a666586fbebb"
+  ]
+ },
+ "Q139550592:death": {
+  "entity": "Q139550592",
+  "eventType": "death",
+  "statements": [
+   "Q139550592$d5af65d9-4d7e-fee9-110f-91fb55d19e34"
+  ]
+ },
+ "Q139565049:birth": {
+  "entity": "Q139565049",
+  "eventType": "birth",
+  "statements": [
+   "Q139565049$14744ef5-4658-93dd-01fb-25b27ec4a5de"
+  ]
+ },
+ "Q139565049:death": {
+  "entity": "Q139565049",
+  "eventType": "death",
+  "statements": [
+   "Q139565049$0a5ca3e8-4b9c-16b9-cd9e-03ffbcfe0820"
+  ]
+ },
+ "Q139568434:birth": {
+  "entity": "Q139568434",
+  "eventType": "birth",
+  "statements": [
+   "Q139568434$a6070bcb-4893-6d5b-537e-ab755b8b4ab4"
+  ]
+ },
+ "Q139568434:death": {
+  "entity": "Q139568434",
+  "eventType": "death",
+  "statements": [
+   "Q139568434$415e2232-4d28-01c6-d30a-71a56754e522"
+  ]
+ },
+ "Q139589708:birth": {
+  "entity": "Q139589708",
+  "eventType": "birth",
+  "statements": [
+   "Q139589708$1ca16197-4f3f-f1e1-ba7a-3cf86189772b"
+  ]
+ },
+ "Q139589708:death": {
+  "entity": "Q139589708",
+  "eventType": "death",
+  "statements": [
+   "Q139589708$272f8bb1-4893-55eb-6519-ae2d8d5e2778"
+  ]
+ },
+ "Q1406700:birth": {
+  "entity": "Q1406700",
+  "eventType": "birth",
+  "statements": [
+   "Q1406700$6F80CDF8-6B3C-417E-90DD-8443AA3CF9E0"
+  ]
+ },
+ "Q1406700:death": {
+  "entity": "Q1406700",
+  "eventType": "death",
+  "statements": [
+   "Q1406700$083d5b24-4287-5da7-8813-ae469badf7dd"
+  ]
+ },
+ "Q1422925:battle": {
+  "entity": "Q1422925",
+  "eventType": "battle",
+  "statements": [
+   "Q1422925$7C378048-E8B7-4855-A013-C151086F996B"
+  ]
+ },
+ "Q1505177:birth": {
+  "entity": "Q1505177",
+  "eventType": "birth",
+  "statements": [
+   "Q1505177$6B02F50D-60F4-4DAC-AC40-14DED31FD8A8"
+  ]
+ },
+ "Q1505177:death": {
+  "entity": "Q1505177",
+  "eventType": "death",
+  "statements": [
+   "Q1505177$3bd87165-4bd6-164a-4711-31a144792bb2"
+  ]
+ },
+ "Q1509395:birth": {
+  "entity": "Q1509395",
+  "eventType": "birth",
+  "statements": [
+   "Q1509395$81e5e8be-5942-4027-82de-646bdd334c75"
+  ]
+ },
+ "Q1509395:death": {
+  "entity": "Q1509395",
+  "eventType": "death",
+  "statements": [
+   "Q1509395$D225576B-CBCB-4BF7-9455-A4DFFF7EC926"
+  ]
+ },
+ "Q1510351:birth": {
+  "entity": "Q1510351",
+  "eventType": "birth",
+  "statements": [
+   "Q1510351$095A11A3-5CC4-42C3-97F9-6DDC76A14F52"
+  ]
+ },
+ "Q1529391:founded": {
+  "entity": "Q1529391",
+  "eventType": "founded",
+  "statements": [
+   "Q1529391$1DF215BA-ECF7-4686-8064-47C67372EB90"
+  ]
+ },
+ "Q1529964:birth": {
+  "entity": "Q1529964",
+  "eventType": "birth",
+  "statements": [
+   "Q1529964$EEBB8D03-EDF5-4C00-B512-DCA5501F3180"
+  ]
+ },
+ "Q1529964:death": {
+  "entity": "Q1529964",
+  "eventType": "death",
+  "statements": [
+   "Q1529964$A588FF43-B191-4785-9862-C5D803AB1FFA"
+  ]
+ },
+ "Q153023:birth": {
+  "entity": "Q153023",
+  "eventType": "birth",
+  "statements": [
+   "Q153023$6193E9F7-DB42-4F13-9895-924B0D3DD3B4"
+  ]
+ },
+ "Q153023:death": {
+  "entity": "Q153023",
+  "eventType": "death",
+  "statements": [
+   "Q153023$B62CEC1F-19D5-40F0-B9AA-5149F81E4B00"
+  ]
+ },
+ "Q154764:dispute": {
+  "entity": "Q154764",
+  "eventType": "dispute",
+  "statements": [
+   "Q154764$e776c277-4c0e-a7a3-4e5c-d100c190cc50"
+  ]
+ },
+ "Q15724936:birth": {
+  "entity": "Q15724936",
+  "eventType": "birth",
+  "statements": [
+   "Q15724936$8155821b-42cf-3223-ca93-9215592e4c67"
+  ]
+ },
+ "Q15724936:death": {
+  "entity": "Q15724936",
+  "eventType": "death",
+  "statements": [
+   "Q15724936$657b5061-424a-030d-8b11-6748ba28dc52"
+  ]
+ },
+ "Q15845446:death": {
+  "entity": "Q15845446",
+  "eventType": "death",
+  "statements": [
+   "Q15845446$f98e99fa-480b-9fb5-e6e3-62cf41fdbcfe"
+  ]
+ },
+ "Q159597:birth": {
+  "entity": "Q159597",
+  "eventType": "birth",
+  "statements": [
+   "Q159597$5bb21c01-4bff-63b1-bda3-bdb82be4a784"
+  ]
+ },
+ "Q159597:death": {
+  "entity": "Q159597",
+  "eventType": "death",
+  "statements": [
+   "q159597$8F8E9302-83C1-42CA-85EC-1DC057584CC1"
+  ]
+ },
+ "Q16198031:birth": {
+  "entity": "Q16198031",
+  "eventType": "birth",
+  "statements": [
+   "Q16198031$9bdb2ea3-42fa-f976-063a-fe7d7c1ba54b"
+  ]
+ },
+ "Q16198031:death": {
+  "entity": "Q16198031",
+  "eventType": "death",
+  "statements": [
+   "Q16198031$5AA95170-3740-4E1D-B9F5-D45033B62EC8"
+  ]
+ },
+ "Q16531530:battle": {
+  "entity": "Q16531530",
+  "eventType": "battle",
+  "statements": [
+   "Q16531530$795fe7a8-4c6d-e1b9-5fdf-dc798ad05988"
+  ]
+ },
+ "Q16654634:created": {
+  "entity": "Q16654634",
+  "eventType": "created",
+  "statements": [
+   "Q16654634$7868a6fa-47ff-09d9-0e73-0eff0ae565df"
+  ]
+ },
+ "Q16837045:birth": {
+  "entity": "Q16837045",
+  "eventType": "birth",
+  "statements": [
+   "Q16837045$0718c002-4494-b83f-b0be-5e1a3e636539"
+  ]
+ },
+ "Q16837045:death": {
+  "entity": "Q16837045",
+  "eventType": "death",
+  "statements": [
+   "Q16837045$11a7de02-48a4-a98d-5e49-ab139bd1c0de"
+  ]
+ },
+ "Q168558:birth": {
+  "entity": "Q168558",
+  "eventType": "birth",
+  "statements": [
+   "Q168558$1CCFF53C-FDED-4972-9E95-092E16061158"
+  ]
+ },
+ "Q168558:death": {
+  "entity": "Q168558",
+  "eventType": "death",
+  "statements": [
+   "Q168558$50543385-09BB-4B4F-93E9-B250441F2F84"
+  ]
+ },
+ "Q1687299:birth": {
+  "entity": "Q1687299",
+  "eventType": "birth",
+  "statements": [
+   "Q1687299$9DC4CB33-C38E-4226-8400-F5721EB2FDF4"
+  ]
+ },
+ "Q1687299:death": {
+  "entity": "Q1687299",
+  "eventType": "death",
+  "statements": [
+   "Q1687299$4AE09911-C819-4728-AEBE-E6EC2D4390F3"
+  ]
+ },
+ "Q1703402:military campaign": {
+  "entity": "Q1703402",
+  "eventType": "military campaign",
+  "statements": [
+   "Q1703402$a271081e-4e6e-573a-091a-4fb8a658d3ba"
+  ]
+ },
+ "Q1704268:battle": {
+  "entity": "Q1704268",
+  "eventType": "battle",
+  "statements": [
+   "Q1704268$b3d4c92f-42ca-68f0-beb5-121acf37a736"
+  ]
+ },
+ "Q171112:birth": {
+  "entity": "Q171112",
+  "eventType": "birth",
+  "statements": [
+   "q171112$b2a1a4d4-42dd-1b95-5655-93fe5908e377"
+  ]
+ },
+ "Q171112:death": {
+  "entity": "Q171112",
+  "eventType": "death",
+  "statements": [
+   "q171112$E4CC2967-2444-4662-AC2E-4D04494DADEA"
+  ]
+ },
+ "Q174452:birth": {
+  "entity": "Q174452",
+  "eventType": "birth",
+  "statements": [
+   "Q174452$AF4E9752-2C30-4960-A428-791B071DB39D"
+  ]
+ },
+ "Q174452:death": {
+  "entity": "Q174452",
+  "eventType": "death",
+  "statements": [
+   "q174452$FA94CE86-CE3A-4052-8B97-2605982B3390"
+  ]
+ },
+ "Q1747051:birth": {
+  "entity": "Q1747051",
+  "eventType": "birth",
+  "statements": [
+   "Q1747051$a2a43a3e-453f-ce67-e050-07fc058d0274"
+  ]
+ },
+ "Q1747051:death": {
+  "entity": "Q1747051",
+  "eventType": "death",
+  "statements": [
+   "Q1747051$72EA7F5A-4BB4-44B5-9AB9-19FA49F30DDD"
+  ]
+ },
+ "Q1754399:founded": {
+  "entity": "Q1754399",
+  "eventType": "founded",
+  "statements": [
+   "Q1754399$95C65272-0D35-41AD-BC96-CD0C8B66369C"
+  ]
+ },
+ "Q181896:birth": {
+  "entity": "Q181896",
+  "eventType": "birth",
+  "statements": [
+   "Q181896$555AB4D0-958E-4616-9DD4-FDAF3A72599D"
+  ]
+ },
+ "Q181896:death": {
+  "entity": "Q181896",
+  "eventType": "death",
+  "statements": [
+   "q181896$CC0723D7-1AE6-4738-BFCA-E558143163D8"
+  ]
+ },
+ "Q183499:birth": {
+  "entity": "Q183499",
+  "eventType": "birth",
+  "statements": [
+   "Q183499$637D5977-512D-42E9-8BCC-882896D66481"
+  ]
+ },
+ "Q183499:death": {
+  "entity": "Q183499",
+  "eventType": "death",
+  "statements": [
+   "q183499$0F1B3927-460E-4314-AC50-8505889FC265"
+  ]
+ },
+ "Q18730449:death": {
+  "entity": "Q18730449",
+  "eventType": "death",
+  "statements": [
+   "Q18730449$6b03e6c6-4aca-d7c0-17c0-d8c6acd6d5bb"
+  ]
+ },
+ "Q188627:birth": {
+  "entity": "Q188627",
+  "eventType": "birth",
+  "statements": [
+   "Q188627$E3772E75-C94F-4B30-A783-0AEA16443DA2"
+  ]
+ },
+ "Q188627:death": {
+  "entity": "Q188627",
+  "eventType": "death",
+  "statements": [
+   "Q188627$a7c1c24b-49fb-49be-a265-679e52958a34"
+  ]
+ },
+ "Q188684:birth": {
+  "entity": "Q188684",
+  "eventType": "birth",
+  "statements": [
+   "Q188684$5928be39-4ea8-a179-bee7-bff7d2d5e60f"
+  ]
+ },
+ "Q188684:death": {
+  "entity": "Q188684",
+  "eventType": "death",
+  "statements": [
+   "q188684$6CB4CB38-4DA5-4F3D-95DC-F83526E58759"
+  ]
+ },
+ "Q18936095:birth": {
+  "entity": "Q18936095",
+  "eventType": "birth",
+  "statements": [
+   "Q18936095$5e7ee483-47ca-6f44-110b-0f6b88301a69"
+  ]
+ },
+ "Q18936095:death": {
+  "entity": "Q18936095",
+  "eventType": "death",
+  "statements": [
+   "Q18936095$3090ac18-48ad-3323-3bb1-1262b7856e59"
+  ]
+ },
+ "Q190091:birth": {
+  "entity": "Q190091",
+  "eventType": "birth",
+  "statements": [
+   "q190091$5D9FB798-8278-4E1B-A985-9034EF55A2BE"
+  ]
+ },
+ "Q190091:death": {
+  "entity": "Q190091",
+  "eventType": "death",
+  "statements": [
+   "q190091$529B6D08-CF37-4FFB-B77B-5BCA2D064305"
+  ]
+ },
+ "Q19059306:death": {
+  "entity": "Q19059306",
+  "eventType": "death",
+  "statements": [
+   "Q19059306$04A20C23-A3DB-46BD-8793-C0BFE6465555"
+  ]
+ },
+ "Q192920:birth": {
+  "entity": "Q192920",
+  "eventType": "birth",
+  "statements": [
+   "Q192920$1c0faf32-4a18-e3aa-98b0-8ee5d4ce9e8a"
+  ]
+ },
+ "Q192920:death": {
+  "entity": "Q192920",
+  "eventType": "death",
+  "statements": [
+   "Q192920$C52A6E3C-1782-43D5-B74D-0984394A1015"
+  ]
+ },
+ "Q192925:birth": {
+  "entity": "Q192925",
+  "eventType": "birth",
+  "statements": [
+   "Q192925$A3F70725-8E85-47FA-8FD7-63A2C4F32EA9"
+  ]
+ },
+ "Q192925:death": {
+  "entity": "Q192925",
+  "eventType": "death",
+  "statements": [
+   "q192925$E2858DF4-A120-4108-BFEE-E4B205F2BFBF"
+  ]
+ },
+ "Q1939997:birth": {
+  "entity": "Q1939997",
+  "eventType": "birth",
+  "statements": [
+   "Q1939997$2afc9f2d-63c0-44d9-8cde-fd1ef4f96c7a"
+  ]
+ },
+ "Q1939997:death": {
+  "entity": "Q1939997",
+  "eventType": "death",
+  "statements": [
+   "Q1939997$1551997B-28EB-4E7B-AEEC-DFAE09116AAB"
+  ]
+ },
+ "Q198287:founded": {
+  "entity": "Q198287",
+  "eventType": "founded",
+  "statements": [
+   "Q198287$A663AE4E-645C-4360-A67A-98FCCA087F24"
+  ]
+ },
+ "Q19867:created": {
+  "entity": "Q19867",
+  "eventType": "created",
+  "statements": [
+   "Q19867$1ed3b336-47ec-7f5e-0fe0-548bbf3c1751"
+  ]
+ },
+ "Q19873044:birth": {
+  "entity": "Q19873044",
+  "eventType": "birth",
+  "statements": [
+   "Q19873044$A4340911-4D0F-4794-A4AF-5BAB1E4684CE"
+  ]
+ },
+ "Q19873044:death": {
+  "entity": "Q19873044",
+  "eventType": "death",
+  "statements": [
+   "Q19873044$4FC68267-CCA0-4F63-A766-4F14337F338E"
+  ]
+ },
+ "Q200485:conquest": {
+  "entity": "Q200485",
+  "eventType": "conquest",
+  "statements": [
+   "Q200485$030c9482-4516-3cf0-de92-2ffbca0459f6"
+  ]
+ },
+ "Q2021689:birth": {
+  "entity": "Q2021689",
+  "eventType": "birth",
+  "statements": [
+   "Q2021689$a9be5b71-384c-46e1-9ae3-b5ac78340701"
+  ]
+ },
+ "Q2021689:death": {
+  "entity": "Q2021689",
+  "eventType": "death",
+  "statements": [
+   "Q2021689$05EAD089-9B27-49EB-AF56-7FF34D4DE336"
+  ]
+ },
+ "Q203225:battle": {
+  "entity": "Q203225",
+  "eventType": "battle",
+  "statements": [
+   "Q203225$FF9654E4-ACED-40C9-9CBA-C5755A0EC1E0"
+  ]
+ },
+ "Q203647:birth": {
+  "entity": "Q203647",
+  "eventType": "birth",
+  "statements": [
+   "Q203647$B43EF346-5968-4A74-92CC-65795529B7A3"
+  ]
+ },
+ "Q203647:death": {
+  "entity": "Q203647",
+  "eventType": "death",
+  "statements": [
+   "q203647$2A2C3EB9-45EC-4BAE-8F2C-D68C52A2B2B6"
+  ]
+ },
+ "Q203792:birth": {
+  "entity": "Q203792",
+  "eventType": "birth",
+  "statements": [
+   "Q203792$C1BA0B52-DE9D-401F-9843-8A9F841DF086"
+  ]
+ },
+ "Q203792:death": {
+  "entity": "Q203792",
+  "eventType": "death",
+  "statements": [
+   "q203792$A2C343DD-5F00-4503-8F74-874C9CEC4C04"
+  ]
+ },
+ "Q2067294:birth": {
+  "entity": "Q2067294",
+  "eventType": "birth",
+  "statements": [
+   "Q2067294$528EEB34-F932-4505-97E9-7AD1CEFAD194"
+  ]
+ },
+ "Q2067294:death": {
+  "entity": "Q2067294",
+  "eventType": "death",
+  "statements": [
+   "Q2067294$9409A220-9192-4953-84F7-ECC1BE859E6D"
+  ]
+ },
+ "Q208331:birth": {
+  "entity": "Q208331",
+  "eventType": "birth",
+  "statements": [
+   "Q208331$0326B77B-DB77-49BA-8855-46E4FE9BB367"
+  ]
+ },
+ "Q208331:death": {
+  "entity": "Q208331",
+  "eventType": "death",
+  "statements": [
+   "q208331$F8C4CF96-BE48-4BD9-A555-5F7A362E1313"
+  ]
+ },
+ "Q21061661:birth": {
+  "entity": "Q21061661",
+  "eventType": "birth",
+  "statements": [
+   "Q21061661$6ad25610-4676-c8bf-f0d8-aca29959ef5e"
+  ]
+ },
+ "Q21061661:death": {
+  "entity": "Q21061661",
+  "eventType": "death",
+  "statements": [
+   "Q21061661$cf67b22b-47d9-7c3d-b6b1-36c6b0dbf51d"
+  ]
+ },
+ "Q2120325:birth": {
+  "entity": "Q2120325",
+  "eventType": "birth",
+  "statements": [
+   "Q2120325$7B6DF3AB-9244-4D25-B709-D028441874F2"
+  ]
+ },
+ "Q2120325:death": {
+  "entity": "Q2120325",
+  "eventType": "death",
+  "statements": [
+   "Q2120325$4661A96D-477D-4682-9A7F-27CAAB7CDBD5"
+  ]
+ },
+ "Q215224:birth": {
+  "entity": "Q215224",
+  "eventType": "birth",
+  "statements": [
+   "Q215224$3c6f06b9-44b3-7498-e0e2-fd0cedc5f131"
+  ]
+ },
+ "Q215224:death": {
+  "entity": "Q215224",
+  "eventType": "death",
+  "statements": [
+   "Q215224$80E5400F-78FB-42EF-BBC1-2DD904F9094E"
+  ]
+ },
+ "Q220301:founded": {
+  "entity": "Q220301",
+  "eventType": "founded",
+  "statements": [
+   "Q220301$f7f9a6af-4b25-056e-6b8d-ca68694d4656"
+  ]
+ },
+ "Q220806:birth": {
+  "entity": "Q220806",
+  "eventType": "birth",
+  "statements": [
+   "Q220806$24215E35-CCDF-4F40-A4A8-6E540185ECDB"
+  ]
+ },
+ "Q220806:death": {
+  "entity": "Q220806",
+  "eventType": "death",
+  "statements": [
+   "q220806$0CBE09E2-186D-4309-89D4-A4F08EB4D7FA"
+  ]
+ },
+ "Q220994:birth": {
+  "entity": "Q220994",
+  "eventType": "birth",
+  "statements": [
+   "Q220994$82835F9F-F1E3-4219-9D15-D09944B03CF3"
+  ]
+ },
+ "Q220994:death": {
+  "entity": "Q220994",
+  "eventType": "death",
+  "statements": [
+   "Q220994$04486142-42ec-aa75-1e03-b4cbf7fb042a"
+  ]
+ },
+ "Q2259892:battle": {
+  "entity": "Q2259892",
+  "eventType": "battle",
+  "statements": [
+   "Q2259892$DEB4CEAD-EC2E-4D7C-B5EB-11D679FE8C37"
+  ]
+ },
+ "Q2284422:birth": {
+  "entity": "Q2284422",
+  "eventType": "birth",
+  "statements": [
+   "Q2284422$BD8CAEA8-3BAB-4C4D-9CB0-FFFA2890071B"
+  ]
+ },
+ "Q2284422:death": {
+  "entity": "Q2284422",
+  "eventType": "death",
+  "statements": [
+   "Q2284422$62B00540-F6F1-4244-B4B2-7CD81B2488ED"
+  ]
+ },
+ "Q2294869:birth": {
+  "entity": "Q2294869",
+  "eventType": "birth",
+  "statements": [
+   "Q2294869$2ce001e2-bdb3-4a3d-bf4d-c00f37646f95"
+  ]
+ },
+ "Q2294869:death": {
+  "entity": "Q2294869",
+  "eventType": "death",
+  "statements": [
+   "Q2294869$5b4922c0-4bf6-fd64-db25-6de759790262"
+  ]
+ },
+ "Q23580640:birth": {
+  "entity": "Q23580640",
+  "eventType": "birth",
+  "statements": [
+   "Q23580640$81dd9083-4000-d93e-d6ab-d0a9704c2400"
+  ]
+ },
+ "Q23580640:death": {
+  "entity": "Q23580640",
+  "eventType": "death",
+  "statements": [
+   "Q23580640$E02E8096-9E11-49E6-B235-3CD9F8D51A03"
+  ]
+ },
+ "Q237709:birth": {
+  "entity": "Q237709",
+  "eventType": "birth",
+  "statements": [
+   "Q237709$A7376D50-D409-4653-A2B7-1087D7687E7B"
+  ]
+ },
+ "Q237709:death": {
+  "entity": "Q237709",
+  "eventType": "death",
+  "statements": [
+   "Q237709$28820D49-FBD8-4EE0-A91A-9FA7B65960F1"
+  ]
+ },
+ "Q237886:birth": {
+  "entity": "Q237886",
+  "eventType": "birth",
+  "statements": [
+   "Q237886$8d4f85ad-4dca-9103-893b-0b9305a5e396"
+  ]
+ },
+ "Q237886:death": {
+  "entity": "Q237886",
+  "eventType": "death",
+  "statements": [
+   "q237886$C02F9DA6-E0FA-4B65-8133-CDE649DFB1AA"
+  ]
+ },
+ "Q2415527:birth": {
+  "entity": "Q2415527",
+  "eventType": "birth",
+  "statements": [
+   "Q2415527$8e278044-46a9-a515-5942-a4e23de6e367"
+  ]
+ },
+ "Q2415527:death": {
+  "entity": "Q2415527",
+  "eventType": "death",
+  "statements": [
+   "Q2415527$bd3edc28-471d-d559-c4aa-2dd9ecd3c416"
+  ]
+ },
+ "Q2458674:birth": {
+  "entity": "Q2458674",
+  "eventType": "birth",
+  "statements": [
+   "Q2458674$77DDA414-9640-4DF8-836C-3853C4278E9B"
+  ]
+ },
+ "Q2458674:death": {
+  "entity": "Q2458674",
+  "eventType": "death",
+  "statements": [
+   "Q2458674$7A14CA26-298A-4BFB-BB66-40CF0484D25E"
+  ]
+ },
+ "Q24907444:church council": {
+  "entity": "Q24907444",
+  "eventType": "church council",
+  "statements": [
+   "Q24907444$a77394d3-4554-e88e-296c-7e29710a316c"
+  ]
+ },
+ "Q2503775:siege": {
+  "entity": "Q2503775",
+  "eventType": "siege",
+  "statements": [
+   "Q2503775$05BD8507-8FEF-4204-A608-D6A8C229AA60"
+  ]
+ },
+ "Q254545:birth": {
+  "entity": "Q254545",
+  "eventType": "birth",
+  "statements": [
+   "Q254545$853B02EB-8D29-4ACF-B459-51AA1E734386"
+  ]
+ },
+ "Q254545:death": {
+  "entity": "Q254545",
+  "eventType": "death",
+  "statements": [
+   "Q254545$50DE6EFA-7CD9-465C-9966-47E5446D7536"
+  ]
+ },
+ "Q2547326:birth": {
+  "entity": "Q2547326",
+  "eventType": "birth",
+  "statements": [
+   "Q2547326$D84A9157-D429-4835-84C5-03F6EE722A8C"
+  ]
+ },
+ "Q2547326:death": {
+  "entity": "Q2547326",
+  "eventType": "death",
+  "statements": [
+   "Q2547326$4EB8E2A5-4912-4A13-9699-FC1FB01C7678"
+  ]
+ },
+ "Q2573359:birth": {
+  "entity": "Q2573359",
+  "eventType": "birth",
+  "statements": [
+   "Q2573359$41E4F0BE-EB12-4A1C-AE2D-6E195E791127"
+  ]
+ },
+ "Q2573359:death": {
+  "entity": "Q2573359",
+  "eventType": "death",
+  "statements": [
+   "Q2573359$97120a59-47ff-583f-072d-ec0c5968ce23"
+  ]
+ },
+ "Q259564:death": {
+  "entity": "Q259564",
+  "eventType": "death",
+  "statements": [
+   "Q259564$04826eda-4306-5e2d-afe9-3a838cb9b537"
+  ]
+ },
+ "Q262192:birth": {
+  "entity": "Q262192",
+  "eventType": "birth",
+  "statements": [
+   "Q262192$15DF4385-2E6C-40E2-9D61-090BA8415208"
+  ]
+ },
+ "Q262192:death": {
+  "entity": "Q262192",
+  "eventType": "death",
+  "statements": [
+   "q262192$0322E64B-4707-40AD-9186-C96712E35E02"
+  ]
+ },
+ "Q2634369:birth": {
+  "entity": "Q2634369",
+  "eventType": "birth",
+  "statements": [
+   "Q2634369$B3C29314-8B76-48D1-A3D7-408F330AC8D6"
+  ]
+ },
+ "Q2634369:death": {
+  "entity": "Q2634369",
+  "eventType": "death",
+  "statements": [
+   "Q2634369$4E9C7472-09B7-4524-BA15-AE226D86AFEA"
+  ]
+ },
+ "Q26731:birth": {
+  "entity": "Q26731",
+  "eventType": "birth",
+  "statements": [
+   "Q26731$2F2BD9C6-3D47-4A43-82D5-AF150805E622"
+  ]
+ },
+ "Q26731:death": {
+  "entity": "Q26731",
+  "eventType": "death",
+  "statements": [
+   "Q26731$142001E1-6CE3-4329-944E-BDB82B4F9A86"
+  ]
+ },
+ "Q270777:birth": {
+  "entity": "Q270777",
+  "eventType": "birth",
+  "statements": [
+   "Q270777$16F999D6-13AA-452A-9A80-E2A04A9592D8"
+  ]
+ },
+ "Q270777:death": {
+  "entity": "Q270777",
+  "eventType": "death",
+  "statements": [
+   "Q270777$308D8048-9E2C-4C39-BF77-786F65F0E213"
+  ]
+ },
+ "Q2712298:battle": {
+  "entity": "Q2712298",
+  "eventType": "battle",
+  "statements": [
+   "Q2712298$f527057e-4bd3-3fcf-5f63-56638509f07b"
+  ]
+ },
+ "Q273181:birth": {
+  "entity": "Q273181",
+  "eventType": "birth",
+  "statements": [
+   "Q273181$77167163-B596-431B-976C-F319052FF909"
+  ]
+ },
+ "Q273181:death": {
+  "entity": "Q273181",
+  "eventType": "death",
+  "statements": [
+   "Q273181$AD6FF4BF-5114-4F33-B4EF-E0B631BEDE2F"
+  ]
+ },
+ "Q27958565:birth": {
+  "entity": "Q27958565",
+  "eventType": "birth",
+  "statements": [
+   "Q27958565$d33f377d-4292-c906-9720-3ccc746505ea"
+  ]
+ },
+ "Q27958565:death": {
+  "entity": "Q27958565",
+  "eventType": "death",
+  "statements": [
+   "Q27958565$179d9a67-42ec-709c-6632-732501284649"
+  ]
+ },
+ "Q27991204:birth": {
+  "entity": "Q27991204",
+  "eventType": "birth",
+  "statements": [
+   "Q27991204$ccc15c8f-203c-4dac-b4e3-355bba1b8102"
+  ]
+ },
+ "Q27991204:death": {
+  "entity": "Q27991204",
+  "eventType": "death",
+  "statements": [
+   "Q27991204$23089477-4DB0-4A84-A824-F9466EC63A2A"
+  ]
+ },
+ "Q2826477:birth": {
+  "entity": "Q2826477",
+  "eventType": "birth",
+  "statements": [
+   "Q2826477$009177C1-BA46-478E-9307-901F3D9058E8"
+  ]
+ },
+ "Q2826477:death": {
+  "entity": "Q2826477",
+  "eventType": "death",
+  "statements": [
+   "Q2826477$D92F0682-D237-46AE-9BC0-4A6D2ECCE5B2"
+  ]
+ },
+ "Q28474243:death": {
+  "entity": "Q28474243",
+  "eventType": "death",
+  "statements": [
+   "Q28474243$DD589963-FE26-4A81-BE45-BDD2FAC3C72A"
+  ]
+ },
+ "Q2852415:birth": {
+  "entity": "Q2852415",
+  "eventType": "birth",
+  "statements": [
+   "Q2852415$F30765D1-FD9D-41FC-A613-CBBCE25BC5BE"
+  ]
+ },
+ "Q2852415:death": {
+  "entity": "Q2852415",
+  "eventType": "death",
+  "statements": [
+   "Q2852415$d999a207-47e0-1556-e469-6c4cd3d3ef52"
+  ]
+ },
+ "Q2887133:birth": {
+  "entity": "Q2887133",
+  "eventType": "birth",
+  "statements": [
+   "Q2887133$8AA12100-6476-4A41-8D3F-D1948EEE7A2A"
+  ]
+ },
+ "Q2887133:death": {
+  "entity": "Q2887133",
+  "eventType": "death",
+  "statements": [
+   "Q2887133$c0d0e169-40ba-3a6a-5e1f-fd518e41096d"
+  ]
+ },
+ "Q2899413:birth": {
+  "entity": "Q2899413",
+  "eventType": "birth",
+  "statements": [
+   "Q2899413$c2461b6e-4410-b283-00a8-f68eed8ade2b"
+  ]
+ },
+ "Q2899413:death": {
+  "entity": "Q2899413",
+  "eventType": "death",
+  "statements": [
+   "Q2899413$f21d4077-4b3e-95ea-f325-a9f8ef301f49"
+  ]
+ },
+ "Q2970215:founded": {
+  "entity": "Q2970215",
+  "eventType": "founded",
+  "statements": [
+   "Q2970215$35d7f4a5-4d63-819d-2b60-ab4f82a6230a"
+  ]
+ },
+ "Q2981947:birth": {
+  "entity": "Q2981947",
+  "eventType": "birth",
+  "statements": [
+   "Q2981947$599299AA-8C05-4751-A954-EC2327A8604D"
+  ]
+ },
+ "Q2981947:death": {
+  "entity": "Q2981947",
+  "eventType": "death",
+  "statements": [
+   "Q2981947$D71B1998-F487-43C2-A62A-FE794281F422"
+  ]
+ },
+ "Q2994836:death": {
+  "entity": "Q2994836",
+  "eventType": "death",
+  "statements": [
+   "Q2994836$6DBC04C5-6528-43B3-9052-3D3F50647D2D"
+  ]
+ },
+ "Q3002743:succession controversy": {
+  "entity": "Q3002743",
+  "eventType": "succession controversy",
+  "statements": [
+   "Q3002743$03e8c286-446e-93bc-381b-414bb291baf2"
+  ]
+ },
+ "Q3046321:death": {
+  "entity": "Q3046321",
+  "eventType": "death",
+  "statements": [
+   "Q3046321$27496F71-FC00-4C49-B5E3-FFAF1C06E2A6"
+  ]
+ },
+ "Q3057433:birth": {
+  "entity": "Q3057433",
+  "eventType": "birth",
+  "statements": [
+   "Q3057433$86cb63af-4a0b-81c7-f507-7439dc35ef7a"
+  ]
+ },
+ "Q3057433:death": {
+  "entity": "Q3057433",
+  "eventType": "death",
+  "statements": [
+   "Q3057433$11eafbf7-472a-47cc-d313-3548871841af"
+  ]
+ },
+ "Q30578:birth": {
+  "entity": "Q30578",
+  "eventType": "birth",
+  "statements": [
+   "q30578$0ecc6e71-4be6-66aa-ddd3-18715ac06990"
+  ]
+ },
+ "Q30578:death": {
+  "entity": "Q30578",
+  "eventType": "death",
+  "statements": [
+   "q30578$4D897595-637C-42B4-B8A2-8AB2F2AA91F6"
+  ]
+ },
+ "Q3099525:birth": {
+  "entity": "Q3099525",
+  "eventType": "birth",
+  "statements": [
+   "Q3099525$0e0dfba7-7541-41a4-b9cc-a921fafa6a86"
+  ]
+ },
+ "Q3099525:death": {
+  "entity": "Q3099525",
+  "eventType": "death",
+  "statements": [
+   "Q3099525$48E26D95-2F4A-4365-930B-C42DB94477D6"
+  ]
+ },
+ "Q3109791:birth": {
+  "entity": "Q3109791",
+  "eventType": "birth",
+  "statements": [
+   "Q3109791$F0CBFE09-D04B-4CBB-A7A1-E8C9D6A6BEB1"
+  ]
+ },
+ "Q3109791:death": {
+  "entity": "Q3109791",
+  "eventType": "death",
+  "statements": [
+   "Q3109791$6F26A505-C6A6-4467-9D47-9B8E5ACCFFAC"
+  ]
+ },
+ "Q311011:birth": {
+  "entity": "Q311011",
+  "eventType": "birth",
+  "statements": [
+   "Q311011$DD46CB5A-5297-47E5-B8EB-B194E34CE2CC"
+  ]
+ },
+ "Q311011:death": {
+  "entity": "Q311011",
+  "eventType": "death",
+  "statements": [
+   "Q311011$68F1E8F4-206E-4FEB-B57E-49674830FF1D"
+  ]
+ },
+ "Q3120070:birth": {
+  "entity": "Q3120070",
+  "eventType": "birth",
+  "statements": [
+   "Q3120070$C0B5E3AB-DDA5-48C0-B5AB-792B033D2450"
+  ]
+ },
+ "Q3120070:death": {
+  "entity": "Q3120070",
+  "eventType": "death",
+  "statements": [
+   "Q3120070$6F518E13-0F56-46AA-9FFC-BD1BDAA1F161"
+  ]
+ },
+ "Q3120417:birth": {
+  "entity": "Q3120417",
+  "eventType": "birth",
+  "statements": [
+   "Q3120417$aff494ef-d289-4ca0-b855-c8febdf6b2d5"
+  ]
+ },
+ "Q3120417:death": {
+  "entity": "Q3120417",
+  "eventType": "death",
+  "statements": [
+   "Q3120417$92e45963-44b9-a6a6-d1f3-23b79cd57101"
+  ]
+ },
+ "Q312613:birth": {
+  "entity": "Q312613",
+  "eventType": "birth",
+  "statements": [
+   "Q312613$8BE06D3F-D95C-4398-9FC9-99D628A327D3"
+  ]
+ },
+ "Q312613:death": {
+  "entity": "Q312613",
+  "eventType": "death",
+  "statements": [
+   "Q312613$2FDF19CD-9B59-4ECE-9FEE-19E1B19F62E0"
+  ]
+ },
+ "Q3128713:birth": {
+  "entity": "Q3128713",
+  "eventType": "birth",
+  "statements": [
+   "Q3128713$DACD1A41-CA97-404C-9606-0EA992406BA3"
+  ]
+ },
+ "Q3128713:death": {
+  "entity": "Q3128713",
+  "eventType": "death",
+  "statements": [
+   "Q3128713$7D5C12C3-D03A-45A7-938A-B2D8DCBB40CA"
+  ]
+ },
+ "Q3132264:birth": {
+  "entity": "Q3132264",
+  "eventType": "birth",
+  "statements": [
+   "Q3132264$0607BB0A-9BBB-4325-92AE-16FDE9BE2674"
+  ]
+ },
+ "Q3132264:death": {
+  "entity": "Q3132264",
+  "eventType": "death",
+  "statements": [
+   "Q3132264$0cb3cc17-4260-3df8-06fc-0bd2191ce27d"
+  ]
+ },
+ "Q3142718:birth": {
+  "entity": "Q3142718",
+  "eventType": "birth",
+  "statements": [
+   "Q3142718$73625740-1D10-477E-BC7C-27F574A45B5F"
+  ]
+ },
+ "Q3142718:death": {
+  "entity": "Q3142718",
+  "eventType": "death",
+  "statements": [
+   "Q3142718$16E6D47F-7A6A-4816-B9DF-1AC4CB045B5A"
+  ]
+ },
+ "Q316042:birth": {
+  "entity": "Q316042",
+  "eventType": "birth",
+  "statements": [
+   "Q316042$DAEECC41-6A9F-49BE-9150-17C11D5531F8"
+  ]
+ },
+ "Q316042:death": {
+  "entity": "Q316042",
+  "eventType": "death",
+  "statements": [
+   "Q316042$A880E68E-3DA0-41A2-948D-44271EFE997C"
+  ]
+ },
+ "Q318142:death": {
+  "entity": "Q318142",
+  "eventType": "death",
+  "statements": [
+   "q318142$D4DED54E-F48A-40B7-8A84-1E4ED0FB8AB9"
+  ]
+ },
+ "Q321741:birth": {
+  "entity": "Q321741",
+  "eventType": "birth",
+  "statements": [
+   "Q321741$fc4b4e97-4af3-d37d-3d4a-686d486ce83b"
+  ]
+ },
+ "Q321741:death": {
+  "entity": "Q321741",
+  "eventType": "death",
+  "statements": [
+   "Q321741$94EA4D54-0978-4C04-AEFF-8CD885B4506A"
+  ]
+ },
+ "Q325656:penance and reconciliation": {
+  "entity": "Q325656",
+  "eventType": "penance and reconciliation",
+  "statements": [
+   "Q325656$2e3196ea-45a9-f75a-d00d-f00022d8a8c6"
+  ]
+ },
+ "Q333359:birth": {
+  "entity": "Q333359",
+  "eventType": "birth",
+  "statements": [
+   "Q333359$FDA2EB6A-58F0-46DC-8F84-D756D431759B"
+  ]
+ },
+ "Q333359:death": {
+  "entity": "Q333359",
+  "eventType": "death",
+  "statements": [
+   "Q333359$378693ED-757B-437F-9AE2-B449F9ACFB04"
+  ]
+ },
+ "Q333384:birth": {
+  "entity": "Q333384",
+  "eventType": "birth",
+  "statements": [
+   "q333384$FD8C7640-D91C-4EF9-AABD-BDFA248AC238"
+  ]
+ },
+ "Q333384:death": {
+  "entity": "Q333384",
+  "eventType": "death",
+  "statements": [
+   "q333384$E743D945-B67E-4EA2-B753-D04A9252E3AD"
+  ]
+ },
+ "Q3353388:battle": {
+  "entity": "Q3353388",
+  "eventType": "battle",
+  "statements": [
+   "Q3353388$3b702266-4caf-6820-5f33-5515d1b1bc04"
+  ]
+ },
+ "Q3356544:birth": {
+  "entity": "Q3356544",
+  "eventType": "birth",
+  "statements": [
+   "Q3356544$F7D9CA1B-587E-41B7-ABE6-72DB760E79C6"
+  ]
+ },
+ "Q343088:birth": {
+  "entity": "Q343088",
+  "eventType": "birth",
+  "statements": [
+   "Q343088$4939174E-93A9-486B-9752-A15FCB567FB8"
+  ]
+ },
+ "Q343088:death": {
+  "entity": "Q343088",
+  "eventType": "death",
+  "statements": [
+   "q343088$E08C6CFC-F551-4984-B107-0AAC3E92F316"
+  ]
+ },
+ "Q3435479:birth": {
+  "entity": "Q3435479",
+  "eventType": "birth",
+  "statements": [
+   "Q3435479$0e7bde2e-42f7-4e31-e5d6-77af4ffe9666"
+  ]
+ },
+ "Q3435479:death": {
+  "entity": "Q3435479",
+  "eventType": "death",
+  "statements": [
+   "Q3435479$CEEC8AB3-42A5-45A0-950D-CE82BC52BBA3"
+  ]
+ },
+ "Q3438706:death": {
+  "entity": "Q3438706",
+  "eventType": "death",
+  "statements": [
+   "Q3438706$C842ACFE-BC47-466A-A526-C277D36D6B57"
+  ]
+ },
+ "Q345420:birth": {
+  "entity": "Q345420",
+  "eventType": "birth",
+  "statements": [
+   "Q345420$71CA786F-614E-403A-965A-22D29D70B193"
+  ]
+ },
+ "Q345420:death": {
+  "entity": "Q345420",
+  "eventType": "death",
+  "statements": [
+   "q345420$6E8465A5-CD6A-4A5B-BC93-FD1149A3B660"
+  ]
+ },
+ "Q345959:birth": {
+  "entity": "Q345959",
+  "eventType": "birth",
+  "statements": [
+   "Q345959$63A439C6-4215-439E-9200-E5F40E8DCBF6"
+  ]
+ },
+ "Q345959:death": {
+  "entity": "Q345959",
+  "eventType": "death",
+  "statements": [
+   "Q345959$4D4618F8-791F-45FE-B14A-6839A87AFFA9"
+  ]
+ },
+ "Q3497653:birth": {
+  "entity": "Q3497653",
+  "eventType": "birth",
+  "statements": [
+   "Q3497653$1d51f0b2-d057-4bd4-83f1-513f4142a250"
+  ]
+ },
+ "Q3497653:death": {
+  "entity": "Q3497653",
+  "eventType": "death",
+  "statements": [
+   "Q3497653$F89AC864-F31F-41BA-96AE-4EB8798BCB42"
+  ]
+ },
+ "Q3498141:birth": {
+  "entity": "Q3498141",
+  "eventType": "birth",
+  "statements": [
+   "Q3498141$5071E23F-6744-4D6D-9B41-AE97329394E3"
+  ]
+ },
+ "Q3498141:death": {
+  "entity": "Q3498141",
+  "eventType": "death",
+  "statements": [
+   "Q3498141$980C495A-FBFE-425E-9144-1A23F94C2998"
+  ]
+ },
+ "Q353829:birth": {
+  "entity": "Q353829",
+  "eventType": "birth",
+  "statements": [
+   "q353829$DD90572B-A1B0-4D49-A6BA-CAEF1C592939"
+  ]
+ },
+ "Q353829:death": {
+  "entity": "Q353829",
+  "eventType": "death",
+  "statements": [
+   "q353829$40B19B25-832E-4E5E-B2ED-A105A139DD57"
+  ]
+ },
+ "Q35618:birth": {
+  "entity": "Q35618",
+  "eventType": "birth",
+  "statements": [
+   "Q35618$837c8047-44b7-850e-efd9-b1ca9f71ad48"
+  ]
+ },
+ "Q35618:death": {
+  "entity": "Q35618",
+  "eventType": "death",
+  "statements": [
+   "Q35618$57400ad8-44cc-6a72-0635-50a9c865bdbc"
+  ]
+ },
+ "Q3580558:founded": {
+  "entity": "Q3580558",
+  "eventType": "founded",
+  "statements": [
+   "Q3580558$b235efd0-463a-f1f5-1e81-78dfc5d0a917"
+  ]
+ },
+ "Q361629:birth": {
+  "entity": "Q361629",
+  "eventType": "birth",
+  "statements": [
+   "Q361629$c9b791d1-4a7a-0dab-cf8c-6bb006908c62"
+  ]
+ },
+ "Q361629:death": {
+  "entity": "Q361629",
+  "eventType": "death",
+  "statements": [
+   "Q361629$B3BCC521-4177-4570-8D29-52488833F4E5"
+  ]
+ },
+ "Q36242:death": {
+  "entity": "Q36242",
+  "eventType": "death",
+  "statements": [
+   "Q36242$F277DC61-CCDD-4C9D-9BA1-0607F413D7DC"
+  ]
+ },
+ "Q3636344:battle": {
+  "entity": "Q3636344",
+  "eventType": "battle",
+  "statements": [
+   "Q3636344$728eec22-42d8-cd8c-b252-f1d7b2c08a41"
+  ]
+ },
+ "Q3636537:battle": {
+  "entity": "Q3636537",
+  "eventType": "battle",
+  "statements": [
+   "Q3636537$b5b67e13-43ff-9f47-a147-bb07ba8f6100"
+  ]
+ },
+ "Q3636556:battle": {
+  "entity": "Q3636556",
+  "eventType": "battle",
+  "statements": [
+   "Q3636556$24f3bc4b-4bb1-f1c9-e21f-3c65414e2fca"
+  ]
+ },
+ "Q3636624:battle": {
+  "entity": "Q3636624",
+  "eventType": "battle",
+  "statements": [
+   "Q3636624$2834e63d-4f71-cf3c-a157-356840561e03"
+  ]
+ },
+ "Q3656607:siege": {
+  "entity": "Q3656607",
+  "eventType": "siege",
+  "statements": [
+   "Q3656607$F60A7D0C-2154-41C4-8D5F-FD50A6C3607A"
+  ]
+ },
+ "Q3668696:founded": {
+  "entity": "Q3668696",
+  "eventType": "founded",
+  "statements": [
+   "Q3668696$1634C328-8048-4EA5-84A8-E581C29CBB68"
+  ]
+ },
+ "Q36731:birth": {
+  "entity": "Q36731",
+  "eventType": "birth",
+  "statements": [
+   "Q36731$8A433400-AE5B-42D3-9CD3-2094632AEA10"
+  ]
+ },
+ "Q36731:death": {
+  "entity": "Q36731",
+  "eventType": "death",
+  "statements": [
+   "Q36731$0BD5A5A6-6B24-4686-9180-F5AA05F4012B"
+  ]
+ },
+ "Q37594:birth": {
+  "entity": "Q37594",
+  "eventType": "birth",
+  "statements": [
+   "Q37594$b0b9e204-4e8f-6242-b7da-3da23e3d1344"
+  ]
+ },
+ "Q37594:death": {
+  "entity": "Q37594",
+  "eventType": "death",
+  "statements": [
+   "Q37594$ac8509f4-42c9-ac4f-4cae-cc0b7a63674b"
+  ]
+ },
+ "Q376662:birth": {
+  "entity": "Q376662",
+  "eventType": "birth",
+  "statements": [
+   "Q376662$66F6C9F8-8F92-4856-BA02-285ECCD47F3B"
+  ]
+ },
+ "Q376662:death": {
+  "entity": "Q376662",
+  "eventType": "death",
+  "statements": [
+   "Q376662$61555A60-27EC-4058-BAD3-93A29C88285A"
+  ]
+ },
+ "Q377753:massacre": {
+  "entity": "Q377753",
+  "eventType": "massacre",
+  "statements": [
+   "Q377753$c45b381a-47da-6ffe-7a64-03a14a9fcecf"
+  ]
+ },
+ "Q391944:birth": {
+  "entity": "Q391944",
+  "eventType": "birth",
+  "statements": [
+   "Q391944$B658826F-C69A-4DFB-99A0-A91D8EB7112C"
+  ]
+ },
+ "Q391944:death": {
+  "entity": "Q391944",
+  "eventType": "death",
+  "statements": [
+   "q391944$E13AE6CF-3ECC-45E7-9005-87D738B2FE09"
+  ]
+ },
+ "Q4000595:birth": {
+  "entity": "Q4000595",
+  "eventType": "birth",
+  "statements": [
+   "Q4000595$f5b11c4e-402d-54c4-b8a0-bb95adcb8221"
+  ]
+ },
+ "Q4000595:death": {
+  "entity": "Q4000595",
+  "eventType": "death",
+  "statements": [
+   "Q4000595$9A40E517-9F15-4858-ACF6-199C601DC3EE"
+  ]
+ },
+ "Q40037480:battle": {
+  "entity": "Q40037480",
+  "eventType": "battle",
+  "statements": [
+   "Q40037480$13F89AB2-51E1-4DB3-B964-762847364CD1"
+  ]
+ },
+ "Q40061:birth": {
+  "entity": "Q40061",
+  "eventType": "birth",
+  "statements": [
+   "Q40061$33454dbf-4a50-6e70-df48-03f3f989b177"
+  ]
+ },
+ "Q40061:death": {
+  "entity": "Q40061",
+  "eventType": "death",
+  "statements": [
+   "q40061$9963C024-DF4F-4826-8AE7-2765A716FFA9"
+  ]
+ },
+ "Q41380:birth": {
+  "entity": "Q41380",
+  "eventType": "birth",
+  "statements": [
+   "q41380$1a558320-4998-b874-618d-40932fec1faa"
+  ]
+ },
+ "Q41380:death": {
+  "entity": "Q41380",
+  "eventType": "death",
+  "statements": [
+   "q41380$449eac8c-44b4-2d31-3cce-745c7da9df93"
+  ]
+ },
+ "Q41600:birth": {
+  "entity": "Q41600",
+  "eventType": "birth",
+  "statements": [
+   "Q41600$8015D06F-8F41-41FA-97FD-BBF528227BC3"
+  ]
+ },
+ "Q41600:death": {
+  "entity": "Q41600",
+  "eventType": "death",
+  "statements": [
+   "q41600$2F2B9FB9-291F-46C4-9F34-B7B731163E46"
+  ]
+ },
+ "Q42376943:birth": {
+  "entity": "Q42376943",
+  "eventType": "birth",
+  "statements": [
+   "Q42376943$31a10f54-500f-48d5-8e13-c9e748dacdea"
+  ]
+ },
+ "Q42376943:death": {
+  "entity": "Q42376943",
+  "eventType": "death",
+  "statements": [
+   "Q42376943$99D2BF2D-4B47-476C-A46C-11B14CA974FA"
+  ]
+ },
+ "Q4329885:death": {
+  "entity": "Q4329885",
+  "eventType": "death",
+  "statements": [
+   "Q4329885$E49AAE2E-6D5A-4E3D-B019-1E9B5CEAC237"
+  ]
+ },
+ "Q4335039:birth": {
+  "entity": "Q4335039",
+  "eventType": "birth",
+  "statements": [
+   "Q4335039$04aef970-413c-cafc-3b54-c03edf17abf4"
+  ]
+ },
+ "Q4335039:death": {
+  "entity": "Q4335039",
+  "eventType": "death",
+  "statements": [
+   "Q4335039$876121c3-43cb-be0c-e59e-8b3f50c2f56c"
+  ]
+ },
+ "Q4364607:birth": {
+  "entity": "Q4364607",
+  "eventType": "birth",
+  "statements": [
+   "Q4364607$84060E69-C696-4532-8FC6-D8BCEE30312E"
+  ]
+ },
+ "Q451790:death": {
+  "entity": "Q451790",
+  "eventType": "death",
+  "statements": [
+   "Q451790$73cc26cf-4a37-886f-d77f-5816bb96d51d"
+  ]
+ },
+ "Q452753:birth": {
+  "entity": "Q452753",
+  "eventType": "birth",
+  "statements": [
+   "Q452753$3DA5B692-0A93-4D69-8F7C-1E64AF19D662"
+  ]
+ },
+ "Q452753:death": {
+  "entity": "Q452753",
+  "eventType": "death",
+  "statements": [
+   "Q452753$0E565A7A-4F60-4781-ACEC-6E3E25F3DD76"
+  ]
+ },
+ "Q45465:birth": {
+  "entity": "Q45465",
+  "eventType": "birth",
+  "statements": [
+   "Q45465$c196f42e-4240-abf6-cd8d-1db817aebb7b"
+  ]
+ },
+ "Q456993:battle": {
+  "entity": "Q456993",
+  "eventType": "battle",
+  "statements": [
+   "Q456993$ebd0bf20-4bcc-9c30-64c2-105dd3b21f18"
+  ]
+ },
+ "Q462856:birth": {
+  "entity": "Q462856",
+  "eventType": "birth",
+  "statements": [
+   "Q462856$87F526A3-39CD-4056-BE11-DF999E90E3D0"
+  ]
+ },
+ "Q462856:death": {
+  "entity": "Q462856",
+  "eventType": "death",
+  "statements": [
+   "Q462856$A8256706-8366-4CE6-B209-7B5C5A72920F"
+  ]
+ },
+ "Q464162:birth": {
+  "entity": "Q464162",
+  "eventType": "birth",
+  "statements": [
+   "Q464162$50b34410-43e2-8352-f18f-b0bfad4c2cba"
+  ]
+ },
+ "Q464162:death": {
+  "entity": "Q464162",
+  "eventType": "death",
+  "statements": [
+   "Q464162$F6E23381-03D8-4172-AD05-E954767957BC"
+  ]
+ },
+ "Q4770542:birth": {
+  "entity": "Q4770542",
+  "eventType": "birth",
+  "statements": [
+   "Q4770542$0762823C-6CBD-41C3-892B-BC51A75B58C5"
+  ]
+ },
+ "Q4770542:death": {
+  "entity": "Q4770542",
+  "eventType": "death",
+  "statements": [
+   "Q4770542$4F23BDEB-FE7D-4CE1-91AD-4DD21A534AD6"
+  ]
+ },
+ "Q49961:birth": {
+  "entity": "Q49961",
+  "eventType": "birth",
+  "statements": [
+   "Q49961$7EF0A417-465C-4A3C-9BF0-63A0ED7F99BA"
+  ]
+ },
+ "Q49961:death": {
+  "entity": "Q49961",
+  "eventType": "death",
+  "statements": [
+   "Q49961$7E553034-5F4D-4BC6-80EC-C1A67A9D3B73"
+  ]
+ },
+ "Q49964:synod": {
+  "entity": "Q49964",
+  "eventType": "synod",
+  "statements": [
+   "Q49964$428b00f6-452c-426e-97de-2ca80bc08497"
+  ]
+ },
+ "Q499768:naval battle": {
+  "entity": "Q499768",
+  "eventType": "naval battle",
+  "statements": [
+   "Q499768$5ac6261d-4676-d62e-b838-b2fc02f6baf2"
+  ]
+ },
+ "Q51648:religious controversy": {
+  "entity": "Q51648",
+  "eventType": "religious controversy",
+  "statements": [
+   "Q51648$6D19CDDF-D2E0-4D5B-9501-E798C6644BC8"
+  ]
+ },
+ "Q51649:religious war": {
+  "entity": "Q51649",
+  "eventType": "religious war",
+  "statements": [
+   "Q51649$F1A28792-0BAC-4E0A-9E49-A432F5CD92B5"
+  ]
+ },
+ "Q51651:massacre": {
+  "entity": "Q51651",
+  "eventType": "massacre",
+  "statements": [
+   "Q51651$9b46fd09-44a2-d35b-37fe-7fd2a17910cc"
+  ]
+ },
+ "Q540099:birth": {
+  "entity": "Q540099",
+  "eventType": "birth",
+  "statements": [
+   "Q540099$019795B9-470B-4246-8E65-702580F0A388"
+  ]
+ },
+ "Q540099:death": {
+  "entity": "Q540099",
+  "eventType": "death",
+  "statements": [
+   "Q540099$4AEDC895-6DDD-4573-B1DA-5774AB310F32"
+  ]
+ },
+ "Q5452886:marching": {
+  "entity": "Q5452886",
+  "eventType": "marching",
+  "statements": [
+   "Q5452886$903fb493-4d12-2e5a-ac61-728feabaae1d"
+  ]
+ },
+ "Q54554836:battle": {
+  "entity": "Q54554836",
+  "eventType": "battle",
+  "statements": [
+   "Q54554836$529b2954-4382-3d6b-65cd-e12bf5ffa226"
+  ]
+ },
+ "Q5534409:birth": {
+  "entity": "Q5534409",
+  "eventType": "birth",
+  "statements": [
+   "Q5534409$d527ee20-4d84-775b-8c84-bc4f8ba56d44"
+  ]
+ },
+ "Q5534409:death": {
+  "entity": "Q5534409",
+  "eventType": "death",
+  "statements": [
+   "Q5534409$471ef84b-46f4-d1b9-e21b-e6c13950fb7c"
+  ]
+ },
+ "Q5576822:birth": {
+  "entity": "Q5576822",
+  "eventType": "birth",
+  "statements": [
+   "Q5576822$f71b15b4-4c84-cfb8-25a3-909c49350595"
+  ]
+ },
+ "Q5576822:death": {
+  "entity": "Q5576822",
+  "eventType": "death",
+  "statements": [
+   "Q5576822$36B72DBF-081A-4BEB-B029-9A93799AEB8F"
+  ]
+ },
+ "Q5639335:birth": {
+  "entity": "Q5639335",
+  "eventType": "birth",
+  "statements": [
+   "Q5639335$5ca6403f-4507-708b-e10b-27146de30084"
+  ]
+ },
+ "Q5639335:death": {
+  "entity": "Q5639335",
+  "eventType": "death",
+  "statements": [
+   "Q5639335$28D1A958-FFF7-4DA9-A605-EDF26572B650"
+  ]
+ },
+ "Q56648979:death": {
+  "entity": "Q56648979",
+  "eventType": "death",
+  "statements": [
+   "Q56648979$5c787451-4164-42fb-0bf7-e3cb77674a01"
+  ]
+ },
+ "Q5781092:church council": {
+  "entity": "Q5781092",
+  "eventType": "church council",
+  "statements": [
+   "Q5781092$53a8326c-4c3c-12e7-e247-651300979dc4"
+  ]
+ },
+ "Q58559:birth": {
+  "entity": "Q58559",
+  "eventType": "birth",
+  "statements": [
+   "q58559$E0B8D8D6-46DC-475E-8CA0-B44C9E10ADC4"
+  ]
+ },
+ "Q58559:death": {
+  "entity": "Q58559",
+  "eventType": "death",
+  "statements": [
+   "q58559$5E27422E-EB68-44E5-834E-EF07447B773B"
+  ]
+ },
+ "Q60094:birth": {
+  "entity": "Q60094",
+  "eventType": "birth",
+  "statements": [
+   "Q60094$6E63C4C8-87AA-4F49-9EF5-8F5C384A0912"
+  ]
+ },
+ "Q60094:death": {
+  "entity": "Q60094",
+  "eventType": "death",
+  "statements": [
+   "Q60094$55FB5875-DC99-4705-9CD9-70C5D8E2FA24"
+  ]
+ },
+ "Q6099197:birth": {
+  "entity": "Q6099197",
+  "eventType": "birth",
+  "statements": [
+   "Q6099197$f56e4403-4548-c2d7-54cb-5b18b9ca041f"
+  ]
+ },
+ "Q6099197:death": {
+  "entity": "Q6099197",
+  "eventType": "death",
+  "statements": [
+   "Q6099197$3C8D408F-20A5-4588-87F9-E6E0F0667A23"
+  ]
+ },
+ "Q61807186:birth": {
+  "entity": "Q61807186",
+  "eventType": "birth",
+  "statements": [
+   "Q61807186$571E9938-A4FC-4FC6-B724-EEF60FF1AB89"
+  ]
+ },
+ "Q61807186:death": {
+  "entity": "Q61807186",
+  "eventType": "death",
+  "statements": [
+   "Q61807186$BABA7BB5-F10F-4EAA-8995-FA5BAC16AA91"
+  ]
+ },
+ "Q61896242:birth": {
+  "entity": "Q61896242",
+  "eventType": "birth",
+  "statements": [
+   "Q61896242$8224200E-64D7-403F-BE72-334A37BE142E"
+  ]
+ },
+ "Q61896242:death": {
+  "entity": "Q61896242",
+  "eventType": "death",
+  "statements": [
+   "Q61896242$9CEFDADF-3F31-469A-8E82-D4DE1876B45E"
+  ]
+ },
+ "Q61963089:birth": {
+  "entity": "Q61963089",
+  "eventType": "birth",
+  "statements": [
+   "Q61963089$35b38379-4de7-0869-aeb8-531d45b6c78c"
+  ]
+ },
+ "Q61963089:death": {
+  "entity": "Q61963089",
+  "eventType": "death",
+  "statements": [
+   "Q61963089$f5a47da6-4655-3952-988a-8fdd1642deda"
+  ]
+ },
+ "Q62378:founded": {
+  "entity": "Q62378",
+  "eventType": "founded",
+  "statements": [
+   "Q62378$804094e0-4aca-80e4-4286-82b6138296b4"
+  ]
+ },
+ "Q62978447:birth": {
+  "entity": "Q62978447",
+  "eventType": "birth",
+  "statements": [
+   "Q62978447$83DA9660-D35D-4A60-A677-7ABA6BA83760"
+  ]
+ },
+ "Q62978447:death": {
+  "entity": "Q62978447",
+  "eventType": "death",
+  "statements": [
+   "Q62978447$AF66CDAA-26C0-4B2B-A82C-EA27722B56F8"
+  ]
+ },
+ "Q62978706:birth": {
+  "entity": "Q62978706",
+  "eventType": "birth",
+  "statements": [
+   "Q62978706$3e4dc448-4943-32ea-0525-cc2c31694b4b"
+  ]
+ },
+ "Q62978706:death": {
+  "entity": "Q62978706",
+  "eventType": "death",
+  "statements": [
+   "Q62978706$c7a19e4f-469e-d31d-b18d-987e30326874"
+  ]
+ },
+ "Q6305112:birth": {
+  "entity": "Q6305112",
+  "eventType": "birth",
+  "statements": [
+   "Q6305112$71509783-9CBB-4586-A825-F3C5DA30EA92"
+  ]
+ },
+ "Q6305112:death": {
+  "entity": "Q6305112",
+  "eventType": "death",
+  "statements": [
+   "Q6305112$0b40d4b1-4f2b-fab8-1973-1c2e865120f9"
+  ]
+ },
+ "Q640793:birth": {
+  "entity": "Q640793",
+  "eventType": "birth",
+  "statements": [
+   "Q640793$B6FF8BC0-FD71-42FB-A930-334AD5995281"
+  ]
+ },
+ "Q640793:death": {
+  "entity": "Q640793",
+  "eventType": "death",
+  "statements": [
+   "Q640793$D3834A1E-F621-481B-A65C-3BBCFDA0E189"
+  ]
+ },
+ "Q642117:siege": {
+  "entity": "Q642117",
+  "eventType": "siege",
+  "statements": [
+   "Q642117$5309AC70-1FAA-458B-9D75-5259259FA43A"
+  ]
+ },
+ "Q64617504:birth": {
+  "entity": "Q64617504",
+  "eventType": "birth",
+  "statements": [
+   "Q64617504$D2C693CE-F3C1-4CFB-9FF1-7D5A07BC2FA8"
+  ]
+ },
+ "Q64617504:death": {
+  "entity": "Q64617504",
+  "eventType": "death",
+  "statements": [
+   "Q64617504$17B68AE3-EB1C-43D3-A123-C143D952A1B3"
+  ]
+ },
+ "Q64682504:birth": {
+  "entity": "Q64682504",
+  "eventType": "birth",
+  "statements": [
+   "Q64682504$47a00519-2493-423b-9ddf-dfc58610c1eb"
+  ]
+ },
+ "Q64682504:death": {
+  "entity": "Q64682504",
+  "eventType": "death",
+  "statements": [
+   "Q64682504$79DDE53F-8772-400C-ADA3-C5AD3EF88772"
+  ]
+ },
+ "Q650678:founded": {
+  "entity": "Q650678",
+  "eventType": "founded",
+  "statements": [
+   "Q650678$6AD0347E-0355-4BB1-8312-0B7A5BB2AEA2"
+  ]
+ },
+ "Q65084906:birth": {
+  "entity": "Q65084906",
+  "eventType": "birth",
+  "statements": [
+   "Q65084906$A5505A5B-EF4F-4B3A-8B5C-C0512451210D"
+  ]
+ },
+ "Q65084906:death": {
+  "entity": "Q65084906",
+  "eventType": "death",
+  "statements": [
+   "Q65084906$C4B2F249-9664-450E-96D0-8366B0FE1E90"
+  ]
+ },
+ "Q6519156:founded": {
+  "entity": "Q6519156",
+  "eventType": "founded",
+  "statements": [
+   "Q6519156$551e316f-48ca-8bc5-a823-7262ea7072c0"
+  ]
+ },
+ "Q6837633:birth": {
+  "entity": "Q6837633",
+  "eventType": "birth",
+  "statements": [
+   "Q6837633$eb4a35fe-4807-21f4-6203-05726641f33a"
+  ]
+ },
+ "Q6837633:death": {
+  "entity": "Q6837633",
+  "eventType": "death",
+  "statements": [
+   "Q6837633$256a592d-49c4-3da6-41e9-de250bac8d9b"
+  ]
+ },
+ "Q695950:birth": {
+  "entity": "Q695950",
+  "eventType": "birth",
+  "statements": [
+   "Q695950$F4058302-69D3-4917-8746-EF97DE6956A2"
+  ]
+ },
+ "Q695950:death": {
+  "entity": "Q695950",
+  "eventType": "death",
+  "statements": [
+   "Q695950$2B6B69E9-0222-4C69-B0BB-B08EB9B3EA43"
+  ]
+ },
+ "Q704988:birth": {
+  "entity": "Q704988",
+  "eventType": "birth",
+  "statements": [
+   "Q704988$962695B5-68C1-470C-B8EB-887EB395AD71"
+  ]
+ },
+ "Q704988:death": {
+  "entity": "Q704988",
+  "eventType": "death",
+  "statements": [
+   "Q704988$0354A06F-6998-4DFC-9DAC-FC5AC128503E"
+  ]
+ },
+ "Q706674:birth": {
+  "entity": "Q706674",
+  "eventType": "birth",
+  "statements": [
+   "Q706674$22098B98-84E6-42C7-9E64-27FADAD40198"
+  ]
+ },
+ "Q706674:death": {
+  "entity": "Q706674",
+  "eventType": "death",
+  "statements": [
+   "Q706674$31C5DA88-0D1F-4BE2-9A1F-CE7DE7859D88"
+  ]
+ },
+ "Q7105732:birth": {
+  "entity": "Q7105732",
+  "eventType": "birth",
+  "statements": [
+   "Q7105732$BFDDFE2E-CDD0-44B4-BE4B-5EDAA0633A13"
+  ]
+ },
+ "Q7105732:death": {
+  "entity": "Q7105732",
+  "eventType": "death",
+  "statements": [
+   "Q7105732$A601C0A0-C10A-4F5D-90A7-0F1A355BB969"
+  ]
+ },
+ "Q7191067:birth": {
+  "entity": "Q7191067",
+  "eventType": "birth",
+  "statements": [
+   "Q7191067$6D0760AA-61A5-4CEF-8CA8-F9E702EC0453"
+  ]
+ },
+ "Q7191067:death": {
+  "entity": "Q7191067",
+  "eventType": "death",
+  "statements": [
+   "Q7191067$ecc836a7-4b44-927e-5051-ecfd88df3236"
+  ]
+ },
+ "Q724235:birth": {
+  "entity": "Q724235",
+  "eventType": "birth",
+  "statements": [
+   "Q724235$E7B849CF-A1F2-45E3-9274-EDBABC8EA664"
+  ]
+ },
+ "Q724235:death": {
+  "entity": "Q724235",
+  "eventType": "death",
+  "statements": [
+   "Q724235$bf1fa01c-4e65-8db6-1be5-efe9bdf0c146"
+  ]
+ },
+ "Q727760:founded": {
+  "entity": "Q727760",
+  "eventType": "founded",
+  "statements": [
+   "Q727760$2BA077B0-40D2-4649-8805-F58137EBB664"
+  ]
+ },
+ "Q7330184:birth": {
+  "entity": "Q7330184",
+  "eventType": "birth",
+  "statements": [
+   "Q7330184$499975ca-48b1-4d41-7d04-098899c5e13c"
+  ]
+ },
+ "Q7330184:death": {
+  "entity": "Q7330184",
+  "eventType": "death",
+  "statements": [
+   "Q7330184$56e96e89-480d-1327-5589-8e9733ed7761"
+  ]
+ },
+ "Q7351421:death": {
+  "entity": "Q7351421",
+  "eventType": "death",
+  "statements": [
+   "Q7351421$a27b62a1-4cfb-b3f1-edeb-1f7cac42acaa"
+  ]
+ },
+ "Q7359188:birth": {
+  "entity": "Q7359188",
+  "eventType": "birth",
+  "statements": [
+   "Q7359188$0E0ADE61-E6B9-4433-ABC5-3876EF6220ED"
+  ]
+ },
+ "Q7359188:death": {
+  "entity": "Q7359188",
+  "eventType": "death",
+  "statements": [
+   "Q7359188$D3744D0F-20E6-47B4-B442-B25CC9236724"
+  ]
+ },
+ "Q7359223:birth": {
+  "entity": "Q7359223",
+  "eventType": "birth",
+  "statements": [
+   "Q7359223$C1998D2F-3350-4245-9F4C-8EDC688C703B"
+  ]
+ },
+ "Q7359223:death": {
+  "entity": "Q7359223",
+  "eventType": "death",
+  "statements": [
+   "Q7359223$D9DAB02F-B176-4F9F-A6F6-C93EF9EFD2FC"
+  ]
+ },
+ "Q741098:siege": {
+  "entity": "Q741098",
+  "eventType": "siege",
+  "statements": [
+   "Q741098$72d61ec2-4a52-d2ea-918c-a1edd25e1384"
+  ]
+ },
+ "Q7509995:battle": {
+  "entity": "Q7509995",
+  "eventType": "battle",
+  "statements": [
+   "Q7509995$CF7BDA86-33B8-4DBC-AB7F-2CA3443034E8"
+  ]
+ },
+ "Q75558705:birth": {
+  "entity": "Q75558705",
+  "eventType": "birth",
+  "statements": [
+   "Q75558705$5191A8AE-5466-40D3-AB61-49F4B512BDA1"
+  ]
+ },
+ "Q75558705:death": {
+  "entity": "Q75558705",
+  "eventType": "death",
+  "statements": [
+   "Q75558705$a2b3fcc8-4362-1e62-2fa4-13ba5a24f44d"
+  ]
+ },
+ "Q75591914:birth": {
+  "entity": "Q75591914",
+  "eventType": "birth",
+  "statements": [
+   "Q75591914$6ac93e47-46e3-0990-a0e0-8bfa2a53bae6"
+  ]
+ },
+ "Q75591914:death": {
+  "entity": "Q75591914",
+  "eventType": "death",
+  "statements": [
+   "Q75591914$0A37E3CD-1339-45F5-8D7F-EBA475045F7B"
+  ]
+ },
+ "Q75891206:birth": {
+  "entity": "Q75891206",
+  "eventType": "birth",
+  "statements": [
+   "Q75891206$CB443BCD-4877-4CED-9B1A-C1826A4CFC5F"
+  ]
+ },
+ "Q75891206:death": {
+  "entity": "Q75891206",
+  "eventType": "death",
+  "statements": [
+   "Q75891206$3BDC597C-033E-4AD6-BC99-1247B2D3F3CF"
+  ]
+ },
+ "Q76147979:birth": {
+  "entity": "Q76147979",
+  "eventType": "birth",
+  "statements": [
+   "Q76147979$7c06d17a-4460-4dc0-7520-122514ca8df3"
+  ]
+ },
+ "Q76147979:death": {
+  "entity": "Q76147979",
+  "eventType": "death",
+  "statements": [
+   "Q76147979$bf4c9808-4ec1-f7d0-ba7d-15cfa13583e0"
+  ]
+ },
+ "Q76721:birth": {
+  "entity": "Q76721",
+  "eventType": "birth",
+  "statements": [
+   "Q76721$355581CB-DD6D-4EA7-813C-1FC75B283EA3"
+  ]
+ },
+ "Q76721:death": {
+  "entity": "Q76721",
+  "eventType": "death",
+  "statements": [
+   "Q76721$86319e65-4e35-e08a-c5ed-a5262ed76d70"
+  ]
+ },
+ "Q7856358:birth": {
+  "entity": "Q7856358",
+  "eventType": "birth",
+  "statements": [
+   "Q7856358$c0c92849-b156-4de5-91bb-067ee319ab57"
+  ]
+ },
+ "Q7856358:death": {
+  "entity": "Q7856358",
+  "eventType": "death",
+  "statements": [
+   "Q7856358$31ab0dd7-4e2b-01d2-ca95-0800621928dd"
+  ]
+ },
+ "Q7964630:birth": {
+  "entity": "Q7964630",
+  "eventType": "birth",
+  "statements": [
+   "Q7964630$2972412e-4c26-3c54-c7c4-e554ffa9b4ec"
+  ]
+ },
+ "Q7964630:death": {
+  "entity": "Q7964630",
+  "eventType": "death",
+  "statements": [
+   "Q7964630$49283424-4ff2-2e5b-c060-cd3565429104"
+  ]
+ },
+ "Q7966530:birth": {
+  "entity": "Q7966530",
+  "eventType": "birth",
+  "statements": [
+   "Q7966530$7BC4A171-3F5F-4F1A-A376-8DCE9E084317"
+  ]
+ },
+ "Q7966530:death": {
+  "entity": "Q7966530",
+  "eventType": "death",
+  "statements": [
+   "Q7966530$3685F176-662E-42A8-8BC3-2B764F70174E"
+  ]
+ },
+ "Q8009085:birth": {
+  "entity": "Q8009085",
+  "eventType": "birth",
+  "statements": [
+   "Q8009085$d317b8ce-f5a8-450e-9cd1-e306c0dee28e"
+  ]
+ },
+ "Q8009085:death": {
+  "entity": "Q8009085",
+  "eventType": "death",
+  "statements": [
+   "Q8009085$df9f3a6e-4e93-932f-1ee8-c1ea9641f1eb"
+  ]
+ },
+ "Q8016842:birth": {
+  "entity": "Q8016842",
+  "eventType": "birth",
+  "statements": [
+   "Q8016842$4F274D89-40F2-4963-A35C-79629EF13A28"
+  ]
+ },
+ "Q8016842:death": {
+  "entity": "Q8016842",
+  "eventType": "death",
+  "statements": [
+   "Q8016842$2AABF3AF-AF60-412A-88EF-286DC27C4668"
+  ]
+ },
+ "Q8020740:birth": {
+  "entity": "Q8020740",
+  "eventType": "birth",
+  "statements": [
+   "Q8020740$E2A9F2F0-E8B5-4C8C-A542-FEE60166CFC5"
+  ]
+ },
+ "Q8020856:birth": {
+  "entity": "Q8020856",
+  "eventType": "birth",
+  "statements": [
+   "Q8020856$4666CF67-FAE6-4CEC-B20C-6F7FDE894E3E"
+  ]
+ },
+ "Q8020856:death": {
+  "entity": "Q8020856",
+  "eventType": "death",
+  "statements": [
+   "Q8020856$463463E6-9E4D-40C0-AF65-A2751B51BA5D"
+  ]
+ },
+ "Q80637:founded": {
+  "entity": "Q80637",
+  "eventType": "founded",
+  "statements": [
+   "Q80637$c30a98eb-46b1-7d99-0df2-3b67be1c75ac"
+  ]
+ },
+ "Q811187:birth": {
+  "entity": "Q811187",
+  "eventType": "birth",
+  "statements": [
+   "Q811187$94891347-BD76-4D2C-B501-17E5063B4F0B"
+  ]
+ },
+ "Q811187:death": {
+  "entity": "Q811187",
+  "eventType": "death",
+  "statements": [
+   "Q811187$5c6aa31c-4c5e-3f38-ffdd-5025dc9cd69a"
+  ]
+ },
+ "Q827472:siege": {
+  "entity": "Q827472",
+  "eventType": "siege",
+  "statements": [
+   "Q827472$4704a31e-4456-8aad-8b6c-42e2dff0609f"
+  ]
+ },
+ "Q830878:battle": {
+  "entity": "Q830878",
+  "eventType": "battle",
+  "statements": [
+   "Q830878$2FB0A500-ED6B-4F67-9DE9-A566FDDE80ED"
+  ]
+ },
+ "Q83224:battle": {
+  "entity": "Q83224",
+  "eventType": "battle",
+  "statements": [
+   "Q83224$f9bfc73c-4d17-8a8d-9c14-1b5242d208dc"
+  ]
+ },
+ "Q933620:birth": {
+  "entity": "Q933620",
+  "eventType": "birth",
+  "statements": [
+   "Q933620$A7B4502A-BBDD-4CF8-A8DB-434500971F93"
+  ]
+ },
+ "Q933620:death": {
+  "entity": "Q933620",
+  "eventType": "death",
+  "statements": [
+   "Q933620$5B24D551-56E9-4260-AA28-07CACA4F510B"
+  ]
+ },
+ "Q952865:birth": {
+  "entity": "Q952865",
+  "eventType": "birth",
+  "statements": [
+   "Q952865$48E8B24D-552B-4EF2-B204-4A1DF85EFB6A"
+  ]
+ },
+ "Q952865:death": {
+  "entity": "Q952865",
+  "eventType": "death",
+  "statements": [
+   "Q952865$703942F2-73A2-4F9D-93E0-0F665175BCFE"
+  ]
+ },
+ "Q98960284:birth": {
+  "entity": "Q98960284",
+  "eventType": "birth",
+  "statements": [
+   "Q98960284$4BF4C268-11D7-47AE-8ED2-35431A34E24D"
+  ]
+ },
+ "Q98960284:death": {
+  "entity": "Q98960284",
+  "eventType": "death",
+  "statements": [
+   "Q98960284$64BA40A6-E785-4C45-8EAB-27DFEBE6A072"
+  ]
+ }
+}

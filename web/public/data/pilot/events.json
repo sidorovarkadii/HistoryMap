@@ -1,0 +1,6555 @@
+[
+ {
+  "entity": "Q452753",
+  "eventType": "birth",
+  "title": "Birth of William I, Duke of Aquitaine",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0875-03-22T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2040731.5,
+    "latestJd": 2040732.5,
+    "statementId": "Q452753$3DA5B692-0A93-4D69-8F7C-1E64AF19D662",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q452753:birth",
+  "year": 875.255
+ },
+ {
+  "entity": "Q1529391",
+  "eventType": "founded",
+  "title": "Foundation of Order of Cluny",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0909-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2053070.5,
+    "latestJd": 2053435.5,
+    "statementId": "Q1529391$1DF215BA-ECF7-4686-8064-47C67372EB90",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1529391:founded",
+  "year": 909.536
+ },
+ {
+  "entity": "Q220301",
+  "eventType": "founded",
+  "title": "Foundation of Cluny Abbey",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0909-09-02T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2053314.5,
+    "latestJd": 2053800.5,
+    "statementId": "Q220301$f7f9a6af-4b25-056e-6b8d-ca68694d4656",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 46.434051,
+   "lon": 4.659221,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q220301"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q220301:founded",
+  "year": 910.37
+ },
+ {
+  "entity": "Q452753",
+  "eventType": "death",
+  "title": "Death of William I, Duke of Aquitaine",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0918-07-06T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2056543.5,
+    "latestJd": 2056544.5,
+    "statementId": "Q452753$0E565A7A-4F60-4781-ACEC-6E3E25F3DD76",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 45.294166666667,
+   "lon": 3.3841666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q203303 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q452753:death",
+  "year": 918.546
+ },
+ {
+  "entity": "Q333359",
+  "eventType": "birth",
+  "title": "Birth of Richard I of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0933-08-28T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2062070.5,
+    "latestJd": 2062071.5,
+    "statementId": "Q333359$FDA2EB6A-58F0-46DC-8F84-D756D431759B",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.7575,
+   "lon": 0.37916666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q269732 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q333359:birth",
+  "year": 933.678
+ },
+ {
+  "entity": "Q192925",
+  "eventType": "birth",
+  "title": "Birth of Edgar of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0943-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2065488.5,
+    "latestJd": 2066219.5,
+    "statementId": "Q192925$A3F70725-8E85-47FA-8FD7-63A2C4F32EA9",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.2,
+   "lon": -2,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q105313 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q192925:birth",
+  "year": 944.036
+ },
+ {
+  "entity": "Q270777",
+  "eventType": "birth",
+  "title": "Birth of Gunnora",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0950-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2068040.5,
+    "latestJd": 2068405.5,
+    "statementId": "Q270777$16F999D6-13AA-452A-9A80-E2A04A9592D8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.443055555556,
+   "lon": 1.1025,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q30974 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q270777:birth",
+  "year": 950.522
+ },
+ {
+  "entity": "Q2887133",
+  "eventType": "birth",
+  "title": "Birth of Gunhild of Wenden",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0901-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "gregorian",
+    "earliestJd": 2050143.5,
+    "latestJd": 2086667.5,
+    "statementId": "Q2887133$8AA12100-6476-4A41-8D3F-D1948EEE7A2A",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2887133:birth",
+  "year": 951.021
+ },
+ {
+  "entity": "Q4364607",
+  "eventType": "birth",
+  "title": "Birth of Eadred Ætheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0901-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "gregorian",
+    "earliestJd": 2050143.5,
+    "latestJd": 2086667.5,
+    "statementId": "Q4364607$84060E69-C696-4532-8FC6-D8BCEE30312E",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q4364607:birth",
+  "year": 951.021
+ },
+ {
+  "entity": "Q181896",
+  "eventType": "birth",
+  "title": "Birth of Sweyn I of Denmark",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0963-04-17T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2072899.5,
+    "latestJd": 2072900.5,
+    "statementId": "Q181896$555AB4D0-958E-4616-9DD4-FDAF3A72599D",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 56,
+   "lon": 10,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q35 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q181896:birth",
+  "year": 963.326
+ },
+ {
+  "entity": "Q192920",
+  "eventType": "birth",
+  "title": "Birth of Edward the Martyr",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0963-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2072793.5,
+    "latestJd": 2073158.5,
+    "statementId": "Q192920$1c0faf32-4a18-e3aa-98b0-8ee5d4ce9e8a",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q192920:birth",
+  "year": 963.535
+ },
+ {
+  "entity": "Q312613",
+  "eventType": "birth",
+  "title": "Birth of Richard II",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0963-08-23T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2073027.5,
+    "latestJd": 2073028.5,
+    "statementId": "Q312613$8BE06D3F-D95C-4398-9FC9-99D628A327D3",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q312613:birth",
+  "year": 963.677
+ },
+ {
+  "entity": "Q183499",
+  "eventType": "birth",
+  "title": "Birth of Æthelred the Unready",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0968-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2074614.5,
+    "latestJd": 2074980.5,
+    "statementId": "Q183499$637D5977-512D-42E9-8BCC-882896D66481",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.2,
+   "lon": -2,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q105313 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q183499:birth",
+  "year": 968.522
+ },
+ {
+  "entity": "Q192925",
+  "eventType": "death",
+  "title": "Death of Edgar of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0975-07-08T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2077364.5,
+    "latestJd": 2077365.5,
+    "statementId": "q192925$E2858DF4-A120-4108-BFEE-E4B205F2BFBF",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.063333333333,
+   "lon": -1.3086111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q172157 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q192925:death",
+  "year": 975.551
+ },
+ {
+  "entity": "Q192920",
+  "eventType": "death",
+  "title": "Death of Edward the Martyr",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0978-03-18T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2078348.5,
+    "latestJd": 2078349.5,
+    "statementId": "Q192920$C52A6E3C-1782-43D5-B74D-0984394A1015",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.633333333333,
+   "lon": -2.1166666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q5845217 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q192920:death",
+  "year": 978.245
+ },
+ {
+  "entity": "Q26731",
+  "eventType": "birth",
+  "title": "Birth of Tancred of Hauteville",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0980-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2079002.5,
+    "latestJd": 2079368.5,
+    "statementId": "Q26731$2F2BD9C6-3D47-4A43-82D5-AF150805E622",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.045277777778,
+   "lon": -1.4452777777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q202565 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q26731:birth",
+  "year": 980.535
+ },
+ {
+  "entity": "Q188684",
+  "eventType": "birth",
+  "title": "Birth of Edmund II of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0988-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2078997.5,
+    "latestJd": 2082290.5,
+    "statementId": "Q188684$5928be39-4ea8-a179-bee7-bff7d2d5e60f",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.2,
+   "lon": -2,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q105313 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q188684:birth",
+  "year": 984.528
+ },
+ {
+  "entity": "Q1261974",
+  "eventType": "birth",
+  "title": "Birth of Æthelstan Ætheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0980-01-01T00:00:00Z",
+    "precision": "decade",
+    "calendar": "gregorian",
+    "earliestJd": 2078997.5,
+    "latestJd": 2082650.5,
+    "statementId": "Q1261974$DFB424C1-C5DF-4ED0-B3A0-9804DB094F6B",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1261974:birth",
+  "year": 985.021
+ },
+ {
+  "entity": "Q40061",
+  "eventType": "birth",
+  "title": "Birth of Emma of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0987-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2081554.5,
+    "latestJd": 2081919.5,
+    "statementId": "Q40061$33454dbf-4a50-6e70-df48-03f3f989b177",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q40061:birth",
+  "year": 987.521
+ },
+ {
+  "entity": "Q311011",
+  "eventType": "birth",
+  "title": "Birth of Harald II of Denmark",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0994-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2082290.5,
+    "latestJd": 2084476.5,
+    "statementId": "Q311011$DD46CB5A-5297-47E5-B8EB-B194E34CE2CC",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q311011:birth",
+  "year": 992.029
+ },
+ {
+  "entity": "Q134128",
+  "eventType": "birth",
+  "title": "Birth of Cnut the Great",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0994-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2084116.5,
+    "latestJd": 2084481.5,
+    "statementId": "Q134128$F22D85D5-6FBD-43E7-86D9-2AA930FB4079",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 56,
+   "lon": 10,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q35 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q134128:birth",
+  "year": 994.535
+ },
+ {
+  "entity": "Q208331",
+  "eventType": "birth",
+  "title": "Birth of Olaf II of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0995-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2084481.5,
+    "latestJd": 2084846.5,
+    "statementId": "Q208331$0326B77B-DB77-49BA-8855-46E4FE9BB367",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 60.205278,
+   "lon": 10.1525,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q3446219 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q208331:birth",
+  "year": 995.535
+ },
+ {
+  "entity": "Q333359",
+  "eventType": "death",
+  "title": "Death of Richard I of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+0996-11-20T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2085170.5,
+    "latestJd": 2085171.5,
+    "statementId": "Q333359$378693ED-757B-437F-9AE2-B449F9ACFB04",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.7575,
+   "lon": 0.37916666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q269732 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q333359:death",
+  "year": 996.923
+ },
+ {
+  "entity": "Q58559",
+  "eventType": "birth",
+  "title": "Birth of Leo IX",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1002-06-21T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2087209.5,
+    "latestJd": 2087210.5,
+    "statementId": "q58559$E0B8D8D6-46DC-475E-8CA0-B44C9E10ADC4",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 48.043055555556,
+   "lon": 7.3058333333333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q272897 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q58559:birth",
+  "year": 1002.505
+ },
+ {
+  "entity": "Q3109791",
+  "eventType": "birth",
+  "title": "Birth of Goda of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1002-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2087038.5,
+    "latestJd": 2087403.5,
+    "statementId": "Q3109791$F0CBFE09-D04B-4CBB-A7A1-E8C9D6A6BEB1",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q3109791:birth",
+  "year": 1002.535
+ },
+ {
+  "entity": "Q41380",
+  "eventType": "birth",
+  "title": "Birth of Robert I, Duke of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1004-06-22T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2087941.5,
+    "latestJd": 2087942.5,
+    "statementId": "q41380$1a558320-4998-b874-618d-40932fec1faa",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q41380:birth",
+  "year": 1004.509
+ },
+ {
+  "entity": "Q353829",
+  "eventType": "birth",
+  "title": "Birth of Adela of France",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1009-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2089595.5,
+    "latestJd": 2089960.5,
+    "statementId": "q353829$DD90572B-A1B0-4D49-A6BA-CAEF1C592939",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 48.85666666666667,
+   "lon": 2.352222222222222,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q90 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q353829:birth",
+  "year": 1009.536
+ },
+ {
+  "entity": "Q2634369",
+  "eventType": "birth",
+  "title": "Birth of Gytha Thorkelsdóttir",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1010-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2089960.5,
+    "latestJd": 2090325.5,
+    "statementId": "Q2634369$B3C29314-8B76-48D1-A3D7-408F330AC8D6",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2634369:birth",
+  "year": 1010.535
+ },
+ {
+  "entity": "Q35618",
+  "eventType": "birth",
+  "title": "Birth of Alfred Aetheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1012-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2090690.5,
+    "latestJd": 2091056.5,
+    "statementId": "Q35618$837c8047-44b7-850e-efd9-b1ca9f71ad48",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q35618:birth",
+  "year": 1012.535
+ },
+ {
+  "entity": "Q333384",
+  "eventType": "birth",
+  "title": "Birth of Baldwin V, Count of Flanders",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1012-08-19T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2090921.5,
+    "latestJd": 2090922.5,
+    "statementId": "q333384$FD8C7640-D91C-4EF9-AABD-BDFA248AC238",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.289166666667,
+   "lon": 2.78,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q131329 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q333384:birth",
+  "year": 1012.668
+ },
+ {
+  "entity": "Q181896",
+  "eventType": "death",
+  "title": "Death of Sweyn I of Denmark",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1014-02-03T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2091454.5,
+    "latestJd": 2091455.5,
+    "statementId": "q181896$CC0723D7-1AE6-4738-BFCA-E558143163D8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.4016,
+   "lon": -0.7732,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q288082 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q181896:death",
+  "year": 1014.127
+ },
+ {
+  "entity": "Q1261974",
+  "eventType": "death",
+  "title": "Death of Æthelstan Ætheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1014-06-25T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2091590.5,
+    "latestJd": 2091591.5,
+    "statementId": "Q1261974$2B6701CE-68F7-4C73-AF54-72D0BE222443",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1261974:death",
+  "year": 1014.5
+ },
+ {
+  "entity": "Q171112",
+  "eventType": "birth",
+  "title": "Birth of Alexander II",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1010-00-00T00:00:00Z",
+    "precision": "decade",
+    "calendar": "julian",
+    "earliestJd": 2089960.5,
+    "latestJd": 2093612.5,
+    "statementId": "q171112$b2a1a4d4-42dd-1b95-5655-93fe5908e377",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 45.461666,
+   "lon": 9.089813,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q3632863 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q171112:birth",
+  "year": 1015.035
+ },
+ {
+  "entity": "Q2887133",
+  "eventType": "death",
+  "title": "Death of Gunhild of Wenden",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1014-00-00T00:00:00Z",
+    "precision": "decade",
+    "calendar": "julian",
+    "earliestJd": 2089960.5,
+    "latestJd": 2093612.5,
+    "statementId": "Q2887133$c0d0e169-40ba-3a6a-5e1f-fd518e41096d",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2887133:death",
+  "year": 1015.035
+ },
+ {
+  "entity": "Q203647",
+  "eventType": "birth",
+  "title": "Birth of Harald III of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1015-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2091780.5,
+    "latestJd": 2092145.5,
+    "statementId": "Q203647$B43EF346-5968-4A74-92CC-65795529B7A3",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 60.205280555555554,
+   "lon": 10.1525,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q110848 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q203647:birth",
+  "year": 1015.518
+ },
+ {
+  "entity": "Q183499",
+  "eventType": "death",
+  "title": "Death of Æthelred the Unready",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-04-23T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2092264.5,
+    "latestJd": 2092265.5,
+    "statementId": "q183499$0F1B3927-460E-4314-AC50-8505889FC265",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.507222222222,
+   "lon": -0.1275,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q84 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q183499:death",
+  "year": 1016.345
+ },
+ {
+  "entity": "Q36731",
+  "eventType": "birth",
+  "title": "Birth of Svein Knutsson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2092145.5,
+    "latestJd": 2092511.5,
+    "statementId": "Q36731$8A433400-AE5B-42D3-9CD3-2094632AEA10",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 56,
+   "lon": 10,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q35 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q36731:birth",
+  "year": 1016.519
+ },
+ {
+  "entity": "Q117647",
+  "eventType": "birth",
+  "title": "Birth of Edward the Exile",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2092151.5,
+    "latestJd": 2092517.5,
+    "statementId": "Q117647$EDD5E15D-7300-460D-99D8-40B3487CD29F",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53,
+   "lon": -1,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q21 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q117647:birth",
+  "year": 1016.535
+ },
+ {
+  "entity": "Q188627",
+  "eventType": "birth",
+  "title": "Birth of Harold Harefoot",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2092151.5,
+    "latestJd": 2092517.5,
+    "statementId": "Q188627$E3772E75-C94F-4B30-A783-0AEA16443DA2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 52.233333333333,
+   "lon": -0.9,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q192240 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q188627:birth",
+  "year": 1016.535
+ },
+ {
+  "entity": "Q203792",
+  "eventType": "birth",
+  "title": "Birth of Robert Guiscard",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2092151.5,
+    "latestJd": 2092517.5,
+    "statementId": "Q203792$C1BA0B52-DE9D-401F-9843-8A9F841DF086",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.126388888889,
+   "lon": -1.3019444444444,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q474453 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q203792:birth",
+  "year": 1016.535
+ },
+ {
+  "entity": "Q1704268",
+  "eventType": "battle",
+  "title": "Battle of Assandun",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-10-18T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2092442.5,
+    "latestJd": 2092443.5,
+    "statementId": "Q1704268$b3d4c92f-42ca-68f0-beb5-121acf37a736",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.6028,
+   "lon": 0.6948,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q1704268"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q1704268:battle",
+  "year": 1016.832
+ },
+ {
+  "entity": "Q153023",
+  "eventType": "birth",
+  "title": "Birth of Henry III",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-10-28T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2092452.5,
+    "latestJd": 2092453.5,
+    "statementId": "Q153023$6193E9F7-DB42-4F13-9895-924B0D3DD3B4",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.07861111111111,
+   "lon": 11.385555555555555,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q980 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q153023:birth",
+  "year": 1016.86
+ },
+ {
+  "entity": "Q188684",
+  "eventType": "death",
+  "title": "Death of Edmund II of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1016-11-30T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2092479.5,
+    "latestJd": 2092480.5,
+    "statementId": "q188684$6CB4CB38-4DA5-4F3D-95DC-F83526E58759",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.751944444444,
+   "lon": -1.2577777777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q34217 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q188684:death",
+  "year": 1016.934
+ },
+ {
+  "entity": "Q3046321",
+  "eventType": "death",
+  "title": "Death of Eadwig Ætheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1017-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2092517.5,
+    "latestJd": 2092882.5,
+    "statementId": "Q3046321$27496F71-FC00-4C49-B5E3-FFAF1C06E2A6",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q3046321:death",
+  "year": 1017.536
+ },
+ {
+  "entity": "Q190091",
+  "eventType": "birth",
+  "title": "Birth of Harthacanute",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1018-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2092882.5,
+    "latestJd": 2093247.5,
+    "statementId": "q190091$5D9FB798-8278-4E1B-A985-9034EF55A2BE",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 52.066666666667,
+   "lon": -1.3166666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q179876 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q190091:birth",
+  "year": 1018.535
+ },
+ {
+  "entity": "Q311011",
+  "eventType": "death",
+  "title": "Death of Harald II of Denmark",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1018-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2092882.5,
+    "latestJd": 2093247.5,
+    "statementId": "Q311011$68F1E8F4-206E-4FEB-B57E-49674830FF1D",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q311011:death",
+  "year": 1018.535
+ },
+ {
+  "entity": "Q1406700",
+  "eventType": "birth",
+  "title": "Birth of Sweyn Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1020-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2093606.5,
+    "latestJd": 2093972.5,
+    "statementId": "Q1406700$6F80CDF8-6B3C-417E-90DD-8443AA3CF9E0",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1406700:birth",
+  "year": 1020.519
+ },
+ {
+  "entity": "Q254545",
+  "eventType": "birth",
+  "title": "Birth of Gunhilda of Denmark",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1020-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2093612.5,
+    "latestJd": 2093978.5,
+    "statementId": "Q254545$853B02EB-8D29-4ACF-B459-51AA1E734386",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q254545:birth",
+  "year": 1020.535
+ },
+ {
+  "entity": "Q540099",
+  "eventType": "birth",
+  "title": "Birth of Hugh of Cluny",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1024-05-13T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2095206.5,
+    "latestJd": 2095207.5,
+    "statementId": "Q540099$019795B9-470B-4246-8E65-702580F0A388",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 46.262777777778,
+   "lon": 4.0908333333333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q898905 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q540099:birth",
+  "year": 1024.4
+ },
+ {
+  "entity": "Q159597",
+  "eventType": "birth",
+  "title": "Birth of Harold Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1022-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2094343.5,
+    "latestJd": 2096163.5,
+    "statementId": "Q159597$5bb21c01-4bff-63b1-bda3-bdb82be4a784",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.75,
+   "lon": 0.58333333333333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q23240 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q159597:birth",
+  "year": 1024.527
+ },
+ {
+  "entity": "Q262192",
+  "eventType": "birth",
+  "title": "Birth of Agnes of Poitou",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1025-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2095433.5,
+    "latestJd": 2095798.5,
+    "statementId": "Q262192$15DF4385-2E6C-40E2-9D61-090BA8415208",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 46.64861111,
+   "lon": -0.24777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q954076 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q262192:birth",
+  "year": 1025.52
+ },
+ {
+  "entity": "Q3356544",
+  "eventType": "birth",
+  "title": "Birth of Tora Torbergsdatter",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1025-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2095433.5,
+    "latestJd": 2095798.5,
+    "statementId": "Q3356544$F7D9CA1B-587E-41B7-ABE6-72DB760E79C6",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 62.5625,
+   "lon": 6.1019444444444,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q494670 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q3356544:birth",
+  "year": 1025.52
+ },
+ {
+  "entity": "Q2284422",
+  "eventType": "birth",
+  "title": "Birth of Elisiv of Kiev",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1025-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2095439.5,
+    "latestJd": 2095804.5,
+    "statementId": "Q2284422$BD8CAEA8-3BAB-4C4D-9CB0-FFFA2890071B",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2284422:birth",
+  "year": 1025.536
+ },
+ {
+  "entity": "Q2415527",
+  "eventType": "birth",
+  "title": "Birth of Adelaide of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1026-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2095804.5,
+    "latestJd": 2096169.5,
+    "statementId": "Q2415527$8e278044-46a9-a515-5942-a4e23de6e367",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.033333333333,
+   "lon": 0.25,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q3249 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2415527:birth",
+  "year": 1026.535
+ },
+ {
+  "entity": "Q345420",
+  "eventType": "birth",
+  "title": "Birth of Tostig Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1026-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2095804.5,
+    "latestJd": 2096169.5,
+    "statementId": "Q345420$71CA786F-614E-403A-965A-22D29D70B193",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q345420:birth",
+  "year": 1026.535
+ },
+ {
+  "entity": "Q499768",
+  "eventType": "naval battle",
+  "title": "Battle of Helgeå",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1026-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2095804.5,
+    "latestJd": 2096169.5,
+    "statementId": "Q499768$5ac6261d-4676-d62e-b838-b2fc02f6baf2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 60,
+   "lon": 18,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q203509 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q499768:naval battle",
+  "year": 1026.535
+ },
+ {
+  "entity": "Q312613",
+  "eventType": "death",
+  "title": "Death of Richard II",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1026-08-23T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2096038.5,
+    "latestJd": 2096039.5,
+    "statementId": "Q312613$2FDF19CD-9B59-4ECE-9FEE-19E1B19F62E0",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.7575,
+   "lon": 0.37916666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q269732 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q312613:death",
+  "year": 1026.678
+ },
+ {
+  "entity": "Q37594",
+  "eventType": "birth",
+  "title": "Birth of William the Conqueror",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1028-11-08T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2096846.5,
+    "latestJd": 2096847.5,
+    "statementId": "Q37594$b0b9e204-4e8f-6242-b7da-3da23e3d1344",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 48.897222222222,
+   "lon": -0.1975,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q193306 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q37594:birth",
+  "year": 1028.89
+ },
+ {
+  "entity": "Q208331",
+  "eventType": "death",
+  "title": "Death of Olaf II of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1030-07-29T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2097468.5,
+    "latestJd": 2097469.5,
+    "statementId": "q208331$F8C4CF96-BE48-4BD9-A555-5F7A362E1313",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q208331:death",
+  "year": 1030.593
+ },
+ {
+  "entity": "Q830878",
+  "eventType": "battle",
+  "title": "Battle of Stiklestad",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1030-07-29T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2097468.5,
+    "latestJd": 2097469.5,
+    "statementId": "Q830878$2FB0A500-ED6B-4F67-9DE9-A566FDDE80ED",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 63.796666666667,
+   "lon": 11.566666666667,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q830878"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q830878:battle",
+  "year": 1030.593
+ },
+ {
+  "entity": "Q273181",
+  "eventType": "birth",
+  "title": "Birth of Judith of Flanders, Countess of Northumbria",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1033-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2096528.5,
+    "latestJd": 2098720.5,
+    "statementId": "Q273181$77167163-B596-431B-976C-F319052FF909",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.208888888888886,
+   "lon": 3.2241666666666666,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q12994 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q273181:birth",
+  "year": 1031.018
+ },
+ {
+  "entity": "Q270777",
+  "eventType": "death",
+  "title": "Death of Gunnora",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1031-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2097624.5,
+    "latestJd": 2097989.5,
+    "statementId": "Q270777$308D8048-9E2C-4C39-BF77-786F65F0E213",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q270777:death",
+  "year": 1031.518
+ },
+ {
+  "entity": "Q724235",
+  "eventType": "birth",
+  "title": "Birth of Robert, Count of Mortain",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1031-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2097624.5,
+    "latestJd": 2097989.5,
+    "statementId": "Q724235$E7B849CF-A1F2-45E3-9274-EDBABC8EA664",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q724235:birth",
+  "year": 1031.518
+ },
+ {
+  "entity": "Q391944",
+  "eventType": "birth",
+  "title": "Birth of Matilda of Flanders",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1031-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2097630.5,
+    "latestJd": 2097995.5,
+    "statementId": "Q391944$B658826F-C69A-4DFB-99A0-A91D8EB7112C",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.208888888888886,
+   "lon": 3.2241666666666666,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q12994 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q391944:birth",
+  "year": 1031.535
+ },
+ {
+  "entity": "Q1249857",
+  "eventType": "birth",
+  "title": "Birth of Gyrth Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1032-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2097989.5,
+    "latestJd": 2098355.5,
+    "statementId": "Q1249857$62AFECC6-B9F4-49F2-9C6C-2A0AF3D8B423",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1249857:birth",
+  "year": 1032.519
+ },
+ {
+  "entity": "Q174452",
+  "eventType": "birth",
+  "title": "Birth of Alberada of Buonalbergo",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1033-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2098355.5,
+    "latestJd": 2098720.5,
+    "statementId": "Q174452$AF4E9752-2C30-4960-A428-791B071DB39D",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.216666666667,
+   "lon": 14.983333333333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q55858 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q174452:birth",
+  "year": 1033.52
+ },
+ {
+  "entity": "Q49961",
+  "eventType": "birth",
+  "title": "Birth of Odo, Earl of Kent",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1030-00-00T00:00:00Z",
+    "precision": "decade",
+    "calendar": "julian",
+    "earliestJd": 2097265.5,
+    "latestJd": 2100917.5,
+    "statementId": "Q49961$7EF0A417-465C-4A3C-9BF0-63A0ED7F99BA",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q49961:birth",
+  "year": 1035.035
+ },
+ {
+  "entity": "Q1249624",
+  "eventType": "birth",
+  "title": "Birth of Leofwine Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1035-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2099091.5,
+    "latestJd": 2099456.5,
+    "statementId": "Q1249624$0B973847-DF34-4889-9E49-4C8526AA3FA2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1249624:birth",
+  "year": 1035.535
+ },
+ {
+  "entity": "Q30578",
+  "eventType": "birth",
+  "title": "Birth of Urban II",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1035-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2099091.5,
+    "latestJd": 2099456.5,
+    "statementId": "q30578$0ecc6e71-4be6-66aa-ddd3-18715ac06990",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.099722222222,
+   "lon": 3.7575,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q688485 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q30578:birth",
+  "year": 1035.535
+ },
+ {
+  "entity": "Q41380",
+  "eventType": "death",
+  "title": "Death of Robert I, Duke of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1035-07-03T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2099274.5,
+    "latestJd": 2099275.5,
+    "statementId": "q41380$449eac8c-44b4-2d31-3cce-745c7da9df93",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 40.429,
+   "lon": 29.7195,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q739037 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q41380:death",
+  "year": 1035.537
+ },
+ {
+  "entity": "Q36731",
+  "eventType": "death",
+  "title": "Death of Svein Knutsson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1035-10-16T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2099373.5,
+    "latestJd": 2099374.5,
+    "statementId": "Q36731$0BD5A5A6-6B24-4686-9180-F5AA05F4012B",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 56,
+   "lon": 10,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q35 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q36731:death",
+  "year": 1035.808
+ },
+ {
+  "entity": "Q134128",
+  "eventType": "death",
+  "title": "Death of Cnut the Great",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1035-11-12T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2099400.5,
+    "latestJd": 2099401.5,
+    "statementId": "Q134128$57FF96B1-C5CA-4B27-98BC-958CB7D39E85",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.0066,
+   "lon": -2.198,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q631444 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q134128:death",
+  "year": 1035.882
+ },
+ {
+  "entity": "Q35618",
+  "eventType": "death",
+  "title": "Death of Alfred Aetheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1037-02-05T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2099857.5,
+    "latestJd": 2099858.5,
+    "statementId": "Q35618$57400ad8-44cc-6a72-0635-50a9c865bdbc",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 52.398055555556,
+   "lon": 0.26222222222222,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q209176 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q35618:death",
+  "year": 1037.133
+ },
+ {
+  "entity": "Q254545",
+  "eventType": "death",
+  "title": "Death of Gunhilda of Denmark",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1038-07-18T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2100379.5,
+    "latestJd": 2100380.5,
+    "statementId": "Q254545$50DE6EFA-7CD9-465C-9966-47E5446D7536",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50,
+   "lon": 10,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q12548 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q254545:death",
+  "year": 1038.563
+ },
+ {
+  "entity": "Q188627",
+  "eventType": "death",
+  "title": "Death of Harold Harefoot",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1040-03-17T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2100993.5,
+    "latestJd": 2100994.5,
+    "statementId": "Q188627$a7c1c24b-49fb-49be-a265-679e52958a34",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.751944444444,
+   "lon": -1.2577777777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q34217 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q188627:death",
+  "year": 1040.244
+ },
+ {
+  "entity": "Q640793",
+  "eventType": "birth",
+  "title": "Birth of Sikelgaita",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1040-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2100911.5,
+    "latestJd": 2101277.5,
+    "statementId": "Q640793$B6FF8BC0-FD71-42FB-A930-334AD5995281",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.1667,
+   "lon": 14.2833,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q1280122 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q640793:birth",
+  "year": 1040.519
+ },
+ {
+  "entity": "Q321741",
+  "eventType": "birth",
+  "title": "Birth of Wulfnoth Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1040-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2100917.5,
+    "latestJd": 2101283.5,
+    "statementId": "Q321741$fc4b4e97-4af3-d37d-3d4a-686d486ce83b",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q321741:birth",
+  "year": 1040.535
+ },
+ {
+  "entity": "Q3636556",
+  "eventType": "battle",
+  "title": "Battle of Olivento",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1041-03-17T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2101358.5,
+    "latestJd": 2101359.5,
+    "statementId": "Q3636556$24f3bc4b-4bb1-f1c9-e21f-3c65414e2fca",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.0515,
+   "lon": 15.7526,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q3636556"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3636556:battle",
+  "year": 1041.243
+ },
+ {
+  "entity": "Q3636537",
+  "eventType": "battle",
+  "title": "Battle of Montemaggiore",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1041-05-04T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2101406.5,
+    "latestJd": 2101407.5,
+    "statementId": "Q3636537$b5b67e13-43ff-9f47-a147-bb07ba8f6100",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.35,
+   "lon": 16.216667,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q3636537"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3636537:battle",
+  "year": 1041.374
+ },
+ {
+  "entity": "Q26731",
+  "eventType": "death",
+  "title": "Death of Tancred of Hauteville",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1041-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2101277.5,
+    "latestJd": 2101642.5,
+    "statementId": "Q26731$142001E1-6CE3-4329-944E-BDB82B4F9A86",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.126388888889,
+   "lon": -1.3019444444444,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q474453 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q26731:death",
+  "year": 1041.52
+ },
+ {
+  "entity": "Q2712298",
+  "eventType": "battle",
+  "title": "Battle of Ostrovo",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1041-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2101283.5,
+    "latestJd": 2101648.5,
+    "statementId": "Q2712298$f527057e-4bd3-3fcf-5f63-56638509f07b",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 40.8,
+   "lon": 21.833333,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q2712298"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q2712298:battle",
+  "year": 1041.536
+ },
+ {
+  "entity": "Q190091",
+  "eventType": "death",
+  "title": "Death of Harthacanute",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1042-06-08T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2101806.5,
+    "latestJd": 2101807.5,
+    "statementId": "q190091$529B6D08-CF37-4FFB-B77B-5BCA2D064305",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.4903,
+   "lon": -0.1193,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q148349 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q190091:death",
+  "year": 1042.47
+ },
+ {
+  "entity": "Q2634369",
+  "eventType": "death",
+  "title": "Death of Gytha Thorkelsdóttir",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1042-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2101642.5,
+    "latestJd": 2102007.5,
+    "statementId": "Q2634369$4E9C7472-09B7-4524-BA15-AE226D86AFEA",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2634369:death",
+  "year": 1042.519
+ },
+ {
+  "entity": "Q464162",
+  "eventType": "birth",
+  "title": "Birth of Matilda of Tuscany",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1040-00-00T00:00:00Z",
+    "precision": "decade",
+    "calendar": "julian",
+    "earliestJd": 2100917.5,
+    "latestJd": 2104570.5,
+    "statementId": "Q464162$50b34410-43e2-8352-f18f-b0bfad4c2cba",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 45.156388888889,
+   "lon": 10.791111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q6247 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q464162:birth",
+  "year": 1045.035
+ },
+ {
+  "entity": "Q3109791",
+  "eventType": "death",
+  "title": "Death of Goda of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1047-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2103474.5,
+    "latestJd": 2103839.5,
+    "statementId": "Q3109791$6F26A505-C6A6-4467-9D47-9B8E5ACCFFAC",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q3109791:death",
+  "year": 1047.535
+ },
+ {
+  "entity": "Q1422925",
+  "eventType": "battle",
+  "title": "Battle of Val-ès-Dunes",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1047-08-10T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2103689.5,
+    "latestJd": 2103690.5,
+    "statementId": "Q1422925$7C378048-E8B7-4855-A013-C151086F996B",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.083333,
+   "lon": -0.25,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q1422925"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q1422925:battle",
+  "year": 1047.625
+ },
+ {
+  "entity": "Q343088",
+  "eventType": "birth",
+  "title": "Birth of Magnus II of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1048-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2103833.5,
+    "latestJd": 2104199.5,
+    "statementId": "Q343088$4939174E-93A9-486B-9752-A15FCB567FB8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 59.93333333333333,
+   "lon": 10.683333333333334,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q20 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q343088:birth",
+  "year": 1048.519
+ },
+ {
+  "entity": "Q41600",
+  "eventType": "birth",
+  "title": "Birth of Alexios I Komnenos",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1048-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2103833.5,
+    "latestJd": 2104199.5,
+    "statementId": "Q41600$8015D06F-8F41-41FA-97FD-BBF528227BC3",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.01224,
+   "lon": 28.976018,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q16869 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q41600:birth",
+  "year": 1048.519
+ },
+ {
+  "entity": "Q5781092",
+  "eventType": "church council",
+  "title": "Q5781092",
+  "timing": {
+   "temporalKind": "openSpan",
+   "start": {
+    "raw": "+1050-04-29T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2104688.5,
+    "latestJd": 2104689.5,
+    "statementId": "Q5781092$53a8326c-4c3c-12e7-e247-651300979dc4",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.893055555556,
+   "lon": 12.482777777778,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q220 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q5781092:church council",
+  "year": 1050.36
+ },
+ {
+  "entity": "Q316042",
+  "eventType": "birth",
+  "title": "Birth of Olaf III of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1050-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2104564.5,
+    "latestJd": 2104929.5,
+    "statementId": "Q316042$DAEECC41-6A9F-49BE-9150-17C11D5531F8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 59.93333333333333,
+   "lon": 10.683333333333334,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q20 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q316042:birth",
+  "year": 1050.519
+ },
+ {
+  "entity": "Q60094",
+  "eventType": "birth",
+  "title": "Birth of Henry IV",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1050-11-11T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2104884.5,
+    "latestJd": 2104885.5,
+    "statementId": "Q60094$6E63C4C8-87AA-4F49-9EF5-8F5C384A0912",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.9028,
+   "lon": 10.4258,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q632379 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q60094:birth",
+  "year": 1050.897
+ },
+ {
+  "entity": "Q133063",
+  "eventType": "birth",
+  "title": "Birth of Gregory VII",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1020-01-01T00:00:00Z",
+    "precision": "century",
+    "calendar": "julian",
+    "earliestJd": 2086673.5,
+    "latestJd": 2123198.5,
+    "statementId": "q133063$ac417712-4b2a-7a4c-aa29-ebe3b9c88cb6",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 42.65777778,
+   "lon": 11.64597222,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q1231483 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q133063:birth",
+  "year": 1051.036
+ },
+ {
+  "entity": "Q2826477",
+  "eventType": "birth",
+  "title": "Birth of Agatha, wife of Edward the Exile",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1100-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "julian",
+    "earliestJd": 2086673.5,
+    "latestJd": 2123198.5,
+    "statementId": "Q2826477$009177C1-BA46-478E-9307-901F3D9058E8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.45,
+   "lon": 30.523611111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q1899 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2826477:birth",
+  "year": 1051.036
+ },
+ {
+  "entity": "Q2826477",
+  "eventType": "death",
+  "title": "Death of Agatha, wife of Edward the Exile",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1100-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "julian",
+    "earliestJd": 2086673.5,
+    "latestJd": 2123198.5,
+    "statementId": "Q2826477$D92F0682-D237-46AE-9BC0-4A6D2ECCE5B2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 54.977777777778,
+   "lon": -1.6133333333333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q1425428 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2826477:death",
+  "year": 1051.036
+ },
+ {
+  "entity": "Q462856",
+  "eventType": "birth",
+  "title": "Birth of Ealdgyth",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1100-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "julian",
+    "earliestJd": 2086673.5,
+    "latestJd": 2123198.5,
+    "statementId": "Q462856$87F526A3-39CD-4056-BE11-DF999E90E3D0",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53,
+   "lon": -1,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q21 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q462856:birth",
+  "year": 1051.036
+ },
+ {
+  "entity": "Q462856",
+  "eventType": "death",
+  "title": "Death of Ealdgyth",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1100-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "julian",
+    "earliestJd": 2086673.5,
+    "latestJd": 2123198.5,
+    "statementId": "Q462856$A8256706-8366-4CE6-B209-7B5C5A72920F",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q462856:death",
+  "year": 1051.036
+ },
+ {
+  "entity": "Q704988",
+  "eventType": "birth",
+  "title": "Birth of Godfrey IV, Duke of Lower Lorraine",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1100-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "julian",
+    "earliestJd": 2086673.5,
+    "latestJd": 2123198.5,
+    "statementId": "Q704988$962695B5-68C1-470C-B8EB-887EB395AD71",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q704988:birth",
+  "year": 1051.036
+ },
+ {
+  "entity": "Q237709",
+  "eventType": "birth",
+  "title": "Birth of Bertha of Savoy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1051-09-21T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2105198.5,
+    "latestJd": 2105199.5,
+    "statementId": "Q237709$A7376D50-D409-4653-A2B7-1087D7687E7B",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q237709:birth",
+  "year": 1051.756
+ },
+ {
+  "entity": "Q40061",
+  "eventType": "death",
+  "title": "Death of Emma of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1052-03-06T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2105359.5,
+    "latestJd": 2105360.5,
+    "statementId": "q40061$9963C024-DF4F-4826-8AE7-2765A716FFA9",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.063333333333,
+   "lon": -1.3086111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q172157 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q40061:death",
+  "year": 1052.197
+ },
+ {
+  "entity": "Q695950",
+  "eventType": "birth",
+  "title": "Birth of Conrad II, Duke of Bavaria",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1052-09-01T00:00:00Z",
+    "precision": "month",
+    "calendar": "gregorian",
+    "earliestJd": 2105538.5,
+    "latestJd": 2105605.5,
+    "statementId": "Q695950$F4058302-69D3-4917-8746-EF97DE6956A2",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.016666666666666,
+   "lon": 12.083333333333334,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q2978 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q695950:birth",
+  "year": 1052.778
+ },
+ {
+  "entity": "Q1406700",
+  "eventType": "death",
+  "title": "Death of Sweyn Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1052-09-29T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2105572.5,
+    "latestJd": 2105573.5,
+    "statementId": "Q1406700$083d5b24-4287-5da7-8813-ae469badf7dd",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 36.733333333333,
+   "lon": 29.9,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q18927 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1406700:death",
+  "year": 1052.78
+ },
+ {
+  "entity": "Q220994",
+  "eventType": "birth",
+  "title": "Birth of Robert Curthose",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1054-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2104935.5,
+    "latestJd": 2106396.5,
+    "statementId": "Q220994$82835F9F-F1E3-4219-9D15-D09944B03CF3",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.15,
+   "lon": 0.1,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q842091 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q220994:birth",
+  "year": 1053.035
+ },
+ {
+  "entity": "Q318142",
+  "eventType": "death",
+  "title": "Death of Godwin, Earl of Wessex",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1053-04-15T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2105764.5,
+    "latestJd": 2105765.5,
+    "statementId": "q318142$D4DED54E-F48A-40B7-8A84-1E4ED0FB8AB9",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.063333333333,
+   "lon": -1.3086111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q172157 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q318142:death",
+  "year": 1053.306
+ },
+ {
+  "entity": "Q58559",
+  "eventType": "death",
+  "title": "Death of Leo IX",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1054-04-19T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2106139.5,
+    "latestJd": 2106140.5,
+    "statementId": "q58559$5E27422E-EB68-44E5-834E-EF07447B773B",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.893055555556,
+   "lon": 12.482777777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q220 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q58559:death",
+  "year": 1054.333
+ },
+ {
+  "entity": "Q3498141",
+  "eventType": "birth",
+  "title": "Birth of Richard of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1054-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2106025.5,
+    "latestJd": 2106390.5,
+    "statementId": "Q3498141$5071E23F-6744-4D6D-9B41-AE97329394E3",
+    "status": "ok",
+    "alternatives": 3
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q3498141:birth",
+  "year": 1054.519
+ },
+ {
+  "entity": "Q220806",
+  "eventType": "birth",
+  "title": "Birth of Bohemond I of Antioch",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1054-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2106031.5,
+    "latestJd": 2106396.5,
+    "statementId": "Q220806$24215E35-CCDF-4F40-A4A8-6E540185ECDB",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 39.55,
+   "lon": 16.116666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q53974 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q220806:birth",
+  "year": 1054.535
+ },
+ {
+  "entity": "Q51648",
+  "eventType": "religious controversy",
+  "title": "East-West Schism",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1054-07-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "julian",
+    "earliestJd": 2106212.5,
+    "latestJd": 2106243.5,
+    "statementId": "Q51648$6D19CDDF-D2E0-4D5B-9501-E798C6644BC8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q51648:religious controversy",
+  "year": 1054.574
+ },
+ {
+  "entity": "Q215224",
+  "eventType": "birth",
+  "title": "Birth of Edgar Ætheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1050-00-00T00:00:00Z",
+    "precision": "decade",
+    "calendar": "julian",
+    "earliestJd": 2104570.5,
+    "latestJd": 2108222.5,
+    "statementId": "Q215224$3c6f06b9-44b3-7498-e0e2-fd0cedc5f131",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 47,
+   "lon": 19,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q171150 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q215224:birth",
+  "year": 1055.035
+ },
+ {
+  "entity": "Q695950",
+  "eventType": "death",
+  "title": "Death of Conrad II, Duke of Bavaria",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1055-04-10T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2106489.5,
+    "latestJd": 2106490.5,
+    "statementId": "Q695950$2B6B69E9-0222-4C69-B0BB-B08EB9B3EA43",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.016666666666666,
+   "lon": 12.083333333333334,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q2978 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q695950:death",
+  "year": 1055.291
+ },
+ {
+  "entity": "Q45465",
+  "eventType": "birth",
+  "title": "Birth of Adeliza",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1055-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2106396.5,
+    "latestJd": 2106761.5,
+    "statementId": "Q45465$c196f42e-4240-abf6-cd8d-1db817aebb7b",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.15,
+   "lon": 0.1,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q842091 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q45465:birth",
+  "year": 1055.535
+ },
+ {
+  "entity": "Q2120325",
+  "eventType": "birth",
+  "title": "Birth of Cecilia of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1056-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2106755.5,
+    "latestJd": 2107121.5,
+    "statementId": "Q2120325$7B6DF3AB-9244-4D25-B709-D028441874F2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2120325:birth",
+  "year": 1056.519
+ },
+ {
+  "entity": "Q153023",
+  "eventType": "death",
+  "title": "Death of Henry III",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1056-10-05T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2107033.5,
+    "latestJd": 2107034.5,
+    "statementId": "Q153023$B62CEC1F-19D5-40F0-B9AA-5149F81E4B00",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.788537,
+   "lon": 10.838628,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q889822 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q153023:death",
+  "year": 1056.78
+ },
+ {
+  "entity": "Q117647",
+  "eventType": "death",
+  "title": "Death of Edward the Exile",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1057-04-19T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2107235.5,
+    "latestJd": 2107236.5,
+    "statementId": "Q117647$CF3FE1A9-7536-4580-BA9D-8B658ED7FD6F",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.507222222222,
+   "lon": -0.1275,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q84 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q117647:death",
+  "year": 1057.333
+ },
+ {
+  "entity": "Q102005",
+  "eventType": "birth",
+  "title": "Birth of William II of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1060-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2106761.5,
+    "latestJd": 2108582.5,
+    "statementId": "Q102005$D848BBAB-0753-4C95-9526-533026F87957",
+    "status": "needsReview",
+    "alternatives": 4
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q102005:birth",
+  "year": 1058.527
+ },
+ {
+  "entity": "Q62978447",
+  "eventType": "birth",
+  "title": "Birth of Agatha of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1061-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2108582.5,
+    "latestJd": 2108947.5,
+    "statementId": "Q62978447$83DA9660-D35D-4A60-A677-7ABA6BA83760",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q62978447:birth",
+  "year": 1061.52
+ },
+ {
+  "entity": "Q62978706",
+  "eventType": "birth",
+  "title": "Birth of Matilda of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1061-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2108588.5,
+    "latestJd": 2108953.5,
+    "statementId": "Q62978706$3e4dc448-4943-32ea-0525-cc2c31694b4b",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q62978706:birth",
+  "year": 1061.536
+ },
+ {
+  "entity": "Q3353388",
+  "eventType": "battle",
+  "title": "Battle of Niså",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1062-08-09T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2109173.5,
+    "latestJd": 2109174.5,
+    "statementId": "Q3353388$3b702266-4caf-6820-5f33-5515d1b1bc04",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 56.68333333333333,
+   "lon": 12.866666666666667,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q3353388"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3353388:battle",
+  "year": 1062.639
+ },
+ {
+  "entity": "Q1747051",
+  "eventType": "birth",
+  "title": "Birth of Guy of Hauteville",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1060-00-00T00:00:00Z",
+    "precision": "decade",
+    "calendar": "julian",
+    "earliestJd": 2108222.5,
+    "latestJd": 2111875.5,
+    "statementId": "Q1747051$a2a43a3e-453f-ce67-e050-07fc058d0274",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1747051:birth",
+  "year": 1065.035
+ },
+ {
+  "entity": "Q130005",
+  "eventType": "death",
+  "title": "Death of Edward the Confessor",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-01-05T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110418.5,
+    "latestJd": 2110419.5,
+    "statementId": "q130005$0ddc7d7e-46c7-fd14-994b-f68b9e1ea6e2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.4995,
+   "lon": -0.1333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q189960 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q130005:death",
+  "year": 1066.048
+ },
+ {
+  "entity": "Q3002743",
+  "eventType": "succession controversy",
+  "title": "English succession crisis of 1066",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1066-01-05T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110418.5,
+    "latestJd": 2110419.5,
+    "statementId": "Q3002743$03e8c286-446e-93bc-381b-414bb291baf2",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1066-12-25T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110772.5,
+    "latestJd": 2110773.5,
+    "statementId": "Q3002743$55802b66-4b4c-3a65-113c-9f4f1d512b12",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q3002743:succession controversy",
+  "year": 1066.048
+ },
+ {
+  "entity": "Q2284422",
+  "eventType": "death",
+  "title": "Death of Elisiv of Kiev",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2110408.5,
+    "latestJd": 2110773.5,
+    "statementId": "Q2284422$62B00540-F6F1-4244-B4B2-7CD81B2488ED",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2284422:death",
+  "year": 1066.519
+ },
+ {
+  "entity": "Q2970215",
+  "eventType": "founded",
+  "title": "Foundation of Pevensey Castle",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2110414.5,
+    "latestJd": 2110779.5,
+    "statementId": "Q2970215$35d7f4a5-4d63-819d-2b60-ab4f82a6230a",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.8192,
+   "lon": 0.333114,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q2970215"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q2970215:founded",
+  "year": 1066.535
+ },
+ {
+  "entity": "Q62378",
+  "eventType": "founded",
+  "title": "Foundation of Tower of London",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2110414.5,
+    "latestJd": 2110779.5,
+    "statementId": "Q62378$804094e0-4aca-80e4-4286-82b6138296b4",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.5082,
+   "lon": -0.076198055555556,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q62378"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q62378:founded",
+  "year": 1066.535
+ },
+ {
+  "entity": "Q203225",
+  "eventType": "battle",
+  "title": "Battle of Stamford Bridge",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-09-25T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2110675.5,
+    "latestJd": 2110676.5,
+    "statementId": "Q203225$FF9654E4-ACED-40C9-9CBA-C5755A0EC1E0",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.9925,
+   "lon": -0.9125,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q203225"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q203225:battle",
+  "year": 1066.752
+ },
+ {
+  "entity": "Q1113659",
+  "eventType": "battle",
+  "title": "Battle of Fulford",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-09-20T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110676.5,
+    "latestJd": 2110677.5,
+    "statementId": "Q1113659$a341c808-435b-ec1d-f9bf-ab6f2339ae8e",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.9325,
+   "lon": -1.0708333333333333,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q1113659"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q1113659:battle",
+  "year": 1066.754
+ },
+ {
+  "entity": "Q203647",
+  "eventType": "death",
+  "title": "Death of Harald III of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-09-25T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110681.5,
+    "latestJd": 2110682.5,
+    "statementId": "q203647$2A2C3EB9-45EC-4BAE-8F2C-D68C52A2B2B6",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.989,
+   "lon": -0.91254444444444,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q2270867 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q203647:death",
+  "year": 1066.768
+ },
+ {
+  "entity": "Q345420",
+  "eventType": "death",
+  "title": "Death of Tostig Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-09-25T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110681.5,
+    "latestJd": 2110682.5,
+    "statementId": "q345420$6E8465A5-CD6A-4A5B-BC93-FD1149A3B660",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.989,
+   "lon": -0.91254444444444,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q2270867 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q345420:death",
+  "year": 1066.768
+ },
+ {
+  "entity": "Q200485",
+  "eventType": "conquest",
+  "title": "Norman conquest of England",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1066-09-28T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110684.5,
+    "latestJd": 2110685.5,
+    "statementId": "Q200485$030c9482-4516-3cf0-de92-2ffbca0459f6",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1075-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2113701.5,
+    "latestJd": 2114066.5,
+    "statementId": "Q200485$dd163245-4604-9906-8120-f0d9323739b0",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 52.0667,
+   "lon": -1.3167,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q200485"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q200485:conquest",
+  "year": 1066.776
+ },
+ {
+  "entity": "Q1249624",
+  "eventType": "death",
+  "title": "Death of Leofwine Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-10-14T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110700.5,
+    "latestJd": 2110701.5,
+    "statementId": "Q1249624$0F58775B-0314-43BC-8BEA-9BBB3F01680C",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.855,
+   "lon": 0.5833333333333334,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q29245 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1249624:death",
+  "year": 1066.82
+ },
+ {
+  "entity": "Q1249857",
+  "eventType": "death",
+  "title": "Death of Gyrth Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-10-14T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110700.5,
+    "latestJd": 2110701.5,
+    "statementId": "Q1249857$6605481C-1479-4FCC-A6A9-8BD17A878C9F",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.916666666667,
+   "lon": 0.48333333333333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q737593 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1249857:death",
+  "year": 1066.82
+ },
+ {
+  "entity": "Q159597",
+  "eventType": "death",
+  "title": "Death of Harold Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-10-14T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110700.5,
+    "latestJd": 2110701.5,
+    "statementId": "q159597$8F8E9302-83C1-42CA-85EC-1DC057584CC1",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.855,
+   "lon": 0.5833333333333334,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q29245 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q159597:death",
+  "year": 1066.82
+ },
+ {
+  "entity": "Q83224",
+  "eventType": "battle",
+  "title": "Battle of Hastings",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1066-10-14T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2110700.5,
+    "latestJd": 2110701.5,
+    "statementId": "Q83224$f9bfc73c-4d17-8a8d-9c14-1b5242d208dc",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.911944444444444,
+   "lon": 0.4875,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q83224"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q83224:battle",
+  "year": 1066.82
+ },
+ {
+  "entity": "Q237886",
+  "eventType": "birth",
+  "title": "Birth of Adela of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1067-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2110779.5,
+    "latestJd": 2111144.5,
+    "statementId": "Q237886$8d4f85ad-4dca-9103-893b-0b9305a5e396",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.443055555556,
+   "lon": 1.1025,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q30974 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q237886:birth",
+  "year": 1067.535
+ },
+ {
+  "entity": "Q3580558",
+  "eventType": "founded",
+  "title": "Foundation of Church of Notre-Dame de Dives-sur-Merent",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1067-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2110779.5,
+    "latestJd": 2111144.5,
+    "statementId": "Q3580558$b235efd0-463a-f1f5-1e81-78dfc5d0a917",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.2853,
+   "lon": -0.09694,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q3580558"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3580558:founded",
+  "year": 1067.535
+ },
+ {
+  "entity": "Q333384",
+  "eventType": "death",
+  "title": "Death of Baldwin V, Count of Flanders",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1067-09-01T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2111022.5,
+    "latestJd": 2111023.5,
+    "statementId": "q333384$E743D945-B67E-4EA2-B753-D04A9252E3AD",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.631944444444,
+   "lon": 3.0575,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q648 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q333384:death",
+  "year": 1067.702
+ },
+ {
+  "entity": "Q101384",
+  "eventType": "birth",
+  "title": "Birth of Henry I of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1068-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111144.5,
+    "latestJd": 2111510.5,
+    "statementId": "Q101384$EBC5A3AC-373C-4A33-9EA7-1D42402FC005",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.781789,
+   "lon": -1.070309,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P19 → Q527846 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q101384:birth",
+  "year": 1068.535
+ },
+ {
+  "entity": "Q105616523",
+  "eventType": "battle",
+  "title": "Battle of Northam",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1068-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111144.5,
+    "latestJd": 2111510.5,
+    "statementId": "Q105616523$fc203896-460a-17c6-41c7-00e75961281a",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.0393,
+   "lon": -4.2104,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q1235872 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q105616523:battle",
+  "year": 1068.535
+ },
+ {
+  "entity": "Q132531885",
+  "eventType": "battle",
+  "title": "Battle of Bleadon",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1068-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111144.5,
+    "latestJd": 2111510.5,
+    "statementId": "Q132531885$a859e04d-4ab7-4c5f-92d0-f354abf7bd5f",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.3082,
+   "lon": -2.9448,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q2458518 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q132531885:battle",
+  "year": 1068.535
+ },
+ {
+  "entity": "Q727760",
+  "eventType": "founded",
+  "title": "Foundation of Lincoln Castle",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1068-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111144.5,
+    "latestJd": 2111510.5,
+    "statementId": "Q727760$2BA077B0-40D2-4649-8805-F58137EBB664",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.2349,
+   "lon": -0.5409,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q727760"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q727760:founded",
+  "year": 1068.535
+ },
+ {
+  "entity": "Q7509995",
+  "eventType": "battle",
+  "title": "Siege of Exeter",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1068-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111144.5,
+    "latestJd": 2111510.5,
+    "statementId": "Q7509995$CF7BDA86-33B8-4DBC-AB7F-2CA3443034E8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.725833333333334,
+   "lon": -3.529722222222222,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q7509995"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q7509995:battle",
+  "year": 1068.535
+ },
+ {
+  "entity": "Q80637",
+  "eventType": "founded",
+  "title": "Foundation of York Castle",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1068-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111144.5,
+    "latestJd": 2111510.5,
+    "statementId": "Q80637$c30a98eb-46b1-7d99-0df2-3b67be1c75ac",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53.95583333333333,
+   "lon": -1.08,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q80637"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q80637:founded",
+  "year": 1068.535
+ },
+ {
+  "entity": "Q343088",
+  "eventType": "death",
+  "title": "Death of Magnus II of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1069-04-28T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2111627.5,
+    "latestJd": 2111628.5,
+    "statementId": "q343088$E08C6CFC-F551-4984-B107-0AAC3E92F316",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 63.44,
+   "lon": 10.4,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q25804 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q343088:death",
+  "year": 1069.358
+ },
+ {
+  "entity": "Q111953993",
+  "eventType": "invasion",
+  "title": "Danish attacks on Norman England",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1069-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111510.5,
+    "latestJd": 2111875.5,
+    "statementId": "Q111953993$603adbe5-4dc5-6298-06a8-403a3aa4ec2c",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1075-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2113701.5,
+    "latestJd": 2114066.5,
+    "statementId": "Q111953993$b2279bee-489a-e99c-b76a-162e2c815424",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q111953993:invasion",
+  "year": 1069.536
+ },
+ {
+  "entity": "Q133877646",
+  "eventType": "rebellion",
+  "title": "Ely Rebellion",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1069-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111510.5,
+    "latestJd": 2111875.5,
+    "statementId": "Q133877646$a536e7f4-400b-ee73-09e2-b4ca33c1ff50",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1071-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2112240.5,
+    "latestJd": 2112605.5,
+    "statementId": "Q133877646$08572a77-4d72-1a93-3edc-5a0d01ac3cd0",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 52.4,
+   "lon": 0.25833333333333,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q935339 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q133877646:rebellion",
+  "year": 1069.536
+ },
+ {
+  "entity": "Q1703402",
+  "eventType": "military campaign",
+  "title": "Harrying of the North",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1069-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111510.5,
+    "latestJd": 2111875.5,
+    "statementId": "Q1703402$a271081e-4e6e-573a-091a-4fb8a658d3ba",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1070-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2111875.5,
+    "latestJd": 2112240.5,
+    "statementId": "Q1703402$373bb6cf-4658-025c-f96a-b22f636e900d",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 55,
+   "lon": -2.3,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q1788657 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q1703402:military campaign",
+  "year": 1069.536
+ },
+ {
+  "entity": "Q706674",
+  "eventType": "birth",
+  "title": "Birth of Welf II, Duke of Bavaria",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1072-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2112599.5,
+    "latestJd": 2112965.5,
+    "statementId": "Q706674$22098B98-84E6-42C7-9E64-27FADAD40198",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q706674:birth",
+  "year": 1072.519
+ },
+ {
+  "entity": "Q171112",
+  "eventType": "death",
+  "title": "Death of Alexander II",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1073-04-21T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2113081.5,
+    "latestJd": 2113082.5,
+    "statementId": "q171112$E4CC2967-2444-4662-AC2E-4D04494DADEA",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.893055555556,
+   "lon": 12.482777777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q220 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q171112:death",
+  "year": 1073.339
+ },
+ {
+  "entity": "Q154764",
+  "eventType": "dispute",
+  "title": "Investiture controversy",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1075-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2113701.5,
+    "latestJd": 2114066.5,
+    "statementId": "Q154764$e776c277-4c0e-a7a3-4e5c-d100c190cc50",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1124-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2131598.5,
+    "latestJd": 2131964.5,
+    "statementId": "Q154764$6420936a-4c64-1b42-d782-6e7b0cfc2b4f",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50,
+   "lon": 10,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q12548 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q154764:dispute",
+  "year": 1075.535
+ },
+ {
+  "entity": "Q259564",
+  "eventType": "death",
+  "title": "Death of Edith of Wessex",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1075-12-18T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2114052.5,
+    "latestJd": 2114053.5,
+    "statementId": "Q259564$04826eda-4306-5e2d-afe9-3a838cb9b537",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.063333333333,
+   "lon": -1.3086111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q172157 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q259564:death",
+  "year": 1075.997
+ },
+ {
+  "entity": "Q704988",
+  "eventType": "death",
+  "title": "Death of Godfrey IV, Duke of Lower Lorraine",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1076-02-27T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2114123.5,
+    "latestJd": 2114124.5,
+    "statementId": "Q704988$0354A06F-6998-4DFC-9DAC-FC5AC128503E",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q704988:death",
+  "year": 1076.192
+ },
+ {
+  "entity": "Q325656",
+  "eventType": "penance and reconciliation",
+  "title": "Road to Canossa",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1076-12-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "julian",
+    "earliestJd": 2114401.5,
+    "latestJd": 2114432.5,
+    "statementId": "Q325656$2e3196ea-45a9-f75a-d00d-f00022d8a8c6",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1077-01-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "julian",
+    "earliestJd": 2114432.5,
+    "latestJd": 2114463.5,
+    "statementId": "Q325656$513c2996-47fd-0435-63d5-708d34dc2e7f",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 44.576047,
+   "lon": 10.455789,
+   "role": "eventSite",
+   "precision": "settlement",
+   "evidence": "curated: Canossa Castle (Q1033649 P625); source https://en.wikipedia.org/wiki/Road_to_Canossa"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q325656:penance and reconciliation",
+  "year": 1076.994
+ },
+ {
+  "entity": "Q262192",
+  "eventType": "death",
+  "title": "Death of Agnes of Poitou",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1077-12-14T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2114779.5,
+    "latestJd": 2114780.5,
+    "statementId": "q262192$0322E64B-4707-40AD-9186-C96712E35E02",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.893055555556,
+   "lon": 12.482777777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q220 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q262192:death",
+  "year": 1077.988
+ },
+ {
+  "entity": "Q353829",
+  "eventType": "death",
+  "title": "Death of Adela of France",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1079-01-08T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2115169.5,
+    "latestJd": 2115170.5,
+    "statementId": "q353829$40B19B25-832E-4E5E-B2ED-A105A139DD57",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.766666666667,
+   "lon": 2.9,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q737077 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q353829:death",
+  "year": 1079.055
+ },
+ {
+  "entity": "Q62978447",
+  "eventType": "death",
+  "title": "Death of Agatha of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1079-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2115156.5,
+    "latestJd": 2115521.5,
+    "statementId": "Q62978447$AF66CDAA-26C0-4B2B-A82C-EA27722B56F8",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q62978447:death",
+  "year": 1079.518
+ },
+ {
+  "entity": "Q104866179",
+  "eventType": "synod",
+  "title": "Synod of Brixen",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1080-06-15T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2115693.5,
+    "latestJd": 2115694.5,
+    "statementId": "Q104866179$57d8c8e6-4007-18f6-7efb-b19c8e957869",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 46.716549,
+   "lon": 11.657851,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q185541 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q104866179:synod",
+  "year": 1080.49
+ },
+ {
+  "entity": "Q3668696",
+  "eventType": "founded",
+  "title": "Foundation of Q3668696",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1080-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2115527.5,
+    "latestJd": 2115893.5,
+    "statementId": "Q3668696$1634C328-8048-4EA5-84A8-E581C29CBB68",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.4634,
+   "lon": 15.54385,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q3668696"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3668696:founded",
+  "year": 1080.535
+ },
+ {
+  "entity": "Q16531530",
+  "eventType": "battle",
+  "title": "Battle of Volta Mantovana",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1080-10-15T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2115815.5,
+    "latestJd": 2115816.5,
+    "statementId": "Q16531530$795fe7a8-4c6d-e1b9-5fdf-dc798ad05988",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 45.32166666666667,
+   "lon": 10.658888888888889,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q16531530"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q16531530:battle",
+  "year": 1080.824
+ },
+ {
+  "entity": "Q3498141",
+  "eventType": "death",
+  "title": "Death of Richard of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1081-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2115893.5,
+    "latestJd": 2116258.5,
+    "statementId": "Q3498141$980C495A-FBFE-425E-9144-1A23F94C2998",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.863055555555555,
+   "lon": -1.6180555555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q277755 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q3498141:death",
+  "year": 1081.536
+ },
+ {
+  "entity": "Q391944",
+  "eventType": "death",
+  "title": "Death of Matilda of Flanders",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1083-11-02T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2116928.5,
+    "latestJd": 2116929.5,
+    "statementId": "q391944$E13AE6CF-3ECC-45E7-9005-87D738B2FE09",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.18138888888889,
+   "lon": -0.3636111111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q41185 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q391944:death",
+  "year": 1083.871
+ },
+ {
+  "entity": "Q2259892",
+  "eventType": "battle",
+  "title": "Sack of Rome",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1084-05-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "julian",
+    "earliestJd": 2117109.5,
+    "latestJd": 2117140.5,
+    "statementId": "Q2259892$DEB4CEAD-EC2E-4D7C-B5EB-11D679FE8C37",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2259892:battle",
+  "year": 1084.408
+ },
+ {
+  "entity": "Q3636624",
+  "eventType": "battle",
+  "title": "Battle of Sorbara",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1084-07-02T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2117171.5,
+    "latestJd": 2117172.5,
+    "statementId": "Q3636624$2834e63d-4f71-cf3c-a157-356840561e03",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 44.74808,
+   "lon": 11.00731,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q1710080 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3636624:battle",
+  "year": 1084.537
+ },
+ {
+  "entity": "Q133063",
+  "eventType": "death",
+  "title": "Death of Gregory VII",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1085-05-25T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2117498.5,
+    "latestJd": 2117499.5,
+    "statementId": "Q133063$A68EC7B8-2618-4B26-BA4A-6CF22C2766AA",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 40.68055555555556,
+   "lon": 14.759444444444444,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q1083 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q133063:death",
+  "year": 1085.432
+ },
+ {
+  "entity": "Q203792",
+  "eventType": "death",
+  "title": "Death of Robert Guiscard",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1085-07-17T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2117551.5,
+    "latestJd": 2117552.5,
+    "statementId": "q203792$A2C343DD-5F00-4503-8F74-874C9CEC4C04",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 38.265,
+   "lon": 20.5525,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q178488 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q203792:death",
+  "year": 1085.577
+ },
+ {
+  "entity": "Q19867",
+  "eventType": "created",
+  "title": "Creation of Domesday Book",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1086-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2117719.5,
+    "latestJd": 2118084.5,
+    "statementId": "Q19867$1ed3b336-47ec-7f5e-0fe0-548bbf3c1751",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q19867:created",
+  "year": 1086.535
+ },
+ {
+  "entity": "Q62978706",
+  "eventType": "death",
+  "title": "Death of Matilda of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1086-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2117719.5,
+    "latestJd": 2118084.5,
+    "statementId": "Q62978706$c7a19e4f-469e-d31d-b18d-987e30326874",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q62978706:death",
+  "year": 1086.535
+ },
+ {
+  "entity": "Q37594",
+  "eventType": "death",
+  "title": "Death of William the Conqueror",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1087-09-09T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2118335.5,
+    "latestJd": 2118336.5,
+    "statementId": "Q37594$ac8509f4-42c9-ac4f-4cae-cc0b7a63674b",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.443055555556,
+   "lon": 1.1025,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q30974 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q37594:death",
+  "year": 1087.723
+ },
+ {
+  "entity": "Q237709",
+  "eventType": "death",
+  "title": "Death of Bertha of Savoy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1087-12-27T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2118444.5,
+    "latestJd": 2118445.5,
+    "statementId": "Q237709$28820D49-FBD8-4EE0-A91A-9FA7B65960F1",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.99944444444444,
+   "lon": 8.27361111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q1720 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q237709:death",
+  "year": 1088.022
+ },
+ {
+  "entity": "Q640793",
+  "eventType": "death",
+  "title": "Death of Sikelgaita",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1090-04-16T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2119279.5,
+    "latestJd": 2119280.5,
+    "statementId": "Q640793$D3834A1E-F621-481B-A65C-3BBCFDA0E189",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 39.5,
+   "lon": 15.95,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q53866 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q640793:death",
+  "year": 1090.308
+ },
+ {
+  "entity": "Q2415527",
+  "eventType": "death",
+  "title": "Death of Adelaide of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1090-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2119180.5,
+    "latestJd": 2119545.5,
+    "statementId": "Q2415527$bd3edc28-471d-d559-c4aa-2dd9ecd3c416",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2415527:death",
+  "year": 1090.535
+ },
+ {
+  "entity": "Q2994836",
+  "eventType": "death",
+  "title": "Death of Constance of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1090-08-13T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2119398.5,
+    "latestJd": 2119399.5,
+    "statementId": "Q2994836$6DBC04C5-6528-43B3-9052-3D3F50647D2D",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 47.651388888889,
+   "lon": -2.0847222222222,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q206837 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2994836:death",
+  "year": 1090.634
+ },
+ {
+  "entity": "Q3636344",
+  "eventType": "battle",
+  "title": "Battle of Bianello",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1092-10-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "julian",
+    "earliestJd": 2120184.5,
+    "latestJd": 2120215.5,
+    "statementId": "Q3636344$728eec22-42d8-cd8c-b252-f1d7b2c08a41",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 44.62775,
+   "lon": 10.468472222222223,
+   "role": "eventSite",
+   "precision": "settlement",
+   "evidence": "P276 → Q1154263 P625 (settlement, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3636344:battle",
+  "year": 1092.827
+ },
+ {
+  "entity": "Q316042",
+  "eventType": "death",
+  "title": "Death of Olaf III of Norway",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1093-09-22T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2120540.5,
+    "latestJd": 2120541.5,
+    "statementId": "Q316042$A880E68E-3DA0-41A2-948D-44271EFE997C",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 58.98619,
+   "lon": 11.300013,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q2568218 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q316042:death",
+  "year": 1093.76
+ },
+ {
+  "entity": "Q273181",
+  "eventType": "death",
+  "title": "Death of Judith of Flanders, Countess of Northumbria",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1094-03-05T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2120697.5,
+    "latestJd": 2120699.5,
+    "statementId": "Q273181$AD6FF4BF-5114-4F33-B4EF-E0B631BEDE2F",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 47.80777,
+   "lon": 9.64172,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q572427 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q273181:death",
+  "year": 1094.192
+ },
+ {
+  "entity": "Q321741",
+  "eventType": "death",
+  "title": "Death of Wulfnoth Godwinson",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1094-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2120635.5,
+    "latestJd": 2121000.5,
+    "statementId": "Q321741$94EA4D54-0978-4C04-AEFF-8CD885B4506A",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.074,
+   "lon": -1.7936,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q160642 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q321741:death",
+  "year": 1094.519
+ },
+ {
+  "entity": "Q12546",
+  "eventType": "series of wars",
+  "title": "Crusades",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1095-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2121006.5,
+    "latestJd": 2121371.5,
+    "statementId": "Q12546$DCDC70C6-41CA-4B96-9F55-E4E0FFF0BA8C",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1291-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2192595.5,
+    "latestJd": 2192960.5,
+    "statementId": "Q12546$E675EED3-8F7D-4E13-A2B4-E1DC4893C604",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q12546:series of wars",
+  "year": 1095.535
+ },
+ {
+  "entity": "Q49964",
+  "eventType": "synod",
+  "title": "Council of Clermont",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1095-11-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "julian",
+    "earliestJd": 2121310.5,
+    "latestJd": 2121340.5,
+    "statementId": "Q49964$428b00f6-452c-426e-97de-2ca80bc08497",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 45.779722222222,
+   "lon": 3.0869444444444,
+   "role": "eventSite",
+   "precision": "settlement",
+   "evidence": "curated: Clermont-Ferrand (Q42168 P625); source https://en.wikipedia.org/wiki/Council_of_Clermont"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q49964:synod",
+  "year": 1095.908
+ },
+ {
+  "entity": "Q724235",
+  "eventType": "death",
+  "title": "Death of Robert, Count of Mortain",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1095-12-09T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2121348.5,
+    "latestJd": 2121349.5,
+    "statementId": "Q724235$bf1fa01c-4e65-8db6-1be5-efe9bdf0c146",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.12233911111111,
+   "lon": -0.43664430555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q15878 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q724235:death",
+  "year": 1095.973
+ },
+ {
+  "entity": "Q51651",
+  "eventType": "massacre",
+  "title": "Rhineland massacres",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1096-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2121365.5,
+    "latestJd": 2121731.5,
+    "statementId": "Q51651$9b46fd09-44a2-d35b-37fe-7fd2a17910cc",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q51651:massacre",
+  "year": 1096.519
+ },
+ {
+  "entity": "Q51649",
+  "eventType": "religious war",
+  "title": "First Crusade",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1096-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2121371.5,
+    "latestJd": 2121737.5,
+    "statementId": "Q51649$F1A28792-0BAC-4E0A-9E49-A432F5CD92B5",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1099-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2122467.5,
+    "latestJd": 2122832.5,
+    "statementId": "Q51649$0A9430D9-224C-49FC-B6AF-855A996817A1",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 34,
+   "lon": 36,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q81483 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q51649:religious war",
+  "year": 1096.535
+ },
+ {
+  "entity": "Q3656607",
+  "eventType": "siege",
+  "title": "Siege of Xerigordon",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1096-09-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "gregorian",
+    "earliestJd": 2121609.5,
+    "latestJd": 2121639.5,
+    "statementId": "Q3656607$F60A7D0C-2154-41C4-8D5F-FD50A6C3607A",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 40.3925,
+   "lon": 29.804166666667,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q3656607"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q3656607:siege",
+  "year": 1096.727
+ },
+ {
+  "entity": "Q49961",
+  "eventType": "death",
+  "title": "Death of Odo, Earl of Kent",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1097-01-06T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2121742.5,
+    "latestJd": 2121743.5,
+    "statementId": "Q49961$7E553034-5F4D-4BC6-80EC-C1A67A9D3B73",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 38.115658055555556,
+   "lon": 13.361261944444445,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q2656 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q49961:death",
+  "year": 1097.051
+ },
+ {
+  "entity": "Q642117",
+  "eventType": "siege",
+  "title": "Siege of Nicaea",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1097-05-14T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2121864.5,
+    "latestJd": 2121865.5,
+    "statementId": "Q642117$5309AC70-1FAA-458B-9D75-5259259FA43A",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1097-06-19T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2121900.5,
+    "latestJd": 2121901.5,
+    "statementId": "Q642117$6EFFFBE3-C584-4617-92F1-E1946BA68934",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 40.428888888889,
+   "lon": 29.719444444444,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q642117"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q642117:siege",
+  "year": 1097.385
+ },
+ {
+  "entity": "Q12428",
+  "eventType": "battle",
+  "title": "Battle of Dorylaeum",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1097-07-01T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2121918.5,
+    "latestJd": 2121919.5,
+    "statementId": "Q12428$15129ceb-4269-37f6-6e4a-8ca368f060c2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 39.7767,
+   "lon": 30.5206,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q12428"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q12428:battle",
+  "year": 1097.533
+ },
+ {
+  "entity": "Q112243839",
+  "eventType": "siege",
+  "title": "Siege of Tarsus",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1097-09-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "julian",
+    "earliestJd": 2121980.5,
+    "latestJd": 2122010.5,
+    "statementId": "Q112243839$e47d1746-479b-f09d-a237-317dfdb5574c",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 36.916666666667,
+   "lon": 34.9,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q134287 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q112243839:siege",
+  "year": 1097.743
+ },
+ {
+  "entity": "Q741098",
+  "eventType": "siege",
+  "title": "Siege of Antioch",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1097-10-20T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122029.5,
+    "latestJd": 2122030.5,
+    "statementId": "Q741098$72d61ec2-4a52-d2ea-918c-a1edd25e1384",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1098-06-28T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122280.5,
+    "latestJd": 2122281.5,
+    "statementId": "Q741098$24a6553e-4925-13e9-12bb-3fba313ef43e",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 36.202222222222225,
+   "lon": 36.16138888888889,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q741098"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q741098:siege",
+  "year": 1097.837
+ },
+ {
+  "entity": "Q54554836",
+  "eventType": "battle",
+  "title": "Battle of al-Barâ",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1097-12-31T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122101.5,
+    "latestJd": 2122102.5,
+    "statementId": "Q54554836$529b2954-4382-3d6b-65cd-e12bf5ffa226",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 35.68333333,
+   "lon": 36.53333333,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q310049 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q54554836:battle",
+  "year": 1098.034
+ },
+ {
+  "entity": "Q11688167",
+  "eventType": "battle",
+  "title": "Battle of the Bridge Gate",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1098-03-07T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122167.5,
+    "latestJd": 2122168.5,
+    "statementId": "Q11688167$ccad51f7-4196-66c7-102d-4202157bf16d",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 36.2025,
+   "lon": 36.160555555555554,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q80561 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q11688167:battle",
+  "year": 1098.215
+ },
+ {
+  "entity": "Q40037480",
+  "eventType": "battle",
+  "title": "Battle of Antioch",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1098-06-28T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122280.5,
+    "latestJd": 2122281.5,
+    "statementId": "Q40037480$13F89AB2-51E1-4DB3-B964-762847364CD1",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 36.20472222222222,
+   "lon": 36.181666666666665,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q200441 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q40037480:battle",
+  "year": 1098.524
+ },
+ {
+  "entity": "Q2503775",
+  "eventType": "siege",
+  "title": "Siege of Ma'arra",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1098-11-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "gregorian",
+    "earliestJd": 2122400.5,
+    "latestJd": 2122430.5,
+    "statementId": "Q2503775$05BD8507-8FEF-4204-A608-D6A8C229AA60",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1098-12-00T00:00:00Z",
+    "precision": "month",
+    "calendar": "gregorian",
+    "earliestJd": 2122430.5,
+    "latestJd": 2122461.5,
+    "statementId": "Q2503775$8CC42F5C-2F16-40F9-B0D2-935ADDD12ABF",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 35.643333333333,
+   "lon": 36.668333333333,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q2503775"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q2503775:siege",
+  "year": 1098.893
+ },
+ {
+  "entity": "Q5452886",
+  "eventType": "marching",
+  "title": "March from Antioch to Jerusalem during the First Crusade",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1099-01-13T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122479.5,
+    "latestJd": 2122480.5,
+    "statementId": "Q5452886$903fb493-4d12-2e5a-ac61-728feabaae1d",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1099-06-07T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122624.5,
+    "latestJd": 2122625.5,
+    "statementId": "Q5452886$08337b4d-487c-1193-fc66-4f092e1919f7",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q5452886:marching",
+  "year": 1099.069
+ },
+ {
+  "entity": "Q456993",
+  "eventType": "battle",
+  "title": "Siege of Jerusalem",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1099-06-07T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122624.5,
+    "latestJd": 2122625.5,
+    "statementId": "Q456993$ebd0bf20-4bcc-9c30-64c2-105dd3b21f18",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1099-07-15T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122662.5,
+    "latestJd": 2122663.5,
+    "statementId": "Q456993$b5b97ea6-4923-4cde-d389-d09e9d513a36",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 31.7833,
+   "lon": 35.2167,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q456993"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q456993:battle",
+  "year": 1099.466
+ },
+ {
+  "entity": "Q24907444",
+  "eventType": "church council",
+  "title": "Easter Council",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1099-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "julian",
+    "earliestJd": 2122467.5,
+    "latestJd": 2122832.5,
+    "statementId": "Q24907444$a77394d3-4554-e88e-296c-7e29710a316c",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.893055555556,
+   "lon": 12.482777777778,
+   "role": "eventSite",
+   "precision": "region",
+   "evidence": "P276 → Q220 P625 (region, from its type)"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q24907444:church council",
+  "year": 1099.535
+ },
+ {
+  "entity": "Q137104913",
+  "eventType": "massacre",
+  "title": "Massacre of Jerusalem",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1099-07-15T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122662.5,
+    "latestJd": 2122663.5,
+    "statementId": "Q137104913$d452f724-4eaa-8fa9-2b7a-34f86c1c52eb",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q137104913:massacre",
+  "year": 1099.57
+ },
+ {
+  "entity": "Q30578",
+  "eventType": "death",
+  "title": "Death of Urban II",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1099-07-29T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122676.5,
+    "latestJd": 2122677.5,
+    "statementId": "q30578$4D897595-637C-42B4-B8A2-8AB2F2AA91F6",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.893055555556,
+   "lon": 12.482777777778,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q220 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q30578:death",
+  "year": 1099.608
+ },
+ {
+  "entity": "Q827472",
+  "eventType": "siege",
+  "title": "Battle of Ascalon",
+  "timing": {
+   "temporalKind": "span",
+   "start": {
+    "raw": "+1099-08-12T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122690.5,
+    "latestJd": 2122691.5,
+    "statementId": "Q827472$4704a31e-4456-8aad-8b6c-42e2dff0609f",
+    "status": "ok",
+    "alternatives": 1
+   },
+   "end": {
+    "raw": "+1099-08-18T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2122696.5,
+    "latestJd": 2122697.5,
+    "statementId": "Q827472$91d0f049-4b43-787a-85f7-4d89ff26392d",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 31.670555555556,
+   "lon": 34.558055555556,
+   "role": "eventSite",
+   "precision": "exact",
+   "evidence": "P625 on Q827472"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q827472:siege",
+  "year": 1099.647
+ },
+ {
+  "entity": "Q102005",
+  "eventType": "death",
+  "title": "Death of William II of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1100-08-02T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2123039.5,
+    "latestJd": 2123040.5,
+    "statementId": "q102005$94EEB9F7-0395-4FB5-8650-2FE734564B2A",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.86666667,
+   "lon": -1.56666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q14524921 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q102005:death",
+  "year": 1100.602
+ },
+ {
+  "entity": "Q1754399",
+  "eventType": "founded",
+  "title": "Foundation of Abbey of Sainte-Trinité",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1001-01-17T00:00:00Z",
+    "precision": "century",
+    "calendar": "gregorian",
+    "earliestJd": 2086667.5,
+    "latestJd": 2159716.5,
+    "statementId": "Q1754399$95C65272-0D35-41AD-BC96-CD0C8B66369C",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.18637055323239,
+   "lon": -0.3529250057390624,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q1754399"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1754399:founded",
+  "year": 1101.018
+ },
+ {
+  "entity": "Q60094",
+  "eventType": "death",
+  "title": "Death of Henry IV",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1106-08-07T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2125242.5,
+    "latestJd": 2125243.5,
+    "statementId": "Q60094$55FB5875-DC99-4705-9CD9-70C5D8E2FA24",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 50.639722222222225,
+   "lon": 5.570555555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q3992 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q60094:death",
+  "year": 1106.634
+ },
+ {
+  "entity": "Q1747051",
+  "eventType": "death",
+  "title": "Death of Guy of Hauteville",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1108-07-08T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2125936.5,
+    "latestJd": 2125937.5,
+    "statementId": "Q1747051$72EA7F5A-4BB4-44B5-9AB9-19FA49F30DDD",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q1747051:death",
+  "year": 1108.534
+ },
+ {
+  "entity": "Q540099",
+  "eventType": "death",
+  "title": "Death of Hugh of Cluny",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1109-04-29T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2126238.5,
+    "latestJd": 2126239.5,
+    "statementId": "Q540099$4AEDC895-6DDD-4573-B1DA-5774AB310F32",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 46.434444444444,
+   "lon": 4.6591666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q192982 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q540099:death",
+  "year": 1109.361
+ },
+ {
+  "entity": "Q220806",
+  "eventType": "death",
+  "title": "Death of Bohemond I of Antioch",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1111-03-03T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2126911.5,
+    "latestJd": 2126912.5,
+    "statementId": "q220806$0CBE09E2-186D-4309-89D4-A4F08EB4D7FA",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.216666666667,
+   "lon": 16.066666666667,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q23187 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q220806:death",
+  "year": 1111.203
+ },
+ {
+  "entity": "Q464162",
+  "eventType": "death",
+  "title": "Death of Matilda of Tuscany",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1115-07-24T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2128508.5,
+    "latestJd": 2128509.5,
+    "statementId": "Q464162$F6E23381-03D8-4172-AD05-E954767957BC",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 44.93416666666667,
+   "lon": 10.838055555555556,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q2198892 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q464162:death",
+  "year": 1115.576
+ },
+ {
+  "entity": "Q41600",
+  "eventType": "death",
+  "title": "Death of Alexios I Komnenos",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1118-08-15T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2129626.5,
+    "latestJd": 2129627.5,
+    "statementId": "q41600$2F2B9FB9-291F-46C4-9F34-B7B731163E46",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 41.01224,
+   "lon": 28.976018,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q16869 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q41600:death",
+  "year": 1118.637
+ },
+ {
+  "entity": "Q706674",
+  "eventType": "death",
+  "title": "Death of Welf II, Duke of Bavaria",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1120-09-24T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2130397.5,
+    "latestJd": 2130405.5,
+    "statementId": "Q706674$31C5DA88-0D1F-4BE2-9A1F-CE7DE7859D88",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 48.083333333333,
+   "lon": 10.883333333333,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q339918 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q706674:death",
+  "year": 1120.757
+ },
+ {
+  "entity": "Q174452",
+  "eventType": "death",
+  "title": "Death of Alberada of Buonalbergo",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1122-07-01T00:00:00Z",
+    "precision": "month",
+    "calendar": "gregorian",
+    "earliestJd": 2131042.5,
+    "latestJd": 2131073.5,
+    "statementId": "q174452$FA94CE86-CE3A-4052-8B97-2605982B3390",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q174452:death",
+  "year": 1122.554
+ },
+ {
+  "entity": "Q215224",
+  "eventType": "death",
+  "title": "Death of Edgar Ætheling",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1125-01-01T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2131957.5,
+    "latestJd": 2132322.5,
+    "statementId": "Q215224$80E5400F-78FB-42EF-BBC1-2DD904F9094E",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 53,
+   "lon": -1,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q21 P625"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q215224:death",
+  "year": 1125.517
+ },
+ {
+  "entity": "Q2120325",
+  "eventType": "death",
+  "title": "Death of Cecilia of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1126-07-30T00:00:00Z",
+    "precision": "day",
+    "calendar": "gregorian",
+    "earliestJd": 2132532.5,
+    "latestJd": 2132533.5,
+    "statementId": "Q2120325$4661A96D-477D-4682-9A7F-27CAAB7CDBD5",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.18138888888889,
+   "lon": -0.3636111111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q41185 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q2120325:death",
+  "year": 1126.593
+ },
+ {
+  "entity": "Q220994",
+  "eventType": "death",
+  "title": "Death of Robert Curthose",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1134-02-10T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2135291.5,
+    "latestJd": 2135292.5,
+    "statementId": "Q220994$04486142-42ec-aa75-1e03-b4cbf7fb042a",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 51.482309,
+   "lon": -3.1811056,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q1035742 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q220994:death",
+  "year": 1134.146
+ },
+ {
+  "entity": "Q101384",
+  "eventType": "death",
+  "title": "Death of Henry I of England",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1135-12-01T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2135950.5,
+    "latestJd": 2135951.5,
+    "statementId": "Q101384$4D20345B-B882-4931-B02C-F744DCF4AE86",
+    "status": "ok",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 49.328888888889,
+   "lon": 1.7186111111111,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q1072352 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q101384:death",
+  "year": 1135.951
+ },
+ {
+  "entity": "Q237886",
+  "eventType": "death",
+  "title": "Death of Adela of Normandy",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1137-03-08T00:00:00Z",
+    "precision": "day",
+    "calendar": "julian",
+    "earliestJd": 2136413.5,
+    "latestJd": 2136779.5,
+    "statementId": "q237886$C02F9DA6-E0FA-4B65-8133-CDE649DFB1AA",
+    "status": "needsReview",
+    "alternatives": 2
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 46.274722222222,
+   "lon": 4.0413888888889,
+   "role": "settlement",
+   "precision": "settlement",
+   "evidence": "P20 → Q279310 P625"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q237886:death",
+  "year": 1137.718
+ },
+ {
+  "entity": "Q16654634",
+  "eventType": "created",
+  "title": "Creation of Lectionnaire de Cluny - BNF NAL2246",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1101-00-00T00:00:00Z",
+    "precision": "century",
+    "calendar": "julian",
+    "earliestJd": 2123198.5,
+    "latestJd": 2159723.5,
+    "statementId": "Q16654634$7868a6fa-47ff-09d9-0e73-0eff0ae565df",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "unknown"
+  },
+  "forms": [
+   "timeline"
+  ],
+  "id": "Q16654634:created",
+  "year": 1151.036
+ },
+ {
+  "entity": "Q650678",
+  "eventType": "founded",
+  "title": "Foundation of Mantua Cathedral",
+  "timing": {
+   "temporalKind": "point",
+   "start": {
+    "raw": "+1761-00-00T00:00:00Z",
+    "precision": "year",
+    "calendar": "gregorian",
+    "earliestJd": 2364252.5,
+    "latestJd": 2364617.5,
+    "statementId": "Q650678$6AD0347E-0355-4BB1-8312-0B7A5BB2AEA2",
+    "status": "ok",
+    "alternatives": 1
+   }
+  },
+  "location": {
+   "assessment": "located",
+   "lat": 45.160707,
+   "lon": 10.79742,
+   "role": "buildingSite",
+   "precision": "exact",
+   "evidence": "P625 on Q650678"
+  },
+  "forms": [
+   "timeline",
+   "marker"
+  ],
+  "id": "Q650678:founded",
+  "year": 1761.506
+ }
+]

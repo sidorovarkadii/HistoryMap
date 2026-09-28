@@ -1,0 +1,1510 @@
+[
+ {
+  "id": "1066-succession",
+  "title": "The 1066 succession crisis",
+  "question": "How did marriages and family ties across England, Normandy, Denmark and Norway produce three rival claims to the English throne in 1066 — and how were they settled?",
+  "window": {
+   "from": "1000-01-01",
+   "to_exclusive": "1100-01-01"
+  },
+  "memberships": [
+   {
+    "story": "1066-succession",
+    "ref": "Q40061",
+    "role": "anchor",
+    "explanation": "Queen of two English kings (Æthelred, Cnut) and mother of two more (Harthacnut, Edward); her family ties link England, Normandy and Denmark.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q183499",
+    "role": "context",
+    "explanation": "Emma's first husband and Edward the Confessor's father; his reign ended in the Danish conquest of England.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q134128",
+    "role": "anchor",
+    "explanation": "Danish king of England, Denmark and Norway; Emma's second husband.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Cnut"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q190091",
+    "role": "context",
+    "explanation": "Son of Cnut and Emma; king of England 1040–1042, succeeded by his half-brother Edward.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Harthacnut"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q130005",
+    "role": "anchor",
+    "explanation": "King of England 1042–1066; his childless death opened the succession crisis.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q259564",
+    "role": "anchor",
+    "explanation": "Edward the Confessor's queen and a daughter of Earl Godwin, tying the royal house to the Godwins.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Edith_of_Wessex"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q318142",
+    "role": "context",
+    "explanation": "Most powerful English earl under Cnut and Edward; father of Harold, Tostig and Queen Edith.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q159597",
+    "role": "anchor",
+    "explanation": "Crowned king in January 1066; fought at Stamford Bridge and was killed at Hastings.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Harold_Godwinson"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q345420",
+    "role": "anchor",
+    "explanation": "Harold's exiled brother who joined Harald Hardrada's invasion.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Tostig_Godwinson"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q203647",
+    "role": "anchor",
+    "explanation": "King of Norway who claimed the English throne and invaded in 1066.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Harald_Hardrada"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q37594",
+    "role": "anchor",
+    "explanation": "Duke of Normandy, Emma's great-nephew, who claimed the throne and won at Hastings.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/William_the_Conqueror"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q391944",
+    "role": "context",
+    "explanation": "William's wife; regent of Normandy during the 1066 campaign.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q215224",
+    "role": "anchor",
+    "explanation": "Last male of the House of Wessex; proclaimed king after Hastings but never crowned.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Edgar_%C3%86theling"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1113659",
+    "role": "anchor",
+    "explanation": "First battle of 1066: Hardrada and Tostig defeat the northern earls.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Battle_of_Fulford"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q203225",
+    "role": "anchor",
+    "explanation": "Harold defeats Hardrada and Tostig, both killed.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q83224",
+    "role": "anchor",
+    "explanation": "William defeats Harold, who is killed.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q200485",
+    "role": "anchor",
+    "explanation": "The conquest of England that followed Hastings.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Norman_Conquest"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q41380",
+    "role": "connecting",
+    "explanation": "links William the Conqueror and Emma of Normandy (named gap: William's claim ran through Emma's Norman family.)",
+    "rule": "named gap (second step)"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q312613",
+    "role": "connecting",
+    "explanation": "links William the Conqueror and Emma of Normandy (named gap: William's claim ran through Emma's Norman family.)",
+    "rule": "named gap (second step)"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q101384",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror, Matilda of Flanders",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q102005",
+    "role": "connecting",
+    "explanation": "child of Matilda of Flanders, William the Conqueror",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q105616523",
+    "role": "connecting",
+    "explanation": "involves Norman conquest of England",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1064630",
+    "role": "context",
+    "explanation": "house of Cnut the Great, Harthacanute, Emma of Normandy",
+    "rule": "R4 house of ≥2 seeds"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q111953993",
+    "role": "connecting",
+    "explanation": "involves Norman conquest of England",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q117647",
+    "role": "connecting",
+    "explanation": "father of Edgar Ætheling",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q12097",
+    "role": "context",
+    "explanation": "office held by Harald III of Norway",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1249624",
+    "role": "connecting",
+    "explanation": "linked to Harold Godwinson, Edith of Wessex, Godwin, Earl of Wessex",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1249857",
+    "role": "connecting",
+    "explanation": "sibling of Edith of Wessex, Harold Godwinson, Tostig Godwinson; child of Godwin, Earl of Wessex",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1261974",
+    "role": "connecting",
+    "explanation": "linked to Edward the Confessor, Æthelred the Unready",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1294765",
+    "role": "context",
+    "explanation": "office held by Cnut the Great",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q132531885",
+    "role": "connecting",
+    "explanation": "involves Norman conquest of England",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q133877646",
+    "role": "connecting",
+    "explanation": "involves Norman conquest of England",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1406700",
+    "role": "connecting",
+    "explanation": "linked to Harold Godwinson, Edith of Wessex, Godwin, Earl of Wessex",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1422925",
+    "role": "connecting",
+    "explanation": "involves William the Conqueror",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1704268",
+    "role": "connecting",
+    "explanation": "involves Cnut the Great",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1754399",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q179876",
+    "role": "context",
+    "explanation": "party to Battle of Fulford, Battle of Stamford Bridge, Battle of Hastings",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q181896",
+    "role": "connecting",
+    "explanation": "father of Cnut the Great",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q18341329",
+    "role": "context",
+    "explanation": "office held by Cnut the Great, Harthacanute",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q18810062",
+    "role": "context",
+    "explanation": "office held by Edward the Confessor, Cnut the Great, Harold Godwinson",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q188627",
+    "role": "connecting",
+    "explanation": "sibling of Harthacanute; child of Cnut the Great",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q188684",
+    "role": "connecting",
+    "explanation": "child of Æthelred the Unready; sibling of Edward the Confessor",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q192920",
+    "role": "connecting",
+    "explanation": "sibling of Æthelred the Unready",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q192925",
+    "role": "connecting",
+    "explanation": "father of Æthelred the Unready",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q208331",
+    "role": "connecting",
+    "explanation": "sibling of Harald III of Norway",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2120325",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror, Matilda of Flanders",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2196956",
+    "role": "context",
+    "explanation": "party to Battle of Fulford",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q220994",
+    "role": "connecting",
+    "explanation": "child of Matilda of Flanders, William the Conqueror",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2284422",
+    "role": "connecting",
+    "explanation": "spouse of Harald III of Norway",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q237886",
+    "role": "connecting",
+    "explanation": "child of Matilda of Flanders, William the Conqueror",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2415527",
+    "role": "connecting",
+    "explanation": "sibling of William the Conqueror",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q254545",
+    "role": "connecting",
+    "explanation": "sibling of Edward the Confessor, Harthacanute; child of Cnut the Great, Emma of Normandy",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2634369",
+    "role": "connecting",
+    "explanation": "linked to Harold Godwinson, Edith of Wessex, Godwin, Earl of Wessex",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q270777",
+    "role": "connecting",
+    "explanation": "mother of Emma of Normandy",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2712298",
+    "role": "connecting",
+    "explanation": "involves Harald III of Norway",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q273181",
+    "role": "connecting",
+    "explanation": "spouse of Tostig Godwinson",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2826477",
+    "role": "connecting",
+    "explanation": "mother of Edgar Ætheling",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2887133",
+    "role": "connecting",
+    "explanation": "mother of Cnut the Great",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2970215",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q2994836",
+    "role": "connecting",
+    "explanation": "child of Matilda of Flanders, William the Conqueror",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3002743",
+    "role": "connecting",
+    "explanation": "involves Norman conquest of England",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3046321",
+    "role": "connecting",
+    "explanation": "linked to Edward the Confessor, Æthelred the Unready",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3109791",
+    "role": "connecting",
+    "explanation": "sibling of Edward the Confessor, Harthacanute; child of Emma of Normandy, Æthelred the Unready",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q311011",
+    "role": "connecting",
+    "explanation": "sibling of Cnut the Great",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q316042",
+    "role": "connecting",
+    "explanation": "child of Harald III of Norway",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q321741",
+    "role": "connecting",
+    "explanation": "linked to Harold Godwinson, Edith of Wessex, Godwin, Earl of Wessex",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q333359",
+    "role": "connecting",
+    "explanation": "father of Emma of Normandy",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q333384",
+    "role": "connecting",
+    "explanation": "father of Matilda of Flanders",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3353388",
+    "role": "connecting",
+    "explanation": "involves Harald III of Norway",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3356544",
+    "role": "connecting",
+    "explanation": "spouse of Harald III of Norway",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q343088",
+    "role": "connecting",
+    "explanation": "child of Harald III of Norway",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3498141",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror, Matilda of Flanders",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q353829",
+    "role": "connecting",
+    "explanation": "mother of Matilda of Flanders",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q35618",
+    "role": "connecting",
+    "explanation": "linked to Edward the Confessor, Æthelred the Unready, Harthacanute",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3580558",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3636537",
+    "role": "connecting",
+    "explanation": "involves Harald III of Norway",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q3636556",
+    "role": "connecting",
+    "explanation": "involves Harald III of Norway",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q36731",
+    "role": "connecting",
+    "explanation": "linked to Cnut the Great, Harthacanute",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q4148098",
+    "role": "context",
+    "explanation": "party to Battle of Fulford",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q4364607",
+    "role": "connecting",
+    "explanation": "linked to Edward the Confessor, Æthelred the Unready",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q45465",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror, Matilda of Flanders",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q460244",
+    "role": "context",
+    "explanation": "office held by Richard II, William the Conqueror, Matilda of Flanders",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q462856",
+    "role": "connecting",
+    "explanation": "spouse of Harold Godwinson",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q49961",
+    "role": "connecting",
+    "explanation": "sibling of William the Conqueror",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q499768",
+    "role": "connecting",
+    "explanation": "involves Cnut the Great",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q511482",
+    "role": "context",
+    "explanation": "house of Edward the Confessor, Æthelred the Unready, Edgar Ætheling",
+    "rule": "R4 house of ≥2 seeds"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q62378",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q62978447",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror, Matilda of Flanders",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q62978706",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror, Matilda of Flanders",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q65089021",
+    "role": "context",
+    "explanation": "house of Harold Godwinson, Edith of Wessex, Godwin, Earl of Wessex",
+    "rule": "R4 house of ≥2 seeds"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q66428194",
+    "role": "context",
+    "explanation": "office held by Emma of Normandy",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q7053398",
+    "role": "connecting",
+    "explanation": "linked to Battle of Fulford, Battle of Stamford Bridge",
+    "rule": "R8 other, ≥2 seeds"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q724235",
+    "role": "connecting",
+    "explanation": "sibling of William the Conqueror",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q727760",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q7509995",
+    "role": "connecting",
+    "explanation": "involves Norman conquest of England",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q75386640",
+    "role": "connecting",
+    "explanation": "linked to Cnut the Great, Emma of Normandy",
+    "rule": "R2b ≥2 seeds, not participation alone"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q80637",
+    "role": "connecting",
+    "explanation": "linked to William the Conqueror",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q830878",
+    "role": "connecting",
+    "explanation": "involves Harald III of Norway",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q842091",
+    "role": "context",
+    "explanation": "party to Battle of Hastings",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q1703402",
+    "role": "context",
+    "explanation": "Onward exit: William's campaign against northern resistance, 1069–70.",
+    "rule": "curated exit"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q19867",
+    "role": "context",
+    "explanation": "Onward exit: The 1086 survey of the conquered kingdom.",
+    "rule": "curated exit"
+   },
+   {
+    "story": "1066-succession",
+    "ref": "Q171112",
+    "role": "context",
+    "explanation": "Onward exit: Reform pope of the other pilot story — see the curated banner link.",
+    "rule": "curated exit"
+   }
+  ],
+  "path": [
+   {
+    "ref": "Q40061",
+    "note": "Start with the queen whose marriages connect the claimants."
+   },
+   {
+    "ref": "Q130005",
+    "note": "Her son; his death without heirs opens the crisis."
+   },
+   {
+    "ref": "Q159597",
+    "note": "The Godwin claimant, crowned on the day of Edward's burial."
+   },
+   {
+    "ref": "Q203647",
+    "note": "The Norwegian claimant, invading with Harold's brother Tostig."
+   },
+   {
+    "ref": "Q1113659",
+    "note": "The invaders win the first battle."
+   },
+   {
+    "ref": "Q203225",
+    "note": "Harold marches north and defeats them."
+   },
+   {
+    "ref": "Q37594",
+    "note": "The Norman claimant lands in the south."
+   },
+   {
+    "ref": "Q83224",
+    "note": "Harold is killed; the Norman claim prevails."
+   },
+   {
+    "ref": "Q200485",
+    "note": "What followed."
+   }
+  ],
+  "exits": [
+   {
+    "ref": "Q1703402",
+    "note": "William's campaign against northern resistance, 1069–70."
+   },
+   {
+    "ref": "Q19867",
+    "note": "The 1086 survey of the conquered kingdom."
+   },
+   {
+    "ref": "Q171112",
+    "note": "Reform pope of the other pilot story — see the curated banner link."
+   }
+  ]
+ },
+ {
+  "id": "church-reform-papacy-crusade",
+  "title": "Church reform, papal authority, and the First Crusade",
+  "question": "How were monastic reform, the reforming papacy, its conflict with the emperor, and the call to crusade connected — through people, institutions and councils — and where do the connections run out or remain disputed?",
+  "window": {
+   "from": "0901-01-01",
+   "to_exclusive": "1100-01-01"
+  },
+  "memberships": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q220301",
+    "role": "anchor",
+    "explanation": "Benedictine abbey founded 910; centre of a monastic reform movement.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Cluny_Abbey"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q452753",
+    "role": "context",
+    "explanation": "Founded Cluny in 910 and placed it under papal protection.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/William_I,_Duke_of_Aquitaine"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q540099",
+    "role": "anchor",
+    "explanation": "Abbot of Cluny 1049–1109; godfather of Henry IV and mediator at Canossa.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Hugh_of_Cluny"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q58559",
+    "role": "anchor",
+    "explanation": "Reforming pope 1049–1054; his legates' excommunication of the patriarch is dated to the 1054 schism.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Pope_Leo_IX"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q51648",
+    "role": "anchor",
+    "explanation": "Break between the churches of Rome and Constantinople, conventionally dated 1054.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q171112",
+    "role": "anchor",
+    "explanation": "Reform pope 1061–1073; approved William of Normandy's 1066 invasion.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Pope_Alexander_II"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q133063",
+    "role": "anchor",
+    "explanation": "Pope 1073–1085; asserted papal authority over the emperor in the Investiture Controversy.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q60094",
+    "role": "anchor",
+    "explanation": "King and emperor who opposed Gregory VII; did penance at Canossa in 1077.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q464162",
+    "role": "anchor",
+    "explanation": "Margravine allied with the reform papacy; hosted the meeting at Canossa.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Matilda_of_Tuscany"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q154764",
+    "role": "anchor",
+    "explanation": "Conflict between papacy and empire over appointing bishops.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Investiture_Controversy"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q325656",
+    "role": "anchor",
+    "explanation": "Henry IV's penance before Gregory VII at Canossa, January 1077.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Road_to_Canossa"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q30578",
+    "role": "anchor",
+    "explanation": "Former prior of Cluny; pope 1088–1099 who preached the First Crusade.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Pope_Urban_II"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q49964",
+    "role": "anchor",
+    "explanation": "Council of 1095 at which Urban II called for the crusade.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Council_of_Clermont"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q51649",
+    "role": "anchor",
+    "explanation": "Military expedition 1096–1099 ending in the capture of Jerusalem.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/First_Crusade"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q203792",
+    "role": "context",
+    "explanation": "Norman ruler in southern Italy; papal vassal who rescued Gregory VII in 1084.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Robert_Guiscard"
+    ],
+    "rule": "curated seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q103163",
+    "role": "context",
+    "explanation": "office held by Hugh of Cluny",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q103479666",
+    "role": "context",
+    "explanation": "office held by Urban II",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q104866179",
+    "role": "connecting",
+    "explanation": "involves Investiture controversy",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q1078062",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q112243839",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q11688167",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q12428",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q12546",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q125692717",
+    "role": "context",
+    "explanation": "office held by Gregory VII",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q131132",
+    "role": "connecting",
+    "explanation": "linked to Gregory VII, Alexander II, Cluny Abbey",
+    "rule": "R8 other, ≥2 seeds"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q13563381",
+    "role": "connecting",
+    "explanation": "mother of Robert Guiscard",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q137104913",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q1529391",
+    "role": "connecting",
+    "explanation": "linked to Cluny Abbey, William I, Duke of Aquitaine",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q153023",
+    "role": "connecting",
+    "explanation": "father of Henry IV",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q157070",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q160307",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q16531530",
+    "role": "connecting",
+    "explanation": "involves Investiture controversy",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q16654634",
+    "role": "connecting",
+    "explanation": "by Cluny Abbey",
+    "rule": "R7 work by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q174306",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q174452",
+    "role": "connecting",
+    "explanation": "spouse of Robert Guiscard",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q1747051",
+    "role": "connecting",
+    "explanation": "child of Robert Guiscard",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q181765",
+    "role": "context",
+    "explanation": "office held by Henry IV",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q1917014",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q19546",
+    "role": "connecting",
+    "explanation": "linked to Gregory VII, Alexander II, Urban II",
+    "rule": "R8 other, ≥2 seeds"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q220806",
+    "role": "connecting",
+    "explanation": "child of Robert Guiscard",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q2223590",
+    "role": "connecting",
+    "explanation": "linked to Robert Guiscard",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q23011565",
+    "role": "context",
+    "explanation": "office held by Henry IV",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q2361374",
+    "role": "context",
+    "explanation": "office held by Gregory VII",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q237709",
+    "role": "connecting",
+    "explanation": "spouse of Henry IV",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q24907444",
+    "role": "connecting",
+    "explanation": "involves Urban II",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q2503775",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q262192",
+    "role": "connecting",
+    "explanation": "mother of Henry IV",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q26731",
+    "role": "connecting",
+    "explanation": "father of Robert Guiscard",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q335088",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q3636344",
+    "role": "connecting",
+    "explanation": "involves Investiture controversy",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q3636624",
+    "role": "connecting",
+    "explanation": "involves Investiture controversy",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q3656607",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q3668696",
+    "role": "connecting",
+    "explanation": "linked to Robert Guiscard",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q3708094",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q40037480",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q456993",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q45722",
+    "role": "context",
+    "explanation": "office held by Gregory VII",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q5452886",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q54554836",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q5781092",
+    "role": "connecting",
+    "explanation": "involves Leo IX",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q62651518",
+    "role": "context",
+    "explanation": "office held by Hugh of Cluny",
+    "rule": "R3 office held by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q640793",
+    "role": "connecting",
+    "explanation": "spouse of Robert Guiscard",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q642117",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q650678",
+    "role": "connecting",
+    "explanation": "linked to Matilda of Tuscany",
+    "rule": "R5 founded by / affiliated with a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q660393",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q695950",
+    "role": "connecting",
+    "explanation": "sibling of Henry IV",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q704988",
+    "role": "connecting",
+    "explanation": "spouse of Matilda of Tuscany",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q706674",
+    "role": "connecting",
+    "explanation": "spouse of Matilda of Tuscany",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q71747",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q741098",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q76346746",
+    "role": "connecting",
+    "explanation": "child of Robert Guiscard",
+    "rule": "R2a kin of a seed + active in window"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q827472",
+    "role": "connecting",
+    "explanation": "involves First Crusade",
+    "rule": "R1 event with an anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q842091",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q846670",
+    "role": "context",
+    "explanation": "party to First Crusade",
+    "rule": "R6 polity party to an anchor event"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q901417",
+    "role": "connecting",
+    "explanation": "by Gregory VII",
+    "rule": "R7 work by a seed"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q41600",
+    "role": "context",
+    "explanation": "Onward exit: The Byzantine emperor whose appeal preceded Clermont.",
+    "rule": "curated exit"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q51651",
+    "role": "context",
+    "explanation": "Onward exit: Attacks on Jewish communities by crusading bands in 1096.",
+    "rule": "curated exit"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q55502",
+    "role": "context",
+    "explanation": "Onward exit: The crusader state founded in 1099.",
+    "rule": "curated exit"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q2259892",
+    "role": "context",
+    "explanation": "Onward exit: Robert Guiscard's rescue of Gregory VII.",
+    "rule": "curated exit"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "ref": "Q37594",
+    "role": "context",
+    "explanation": "Onward exit: Crosses into the 1066 story through Pope Alexander II.",
+    "rule": "curated exit"
+   }
+  ],
+  "path": [
+   {
+    "ref": "Q220301",
+    "note": "A reforming abbey founded outside lay control."
+   },
+   {
+    "ref": "Q540099",
+    "note": "Its long-serving abbot, close to both popes and emperor."
+   },
+   {
+    "ref": "Q58559",
+    "note": "Reform reaches the papacy."
+   },
+   {
+    "ref": "Q51648",
+    "note": "Papal claims meet Constantinople's."
+   },
+   {
+    "ref": "Q133063",
+    "note": "The reform pope who confronts the emperor."
+   },
+   {
+    "ref": "Q154764",
+    "note": "Who appoints bishops?"
+   },
+   {
+    "ref": "Q325656",
+    "note": "Henry IV's penance, 1077."
+   },
+   {
+    "ref": "Q30578",
+    "note": "A Cluniac monk becomes pope."
+   },
+   {
+    "ref": "Q49964",
+    "note": "The call of 1095."
+   },
+   {
+    "ref": "Q51649",
+    "note": "The expedition — with its own onward consequences."
+   }
+  ],
+  "exits": [
+   {
+    "ref": "Q41600",
+    "note": "The Byzantine emperor whose appeal preceded Clermont."
+   },
+   {
+    "ref": "Q51651",
+    "note": "Attacks on Jewish communities by crusading bands in 1096."
+   },
+   {
+    "ref": "Q55502",
+    "note": "The crusader state founded in 1099."
+   },
+   {
+    "ref": "Q2259892",
+    "note": "Robert Guiscard's rescue of Gregory VII."
+   },
+   {
+    "ref": "Q37594",
+    "note": "Crosses into the 1066 story through Pope Alexander II."
+   }
+  ]
+ }
+]

@@ -1,0 +1,3790 @@
+[
+ {
+  "id": "Q101384",
+  "kind": "person",
+  "label": "Henry I of England",
+  "labelLang": "en",
+  "description": "King of England from 1100 to 1135 (1068–1135)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2533291344,
+  "wikidata": "https://www.wikidata.org/wiki/Q101384",
+  "wikipedia": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+  "lifespan": {
+   "birth": "1068",
+   "death": "1135"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q102005",
+  "kind": "person",
+  "label": "William II of England",
+  "labelLang": "en",
+  "description": "King of England from 1087 to 1100",
+  "classes": [
+   "human"
+  ],
+  "revision": 2539304840,
+  "wikidata": "https://www.wikidata.org/wiki/Q102005",
+  "wikipedia": "https://en.wikipedia.org/wiki/William_II_of_England",
+  "lifespan": {
+   "birth": "1060",
+   "death": "1100"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q103163",
+  "kind": "office",
+  "label": "abbot",
+  "labelLang": "en",
+  "description": "religious title, superior of a community of monks, often an abbey",
+  "classes": [
+   "ecclesiastical occupation"
+  ],
+  "revision": 2541689890,
+  "wikidata": "https://www.wikidata.org/wiki/Q103163",
+  "wikipedia": "https://en.wikipedia.org/wiki/Abbot",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q103479666",
+  "kind": "office",
+  "label": "cardinal-bishop of Ostia",
+  "labelLang": "en",
+  "description": "",
+  "classes": [
+   "position",
+   "Roman Catholic episcopal title"
+  ],
+  "revision": 2461746632,
+  "wikidata": "https://www.wikidata.org/wiki/Q103479666",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q104866179",
+  "kind": "event",
+  "label": "Synod of Brixen",
+  "labelLang": "en",
+  "description": "",
+  "classes": [
+   "synod"
+  ],
+  "revision": 2337697798,
+  "wikidata": "https://www.wikidata.org/wiki/Q104866179",
+  "wikipedia": "https://en.wikipedia.org/wiki/Synod_of_Brixen",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q105616523",
+  "kind": "event",
+  "label": "Battle of Northam",
+  "labelLang": "en",
+  "description": "1068 battle in England",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2504563229,
+  "wikidata": "https://www.wikidata.org/wiki/Q105616523",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Northam",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1064630",
+  "kind": "dynasty",
+  "label": "House of Knýtlinga",
+  "labelLang": "en",
+  "description": "ruling royal house in Middle Age Scandinavia and England",
+  "classes": [
+   "royal house"
+  ],
+  "revision": 2546263350,
+  "wikidata": "https://www.wikidata.org/wiki/Q1064630",
+  "wikipedia": "https://en.wikipedia.org/wiki/House_of_Knýtlinga",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q1078062",
+  "kind": "polity",
+  "label": "Principality of Taranto",
+  "labelLang": "en",
+  "description": "fief within the Kingdoms of Sicily and Naples",
+  "classes": [
+   "historical country"
+  ],
+  "revision": 2549817460,
+  "wikidata": "https://www.wikidata.org/wiki/Q1078062",
+  "wikipedia": "https://en.wikipedia.org/wiki/Principality_of_Taranto",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q1113659",
+  "kind": "event",
+  "label": "Battle of Fulford",
+  "labelLang": "en",
+  "description": "battle fought on 20 September 1066 near York in England",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2504561498,
+  "wikidata": "https://www.wikidata.org/wiki/Q1113659",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Fulford",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q111953993",
+  "kind": "event",
+  "label": "Danish attacks on Norman England",
+  "labelLang": "en",
+  "description": "11th-century attacks",
+  "classes": [
+   "invasion"
+  ],
+  "revision": 2499744488,
+  "wikidata": "https://www.wikidata.org/wiki/Q111953993",
+  "wikipedia": "https://en.wikipedia.org/wiki/Danish_attacks_on_Norman_England",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q112243839",
+  "kind": "event",
+  "label": "Siege of Tarsus",
+  "labelLang": "en",
+  "description": "1097 battle of the First Crusade",
+  "classes": [
+   "siege"
+  ],
+  "revision": 2499732054,
+  "wikidata": "https://www.wikidata.org/wiki/Q112243839",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q11688167",
+  "kind": "event",
+  "label": "Battle of the Bridge Gate",
+  "labelLang": "en",
+  "description": "1098 battle",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2500220456,
+  "wikidata": "https://www.wikidata.org/wiki/Q11688167",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q117647",
+  "kind": "person",
+  "label": "Edward the Exile",
+  "labelLang": "en",
+  "description": "son of King Edmund Ironside and of Ealdgyth",
+  "classes": [
+   "human"
+  ],
+  "revision": 2543440589,
+  "wikidata": "https://www.wikidata.org/wiki/Q117647",
+  "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+  "lifespan": {
+   "birth": "1016",
+   "death": "1057"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q12097",
+  "kind": "office",
+  "label": "king",
+  "labelLang": "en",
+  "description": "title given to the name of a male monarch",
+  "classes": [
+   "noble title",
+   "position",
+   "profession",
+   "male occupation"
+  ],
+  "revision": 2549952065,
+  "wikidata": "https://www.wikidata.org/wiki/Q12097",
+  "wikipedia": "https://en.wikipedia.org/wiki/King",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q12428",
+  "kind": "event",
+  "label": "Battle of Dorylaeum",
+  "labelLang": "en",
+  "description": "1097 Part of the First Crusade",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2535745535,
+  "wikidata": "https://www.wikidata.org/wiki/Q12428",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Dorylaeum_(1097)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1249624",
+  "kind": "person",
+  "label": "Leofwine Godwinson",
+  "labelLang": "en",
+  "description": "younger brother of Harold II of England",
+  "classes": [
+   "human"
+  ],
+  "revision": 2406222328,
+  "wikidata": "https://www.wikidata.org/wiki/Q1249624",
+  "wikipedia": "https://en.wikipedia.org/wiki/Leofwine_Godwinson",
+  "lifespan": {
+   "birth": "1035",
+   "death": "1066"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1249857",
+  "kind": "person",
+  "label": "Gyrth Godwinson",
+  "labelLang": "en",
+  "description": "11th-century English earl",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549795411,
+  "wikidata": "https://www.wikidata.org/wiki/Q1249857",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gyrth_Godwinson",
+  "lifespan": {
+   "birth": "1032",
+   "death": "1066"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q12546",
+  "kind": "event",
+  "label": "Crusades",
+  "labelLang": "en",
+  "description": "mass military expeditions and wars initiated by the Catholic Church in the High Middle Ages",
+  "classes": [
+   "series of wars",
+   "holy war"
+  ],
+  "revision": 2546716790,
+  "wikidata": "https://www.wikidata.org/wiki/Q12546",
+  "wikipedia": "https://en.wikipedia.org/wiki/Crusades",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q125692717",
+  "kind": "office",
+  "label": "Abbot of Saint Paul Outside the Walls",
+  "labelLang": "en",
+  "description": "",
+  "classes": [
+   "ecclesiastical occupation"
+  ],
+  "revision": 2461039683,
+  "wikidata": "https://www.wikidata.org/wiki/Q125692717",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q1261974",
+  "kind": "person",
+  "label": "Æthelstan Ætheling",
+  "labelLang": "en",
+  "description": "Anglo-Saxon royalty",
+  "classes": [
+   "human"
+  ],
+  "revision": 2480208891,
+  "wikidata": "https://www.wikidata.org/wiki/Q1261974",
+  "wikipedia": "https://en.wikipedia.org/wiki/Æthelstan_Ætheling",
+  "lifespan": {
+   "birth": "980s",
+   "death": "1014"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1294765",
+  "kind": "office",
+  "label": "Monarch of Norway",
+  "labelLang": "en",
+  "description": "head of state of Norway",
+  "classes": [
+   "hereditary position",
+   "noble title"
+  ],
+  "revision": 2538043037,
+  "wikidata": "https://www.wikidata.org/wiki/Q1294765",
+  "wikipedia": "https://en.wikipedia.org/wiki/Monarchy_of_Norway",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q130005",
+  "kind": "person",
+  "label": "Edward the Confessor",
+  "labelLang": "en",
+  "description": "Anglo-Saxon King of England from 1042 to 1066",
+  "classes": [
+   "human"
+  ],
+  "revision": 2537594554,
+  "wikidata": "https://www.wikidata.org/wiki/Q130005",
+  "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+  "lifespan": {
+   "death": "1066"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q131132",
+  "kind": "other",
+  "label": "Benedictines",
+  "labelLang": "en",
+  "description": "Catholic monastic order",
+  "classes": [
+   "monastic order",
+   "organization",
+   "Catholic order"
+  ],
+  "revision": 2549173233,
+  "wikidata": "https://www.wikidata.org/wiki/Q131132",
+  "wikipedia": "https://en.wikipedia.org/wiki/Benedictines",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q132531885",
+  "kind": "event",
+  "label": "Battle of Bleadon",
+  "labelLang": "en",
+  "description": "1068 battle during the Norman conquest of England",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2504563206,
+  "wikidata": "https://www.wikidata.org/wiki/Q132531885",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q133063",
+  "kind": "person",
+  "label": "Gregory VII",
+  "labelLang": "en",
+  "description": "Pope of the Catholic Church from 1073 to 1085",
+  "classes": [
+   "human"
+  ],
+  "revision": 2548496145,
+  "wikidata": "https://www.wikidata.org/wiki/Q133063",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope_Gregory_VII",
+  "lifespan": {
+   "birth": "12th century",
+   "death": "1085"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q133877646",
+  "kind": "event",
+  "label": "Ely Rebellion",
+  "labelLang": "en",
+  "description": "1069–1071 rebellion",
+  "classes": [
+   "rebellion"
+  ],
+  "revision": 2504556750,
+  "wikidata": "https://www.wikidata.org/wiki/Q133877646",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ely_Rebellion",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q134128",
+  "kind": "person",
+  "label": "Cnut the Great",
+  "labelLang": "en",
+  "description": "11th-century King of Denmark, Norway, and England",
+  "classes": [
+   "human"
+  ],
+  "revision": 2546847140,
+  "wikidata": "https://www.wikidata.org/wiki/Q134128",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cnut",
+  "lifespan": {
+   "birth": "994",
+   "death": "1035"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q13563381",
+  "kind": "person",
+  "label": "Fressenda of Hauteville",
+  "labelLang": "en",
+  "description": "second wife of Tancred of Hauteville",
+  "classes": [
+   "human"
+  ],
+  "revision": 2506223715,
+  "wikidata": "https://www.wikidata.org/wiki/Q13563381",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fressenda",
+  "lifespan": {},
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q137104913",
+  "kind": "event",
+  "label": "Massacre of Jerusalem",
+  "labelLang": "en",
+  "description": "slaughter of Muslims and Palestinian Jews by Christian Crusaders",
+  "classes": [
+   "massacre"
+  ],
+  "revision": 2529113280,
+  "wikidata": "https://www.wikidata.org/wiki/Q137104913",
+  "wikipedia": "https://en.wikipedia.org/wiki/Massacre_of_Jerusalem_(1099)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1406700",
+  "kind": "person",
+  "label": "Sweyn Godwinson",
+  "labelLang": "en",
+  "description": "Anglo-Saxon Earl",
+  "classes": [
+   "human"
+  ],
+  "revision": 2498695558,
+  "wikidata": "https://www.wikidata.org/wiki/Q1406700",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sweyn_Godwinson",
+  "lifespan": {
+   "birth": "1020",
+   "death": "1052"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1422925",
+  "kind": "event",
+  "label": "Battle of Val-ès-Dunes",
+  "labelLang": "en",
+  "description": "1047 battle",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2534908629,
+  "wikidata": "https://www.wikidata.org/wiki/Q1422925",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Val-ès-Dunes",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1529391",
+  "kind": "institution",
+  "label": "Order of Cluny",
+  "labelLang": "en",
+  "description": "order of benedictine monks (changes within medieval monasticism)",
+  "classes": [
+   "religious congregation",
+   "religious order",
+   "monastic order"
+  ],
+  "revision": 2549172341,
+  "wikidata": "https://www.wikidata.org/wiki/Q1529391",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cluniac_Order",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q153023",
+  "kind": "person",
+  "label": "Henry III",
+  "labelLang": "en",
+  "description": "Holy Roman Emperor",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521354236,
+  "wikidata": "https://www.wikidata.org/wiki/Q153023",
+  "wikipedia": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
+  "lifespan": {
+   "birth": "1016",
+   "death": "1056"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q154764",
+  "kind": "event",
+  "label": "Investiture controversy",
+  "labelLang": "en",
+  "description": "conflict between church and state in medieval Europe over the ability to appoint local church officials",
+  "classes": [
+   "dispute",
+   "strife"
+  ],
+  "revision": 2529668749,
+  "wikidata": "https://www.wikidata.org/wiki/Q154764",
+  "wikipedia": "https://en.wikipedia.org/wiki/Investiture_Controversy",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q157070",
+  "kind": "polity",
+  "label": "County of Flanders",
+  "labelLang": "en",
+  "description": "county and historic territory in the Low Countries",
+  "classes": [
+   "countship",
+   "historical country"
+  ],
+  "revision": 2539463583,
+  "wikidata": "https://www.wikidata.org/wiki/Q157070",
+  "wikipedia": "https://en.wikipedia.org/wiki/County_of_Flanders",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q159597",
+  "kind": "person",
+  "label": "Harold Godwinson",
+  "labelLang": "en",
+  "description": "Anglo-Saxon King of England in 1066",
+  "classes": [
+   "human"
+  ],
+  "revision": 2533282643,
+  "wikidata": "https://www.wikidata.org/wiki/Q159597",
+  "wikipedia": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+  "lifespan": {
+   "birth": "1022",
+   "death": "1066"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q160307",
+  "kind": "polity",
+  "label": "Fatimid Caliphate",
+  "labelLang": "en",
+  "description": "Egyptian Shia Islamic caliphate (909–1171)",
+  "classes": [
+   "caliphate",
+   "transcontinental country",
+   "historical country",
+   "Islamic state"
+  ],
+  "revision": 2547914894,
+  "wikidata": "https://www.wikidata.org/wiki/Q160307",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fatimid_Caliphate",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q16531530",
+  "kind": "event",
+  "label": "Battle of Volta Mantovana",
+  "labelLang": "en",
+  "description": "1080 battle of the Investiture Controversy",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2504679045,
+  "wikidata": "https://www.wikidata.org/wiki/Q16531530",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Volta_Mantovana_(1080)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q16654634",
+  "kind": "work",
+  "label": "Lectionnaire de Cluny - BNF NAL2246",
+  "labelLang": "en",
+  "description": "",
+  "classes": [
+   "illuminated manuscript"
+  ],
+  "revision": 2213602248,
+  "wikidata": "https://www.wikidata.org/wiki/Q16654634",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1703402",
+  "kind": "event",
+  "label": "Harrying of the North",
+  "labelLang": "en",
+  "description": "series of campaigns waged by William the Conqueror in the winter of 1069–70",
+  "classes": [
+   "military campaign",
+   "massacre"
+  ],
+  "revision": 2535804921,
+  "wikidata": "https://www.wikidata.org/wiki/Q1703402",
+  "wikipedia": "https://en.wikipedia.org/wiki/Harrying_of_the_North",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q1704268",
+  "kind": "event",
+  "label": "Battle of Assandun",
+  "labelLang": "en",
+  "description": "battle fought in Essex in 1016",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2516215474,
+  "wikidata": "https://www.wikidata.org/wiki/Q1704268",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Assandun",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q171112",
+  "kind": "person",
+  "label": "Alexander II",
+  "labelLang": "en",
+  "description": "Head of the Catholic Church from 1061 to 1073",
+  "classes": [
+   "human"
+  ],
+  "revision": 2544620224,
+  "wikidata": "https://www.wikidata.org/wiki/Q171112",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope_Alexander_II",
+  "lifespan": {
+   "birth": "1010s",
+   "death": "1073"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q174306",
+  "kind": "polity",
+  "label": "Republic of Genoa",
+  "labelLang": "en",
+  "description": "medieval and early modern maritime republic from (1005-1797)",
+  "classes": [
+   "oligarchy",
+   "historical country",
+   "sovereign state",
+   "maritime republics"
+  ],
+  "revision": 2548151251,
+  "wikidata": "https://www.wikidata.org/wiki/Q174306",
+  "wikipedia": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q174452",
+  "kind": "person",
+  "label": "Alberada of Buonalbergo",
+  "labelLang": "en",
+  "description": "Medieval Italian woman",
+  "classes": [
+   "human"
+  ],
+  "revision": 2520624042,
+  "wikidata": "https://www.wikidata.org/wiki/Q174452",
+  "wikipedia": "https://en.wikipedia.org/wiki/Alberada_of_Buonalbergo",
+  "lifespan": {
+   "birth": "1033",
+   "death": "1122"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1747051",
+  "kind": "person",
+  "label": "Guy of Hauteville",
+  "labelLang": "en",
+  "description": "Italo-Norman duke of Amalfi",
+  "classes": [
+   "human"
+  ],
+  "revision": 2520624180,
+  "wikidata": "https://www.wikidata.org/wiki/Q1747051",
+  "wikipedia": "https://en.wikipedia.org/wiki/Guy_of_Hauteville",
+  "lifespan": {
+   "birth": "1060s",
+   "death": "1108"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q1754399",
+  "kind": "institution",
+  "label": "Abbey of Sainte-Trinité",
+  "labelLang": "en",
+  "description": "abbey located in Calvados, in France",
+  "classes": [
+   "abbey",
+   "hôtel de la région"
+  ],
+  "revision": 2522276333,
+  "wikidata": "https://www.wikidata.org/wiki/Q1754399",
+  "wikipedia": "https://en.wikipedia.org/wiki/Abbey_of_Sainte-Trinité,_Caen",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q179876",
+  "kind": "polity",
+  "label": "Kingdom of England",
+  "labelLang": "en",
+  "description": "historic kingdom on the British Isles (927–1649; 1660–1707)",
+  "classes": [
+   "sovereign state",
+   "historical country",
+   "sovereign state"
+  ],
+  "revision": 2550452136,
+  "wikidata": "https://www.wikidata.org/wiki/Q179876",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_England",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q181765",
+  "kind": "office",
+  "label": "Holy Roman Emperor",
+  "labelLang": "en",
+  "description": "emperor of the Holy Roman Empire",
+  "classes": [
+   "historical position",
+   "noble title",
+   "head of state",
+   "elective office"
+  ],
+  "revision": 2550154346,
+  "wikidata": "https://www.wikidata.org/wiki/Q181765",
+  "wikipedia": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q181896",
+  "kind": "person",
+  "label": "Sweyn I of Denmark",
+  "labelLang": "en",
+  "description": "King of Denmark, England, and Norway",
+  "classes": [
+   "human"
+  ],
+  "revision": 2537583129,
+  "wikidata": "https://www.wikidata.org/wiki/Q181896",
+  "wikipedia": "https://en.wikipedia.org/wiki/Swein_Forkbeard",
+  "lifespan": {
+   "birth": "963",
+   "death": "1014"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q18341329",
+  "kind": "office",
+  "label": "Monarch of Denmark",
+  "labelLang": "en",
+  "description": "monarchical head of state of the Kingdom of Denmark",
+  "classes": [
+   "noble title",
+   "hereditary position"
+  ],
+  "revision": 2548728855,
+  "wikidata": "https://www.wikidata.org/wiki/Q18341329",
+  "wikipedia": "https://en.wikipedia.org/wiki/Monarch_of_Denmark",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q183499",
+  "kind": "person",
+  "label": "Æthelred the Unready",
+  "labelLang": "en",
+  "description": "King of England",
+  "classes": [
+   "human"
+  ],
+  "revision": 2537582865,
+  "wikidata": "https://www.wikidata.org/wiki/Q183499",
+  "wikipedia": "https://en.wikipedia.org/wiki/Æthelred_the_Unready",
+  "lifespan": {
+   "birth": "968",
+   "death": "1016"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q18810062",
+  "kind": "office",
+  "label": "Monarch of England",
+  "labelLang": "en",
+  "description": "monarch of the Kingdom of England",
+  "classes": [
+   "historical position",
+   "noble title"
+  ],
+  "revision": 2548733713,
+  "wikidata": "https://www.wikidata.org/wiki/Q18810062",
+  "wikipedia": "https://en.wikipedia.org/wiki/Monarch_of_England",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q188627",
+  "kind": "person",
+  "label": "Harold Harefoot",
+  "labelLang": "en",
+  "description": "King of England from 1035 to 1040",
+  "classes": [
+   "human"
+  ],
+  "revision": 2537583344,
+  "wikidata": "https://www.wikidata.org/wiki/Q188627",
+  "wikipedia": "https://en.wikipedia.org/wiki/Harold_Harefoot",
+  "lifespan": {
+   "birth": "1016",
+   "death": "1040"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q188684",
+  "kind": "person",
+  "label": "Edmund II of England",
+  "labelLang": "en",
+  "description": "King of the English, Wessex dynasty",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549944774,
+  "wikidata": "https://www.wikidata.org/wiki/Q188684",
+  "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+  "lifespan": {
+   "birth": "988",
+   "death": "1016"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q190091",
+  "kind": "person",
+  "label": "Harthacanute",
+  "labelLang": "en",
+  "description": "King of England from 1040 to 1042, King of Denmark from 1035 à 1042",
+  "classes": [
+   "human"
+  ],
+  "revision": 2545940404,
+  "wikidata": "https://www.wikidata.org/wiki/Q190091",
+  "wikipedia": "https://en.wikipedia.org/wiki/Harthacnut",
+  "lifespan": {
+   "birth": "1018",
+   "death": "1042"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q1917014",
+  "kind": "polity",
+  "label": "County of Sicily",
+  "labelLang": "en",
+  "description": "Norman state comprising the islands of Sicily and Malta and part of Calabria from 1071 until 1130",
+  "classes": [
+   "countship",
+   "historical country"
+  ],
+  "revision": 2502887483,
+  "wikidata": "https://www.wikidata.org/wiki/Q1917014",
+  "wikipedia": "https://en.wikipedia.org/wiki/County_of_Sicily",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q192920",
+  "kind": "person",
+  "label": "Edward the Martyr",
+  "labelLang": "en",
+  "description": "King of the English (975-978)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549944796,
+  "wikidata": "https://www.wikidata.org/wiki/Q192920",
+  "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Martyr",
+  "lifespan": {
+   "birth": "963",
+   "death": "978"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q192925",
+  "kind": "person",
+  "label": "Edgar of England",
+  "labelLang": "en",
+  "description": "King of the English (r. 959–975)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549826791,
+  "wikidata": "https://www.wikidata.org/wiki/Q192925",
+  "wikipedia": "https://en.wikipedia.org/wiki/Edgar,_King_of_England",
+  "lifespan": {
+   "birth": "943",
+   "death": "975"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q19546",
+  "kind": "other",
+  "label": "Pope",
+  "labelLang": "en",
+  "description": "bishop of Rome and head of the Roman Catholic church",
+  "classes": [
+   "Roman Catholic episcopal title"
+  ],
+  "revision": 2549844895,
+  "wikidata": "https://www.wikidata.org/wiki/Q19546",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q19867",
+  "kind": "work",
+  "label": "Domesday Book",
+  "labelLang": "en",
+  "description": "manuscript record of the \"Great Survey\" of much of England and parts of Wales completed in 1086",
+  "classes": [
+   "manuscript",
+   "land register",
+   "cadastre"
+  ],
+  "revision": 2548642597,
+  "wikidata": "https://www.wikidata.org/wiki/Q19867",
+  "wikipedia": "https://en.wikipedia.org/wiki/Domesday_Book",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q200485",
+  "kind": "event",
+  "label": "Norman conquest of England",
+  "labelLang": "en",
+  "description": "1066 invasion and conquest of England by Normans",
+  "classes": [
+   "conquest"
+  ],
+  "revision": 2545515270,
+  "wikidata": "https://www.wikidata.org/wiki/Q200485",
+  "wikipedia": "https://en.wikipedia.org/wiki/Norman_Conquest",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q203225",
+  "kind": "event",
+  "label": "Battle of Stamford Bridge",
+  "labelLang": "en",
+  "description": "1066 battle in the East Riding of Yorkshire, England, UK",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2506063520,
+  "wikidata": "https://www.wikidata.org/wiki/Q203225",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q203647",
+  "kind": "person",
+  "label": "Harald III of Norway",
+  "labelLang": "en",
+  "description": "King of Norway from 1046 to 1066",
+  "classes": [
+   "human"
+  ],
+  "revision": 2548015768,
+  "wikidata": "https://www.wikidata.org/wiki/Q203647",
+  "wikipedia": "https://en.wikipedia.org/wiki/Harald_Hardrada",
+  "lifespan": {
+   "birth": "1015",
+   "death": "1066"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q203792",
+  "kind": "person",
+  "label": "Robert Guiscard",
+  "labelLang": "en",
+  "description": "Duke of Apulia and Calabria",
+  "classes": [
+   "human"
+  ],
+  "revision": 2526918254,
+  "wikidata": "https://www.wikidata.org/wiki/Q203792",
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_Guiscard",
+  "lifespan": {
+   "birth": "1016",
+   "death": "1085"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q208331",
+  "kind": "person",
+  "label": "Olaf II of Norway",
+  "labelLang": "en",
+  "description": "King of Norway from 1015 to 1028",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549989749,
+  "wikidata": "https://www.wikidata.org/wiki/Q208331",
+  "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Haraldsson",
+  "lifespan": {
+   "birth": "995",
+   "death": "1030"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2120325",
+  "kind": "person",
+  "label": "Cecilia of Normandy",
+  "labelLang": "en",
+  "description": "Abbess of Holy Trinity",
+  "classes": [
+   "human"
+  ],
+  "revision": 2489177287,
+  "wikidata": "https://www.wikidata.org/wiki/Q2120325",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy",
+  "lifespan": {
+   "birth": "1056",
+   "death": "1126"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q215224",
+  "kind": "person",
+  "label": "Edgar Ætheling",
+  "labelLang": "en",
+  "description": "disputed King of England",
+  "classes": [
+   "human"
+  ],
+  "revision": 2532868665,
+  "wikidata": "https://www.wikidata.org/wiki/Q215224",
+  "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Ætheling",
+  "lifespan": {
+   "birth": "1050s",
+   "death": "1125"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q2196956",
+  "kind": "polity",
+  "label": "Kingdom of Norway",
+  "labelLang": "en",
+  "description": "former Kingdom from 872 to 1397",
+  "classes": [
+   "historical country",
+   "empire",
+   "monarchy"
+  ],
+  "revision": 2546625119,
+  "wikidata": "https://www.wikidata.org/wiki/Q2196956",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Norway_(872–1397)",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q220301",
+  "kind": "institution",
+  "label": "Cluny Abbey",
+  "labelLang": "en",
+  "description": "abbey located in Saône-et-Loire, in France",
+  "classes": [
+   "abbey",
+   "benedictine abbey",
+   "religious community",
+   "hospital"
+  ],
+  "revision": 2522328149,
+  "wikidata": "https://www.wikidata.org/wiki/Q220301",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cluny_Abbey",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q220806",
+  "kind": "person",
+  "label": "Bohemond I of Antioch",
+  "labelLang": "en",
+  "description": "Prince of Taranto and Prince of Antioch",
+  "classes": [
+   "human"
+  ],
+  "revision": 2533703825,
+  "wikidata": "https://www.wikidata.org/wiki/Q220806",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch",
+  "lifespan": {
+   "birth": "1054",
+   "death": "1111"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q220994",
+  "kind": "person",
+  "label": "Robert Curthose",
+  "labelLang": "en",
+  "description": "Duke of Normandy",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521368790,
+  "wikidata": "https://www.wikidata.org/wiki/Q220994",
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_Curthose",
+  "lifespan": {
+   "birth": "1054",
+   "death": "1134"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2223590",
+  "kind": "institution",
+  "label": "Santissimo Salvatore, Palermo",
+  "labelLang": "en",
+  "description": "church building in Palermo, Italy",
+  "classes": [
+   "church building"
+  ],
+  "revision": 2457450954,
+  "wikidata": "https://www.wikidata.org/wiki/Q2223590",
+  "wikipedia": "https://en.wikipedia.org/wiki/Santissimo_Salvatore,_Palermo",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2259892",
+  "kind": "event",
+  "label": "Sack of Rome",
+  "labelLang": "en",
+  "description": "1084 by the Normans under Robert Guiscard",
+  "classes": [
+   "battle",
+   "sack"
+  ],
+  "revision": 2444524258,
+  "wikidata": "https://www.wikidata.org/wiki/Q2259892",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sack_of_Rome_(1084)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q2284422",
+  "kind": "person",
+  "label": "Elisiv of Kiev",
+  "labelLang": "en",
+  "description": "Norwegian royal consort",
+  "classes": [
+   "human"
+  ],
+  "revision": 2548860362,
+  "wikidata": "https://www.wikidata.org/wiki/Q2284422",
+  "wikipedia": "https://en.wikipedia.org/wiki/Elisiv_of_Kiev",
+  "lifespan": {
+   "birth": "1025",
+   "death": "1066"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q23011565",
+  "kind": "office",
+  "label": "Duke of Bavaria",
+  "labelLang": "en",
+  "description": "",
+  "classes": [
+   "hereditary title",
+   "position"
+  ],
+  "revision": 2548729142,
+  "wikidata": "https://www.wikidata.org/wiki/Q23011565",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q2361374",
+  "kind": "office",
+  "label": "cardinal-deacon",
+  "labelLang": "en",
+  "description": "the lowest of the three classes of catholic cardinals",
+  "classes": [
+   "position",
+   "Order of Cardinals"
+  ],
+  "revision": 2432147113,
+  "wikidata": "https://www.wikidata.org/wiki/Q2361374",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q237709",
+  "kind": "person",
+  "label": "Bertha of Savoy",
+  "labelLang": "en",
+  "description": "Holy Roman Empress from 1084 to 1087",
+  "classes": [
+   "human"
+  ],
+  "revision": 2536155833,
+  "wikidata": "https://www.wikidata.org/wiki/Q237709",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bertha_of_Savoy",
+  "lifespan": {
+   "birth": "1051",
+   "death": "1087"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q237886",
+  "kind": "person",
+  "label": "Adela of Normandy",
+  "labelLang": "en",
+  "description": "Countess of Blois from 1089 to 1102",
+  "classes": [
+   "human"
+  ],
+  "revision": 2547794421,
+  "wikidata": "https://www.wikidata.org/wiki/Q237886",
+  "wikipedia": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+  "lifespan": {
+   "birth": "1067",
+   "death": "1137"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2415527",
+  "kind": "person",
+  "label": "Adelaide of Normandy",
+  "labelLang": "en",
+  "description": "Countess of Aumale from 1069 to 1090",
+  "classes": [
+   "human"
+  ],
+  "revision": 2520119070,
+  "wikidata": "https://www.wikidata.org/wiki/Q2415527",
+  "wikipedia": "https://en.wikipedia.org/wiki/Adelaide_of_Normandy",
+  "lifespan": {
+   "birth": "1026",
+   "death": "1090"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q24907444",
+  "kind": "event",
+  "label": "Easter Council",
+  "labelLang": "en",
+  "description": "Catholic council held at Rome on Easter, 1099, opposing lay investiture and the paying of homage by bishops",
+  "classes": [
+   "church council"
+  ],
+  "revision": 2538340330,
+  "wikidata": "https://www.wikidata.org/wiki/Q24907444",
+  "wikipedia": "https://en.wikipedia.org/wiki/Council_of_Rome_(1099)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2503775",
+  "kind": "event",
+  "label": "Siege of Ma'arra",
+  "labelLang": "en",
+  "description": "1098 battle of the First Crusade",
+  "classes": [
+   "siege"
+  ],
+  "revision": 2535744404,
+  "wikidata": "https://www.wikidata.org/wiki/Q2503775",
+  "wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Ma'arra",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q254545",
+  "kind": "person",
+  "label": "Gunhilda of Denmark",
+  "labelLang": "en",
+  "description": "11th century Queen of Germany",
+  "classes": [
+   "human"
+  ],
+  "revision": 2545918868,
+  "wikidata": "https://www.wikidata.org/wiki/Q254545",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gunhilda_of_Denmark",
+  "lifespan": {
+   "birth": "1020",
+   "death": "1038"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q259564",
+  "kind": "person",
+  "label": "Edith of Wessex",
+  "labelLang": "en",
+  "description": "11th-century Queen of England",
+  "classes": [
+   "human"
+  ],
+  "revision": 2548461185,
+  "wikidata": "https://www.wikidata.org/wiki/Q259564",
+  "wikipedia": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+  "lifespan": {
+   "death": "1075"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q262192",
+  "kind": "person",
+  "label": "Agnes of Poitou",
+  "labelLang": "en",
+  "description": "Holy Roman Empress",
+  "classes": [
+   "human"
+  ],
+  "revision": 2541314941,
+  "wikidata": "https://www.wikidata.org/wiki/Q262192",
+  "wikipedia": "https://en.wikipedia.org/wiki/Agnes_of_Poitou",
+  "lifespan": {
+   "birth": "1025",
+   "death": "1077"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2634369",
+  "kind": "person",
+  "label": "Gytha Thorkelsdóttir",
+  "labelLang": "en",
+  "description": "daughter of Thorgil Sprakling; wife of Godwin of Wessex",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549797732,
+  "wikidata": "https://www.wikidata.org/wiki/Q2634369",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gytha_Thorkelsdóttir",
+  "lifespan": {
+   "birth": "1010",
+   "death": "1042"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q26731",
+  "kind": "person",
+  "label": "Tancred of Hauteville",
+  "labelLang": "en",
+  "description": "Norman petty lord",
+  "classes": [
+   "human"
+  ],
+  "revision": 2351653392,
+  "wikidata": "https://www.wikidata.org/wiki/Q26731",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tancred_of_Hauteville",
+  "lifespan": {
+   "birth": "980",
+   "death": "1041"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q270777",
+  "kind": "person",
+  "label": "Gunnora",
+  "labelLang": "en",
+  "description": "wife of Richard I of Normandy",
+  "classes": [
+   "human"
+  ],
+  "revision": 2545337967,
+  "wikidata": "https://www.wikidata.org/wiki/Q270777",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gunnor",
+  "lifespan": {
+   "birth": "950",
+   "death": "1031"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2712298",
+  "kind": "event",
+  "label": "Battle of Ostrovo",
+  "labelLang": "en",
+  "description": "1041 battle",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2503978787,
+  "wikidata": "https://www.wikidata.org/wiki/Q2712298",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Ostrovo",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q273181",
+  "kind": "person",
+  "label": "Judith of Flanders, Countess of Northumbria",
+  "labelLang": "en",
+  "description": "Wife of Tostig Godwinson, Earl of Northumbria, and of Welf I, Duke of Bavaria",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549036170,
+  "wikidata": "https://www.wikidata.org/wiki/Q273181",
+  "wikipedia": "https://en.wikipedia.org/wiki/Judith_of_Flanders_(died_1095)",
+  "lifespan": {
+   "birth": "1033",
+   "death": "1094"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2826477",
+  "kind": "person",
+  "label": "Agatha, wife of Edward the Exile",
+  "labelLang": "en",
+  "description": "Wife of Edward the Exile",
+  "classes": [
+   "human"
+  ],
+  "revision": 2522430523,
+  "wikidata": "https://www.wikidata.org/wiki/Q2826477",
+  "wikipedia": "https://en.wikipedia.org/wiki/Agatha_(wife_of_Edward_the_Exile)",
+  "lifespan": {
+   "birth": "12th century",
+   "death": "12th century"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2887133",
+  "kind": "person",
+  "label": "Gunhild of Wenden",
+  "labelLang": "en",
+  "description": "Polish princess, daughter of Mieszko I of Poland",
+  "classes": [
+   "human"
+  ],
+  "revision": 2550432005,
+  "wikidata": "https://www.wikidata.org/wiki/Q2887133",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gunhild_of_Wenden",
+  "lifespan": {
+   "birth": "11th century",
+   "death": "1010s"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2970215",
+  "kind": "institution",
+  "label": "Pevensey Castle",
+  "labelLang": "en",
+  "description": "medieval castle in a former Roman fort at Pevensey in East Sussex, England, UK",
+  "classes": [
+   "castle",
+   "archaeological site"
+  ],
+  "revision": 2512134296,
+  "wikidata": "https://www.wikidata.org/wiki/Q2970215",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pevensey_Castle",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q2994836",
+  "kind": "person",
+  "label": "Constance of Normandy",
+  "labelLang": "en",
+  "description": "Duchess of Brittany as wife of Alan IV, Duke of Brittany",
+  "classes": [
+   "human"
+  ],
+  "revision": 2498829858,
+  "wikidata": "https://www.wikidata.org/wiki/Q2994836",
+  "wikipedia": "https://en.wikipedia.org/wiki/Constance_of_Normandy",
+  "lifespan": {
+   "death": "1090"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3002743",
+  "kind": "event",
+  "label": "English succession crisis of 1066",
+  "labelLang": "en",
+  "description": "",
+  "classes": [
+   "succession controversy"
+  ],
+  "revision": 2407573263,
+  "wikidata": "https://www.wikidata.org/wiki/Q3002743",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3046321",
+  "kind": "person",
+  "label": "Eadwig Ætheling",
+  "labelLang": "en",
+  "description": "Anglo-Saxon royalty",
+  "classes": [
+   "human"
+  ],
+  "revision": 2436449150,
+  "wikidata": "https://www.wikidata.org/wiki/Q3046321",
+  "wikipedia": "https://en.wikipedia.org/wiki/Eadwig_Ætheling",
+  "lifespan": {
+   "death": "1017"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q30578",
+  "kind": "person",
+  "label": "Urban II",
+  "labelLang": "en",
+  "description": "11th century pope and initiator of the Crusades",
+  "classes": [
+   "human"
+  ],
+  "revision": 2546716979,
+  "wikidata": "https://www.wikidata.org/wiki/Q30578",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope_Urban_II",
+  "lifespan": {
+   "birth": "1035",
+   "death": "1099"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q3109791",
+  "kind": "person",
+  "label": "Goda of England",
+  "labelLang": "en",
+  "description": "English princess",
+  "classes": [
+   "human"
+  ],
+  "revision": 2526906149,
+  "wikidata": "https://www.wikidata.org/wiki/Q3109791",
+  "wikipedia": "https://en.wikipedia.org/wiki/Godgifu_(daughter_of_Æthelred_the_Unready)",
+  "lifespan": {
+   "birth": "1002",
+   "death": "1047"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q311011",
+  "kind": "person",
+  "label": "Harald II of Denmark",
+  "labelLang": "en",
+  "description": "King of Denmark",
+  "classes": [
+   "human"
+  ],
+  "revision": 2538310599,
+  "wikidata": "https://www.wikidata.org/wiki/Q311011",
+  "wikipedia": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark",
+  "lifespan": {
+   "birth": "994",
+   "death": "1018"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q312613",
+  "kind": "person",
+  "label": "Richard II",
+  "labelLang": "en",
+  "description": "Duke of Normandy from 996 until 1026",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521060617,
+  "wikidata": "https://www.wikidata.org/wiki/Q312613",
+  "wikipedia": "https://en.wikipedia.org/wiki/Richard_II_of_Normandy",
+  "lifespan": {
+   "birth": "963",
+   "death": "1026"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q316042",
+  "kind": "person",
+  "label": "Olaf III of Norway",
+  "labelLang": "en",
+  "description": "King of Norway",
+  "classes": [
+   "human"
+  ],
+  "revision": 2547420898,
+  "wikidata": "https://www.wikidata.org/wiki/Q316042",
+  "wikipedia": "https://en.wikipedia.org/wiki/Olaf_III_of_Norway",
+  "lifespan": {
+   "birth": "1050",
+   "death": "1093"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q318142",
+  "kind": "person",
+  "label": "Godwin, Earl of Wessex",
+  "labelLang": "en",
+  "description": "Anglo-Saxon nobleman; son of Wulfnoth Cild",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521369323,
+  "wikidata": "https://www.wikidata.org/wiki/Q318142",
+  "wikipedia": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+  "lifespan": {
+   "death": "1053"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q321741",
+  "kind": "person",
+  "label": "Wulfnoth Godwinson",
+  "labelLang": "en",
+  "description": "Anglo-Saxon noble",
+  "classes": [
+   "human"
+  ],
+  "revision": 2503153129,
+  "wikidata": "https://www.wikidata.org/wiki/Q321741",
+  "wikipedia": "https://en.wikipedia.org/wiki/Wulfnoth_Godwinson",
+  "lifespan": {
+   "birth": "1040",
+   "death": "1094"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q325656",
+  "kind": "event",
+  "label": "Road to Canossa",
+  "labelLang": "en",
+  "description": "1076 ritual submission of Emperor Henry IV",
+  "classes": [
+   "redewendung",
+   "Italienzug"
+  ],
+  "revision": 2487287344,
+  "wikidata": "https://www.wikidata.org/wiki/Q325656",
+  "wikipedia": "https://en.wikipedia.org/wiki/Road_to_Canossa",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q333359",
+  "kind": "person",
+  "label": "Richard I of Normandy",
+  "labelLang": "en",
+  "description": "10th-century duke of Normandy",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521369688,
+  "wikidata": "https://www.wikidata.org/wiki/Q333359",
+  "wikipedia": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+  "lifespan": {
+   "birth": "933",
+   "death": "996"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q333384",
+  "kind": "person",
+  "label": "Baldwin V, Count of Flanders",
+  "labelLang": "en",
+  "description": "Count of Flanders (1012-1067)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2550084360,
+  "wikidata": "https://www.wikidata.org/wiki/Q333384",
+  "wikipedia": "https://en.wikipedia.org/wiki/Baldwin_V_of_Flanders",
+  "lifespan": {
+   "birth": "1012",
+   "death": "1067"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q335088",
+  "kind": "polity",
+  "label": "Armenian Kingdom of Cilicia",
+  "labelLang": "en",
+  "description": "Armenian Middle Ages state (1080–1375)",
+  "classes": [
+   "sovereign state",
+   "historical country"
+  ],
+  "revision": 2497153701,
+  "wikidata": "https://www.wikidata.org/wiki/Q335088",
+  "wikipedia": "https://en.wikipedia.org/wiki/Armenian_Kingdom_of_Cilicia",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q3353388",
+  "kind": "event",
+  "label": "Battle of Niså",
+  "labelLang": "en",
+  "description": "1062 battle",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2506068209,
+  "wikidata": "https://www.wikidata.org/wiki/Q3353388",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Niså",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3356544",
+  "kind": "person",
+  "label": "Tora Torbergsdatter",
+  "labelLang": "en",
+  "description": "11t-century Norwegian royal consort",
+  "classes": [
+   "human"
+  ],
+  "revision": 2451641467,
+  "wikidata": "https://www.wikidata.org/wiki/Q3356544",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tora_Torbergsdatter",
+  "lifespan": {
+   "birth": "1025"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q343088",
+  "kind": "person",
+  "label": "Magnus II of Norway",
+  "labelLang": "en",
+  "description": "King of Norway",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521357642,
+  "wikidata": "https://www.wikidata.org/wiki/Q343088",
+  "wikipedia": "https://en.wikipedia.org/wiki/Magnus_II_of_Norway",
+  "lifespan": {
+   "birth": "1048",
+   "death": "1069"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q345420",
+  "kind": "person",
+  "label": "Tostig Godwinson",
+  "labelLang": "en",
+  "description": "Anglo-Saxon Earl",
+  "classes": [
+   "human"
+  ],
+  "revision": 2541091889,
+  "wikidata": "https://www.wikidata.org/wiki/Q345420",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+  "lifespan": {
+   "birth": "1026",
+   "death": "1066"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q3498141",
+  "kind": "person",
+  "label": "Richard of Normandy",
+  "labelLang": "en",
+  "description": "second son of William the Conqueror, King of England, and Matilda of Flanders",
+  "classes": [
+   "human"
+  ],
+  "revision": 2528723742,
+  "wikidata": "https://www.wikidata.org/wiki/Q3498141",
+  "wikipedia": "https://en.wikipedia.org/wiki/Richard_(son_of_William_the_Conqueror)",
+  "lifespan": {
+   "birth": "1054",
+   "death": "1081"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q353829",
+  "kind": "person",
+  "label": "Adela of France",
+  "labelLang": "en",
+  "description": "Countess of Flanders (1009–1079)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2529822436,
+  "wikidata": "https://www.wikidata.org/wiki/Q353829",
+  "wikipedia": "https://en.wikipedia.org/wiki/Adela_of_France",
+  "lifespan": {
+   "birth": "1009",
+   "death": "1079"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q35618",
+  "kind": "person",
+  "label": "Alfred Aetheling",
+  "labelLang": "en",
+  "description": "Son of English king Æthelred II and his second wife Emma of Normandy; brother of Edward the Confessor",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521351996,
+  "wikidata": "https://www.wikidata.org/wiki/Q35618",
+  "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Ætheling",
+  "lifespan": {
+   "birth": "1012",
+   "death": "1037"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3580558",
+  "kind": "institution",
+  "label": "Church of Notre-Dame de Dives-sur-Merent",
+  "labelLang": "en",
+  "description": "church located in Calvados, in France",
+  "classes": [
+   "church building"
+  ],
+  "revision": 2531974206,
+  "wikidata": "https://www.wikidata.org/wiki/Q3580558",
+  "wikipedia": "https://en.wikipedia.org/wiki/Church_of_Notre-Dame_de_Dives-sur-Merent",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3636344",
+  "kind": "event",
+  "label": "Battle of Bianello",
+  "labelLang": "en",
+  "description": "1092 battle",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2501046793,
+  "wikidata": "https://www.wikidata.org/wiki/Q3636344",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3636537",
+  "kind": "event",
+  "label": "Battle of Montemaggiore",
+  "labelLang": "en",
+  "description": "battle in 1041 in Italy",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2413125468,
+  "wikidata": "https://www.wikidata.org/wiki/Q3636537",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Montemaggiore",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3636556",
+  "kind": "event",
+  "label": "Battle of Olivento",
+  "labelLang": "en",
+  "description": "battle in Italy in 1041",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2450295537,
+  "wikidata": "https://www.wikidata.org/wiki/Q3636556",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Olivento",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3636624",
+  "kind": "event",
+  "label": "Battle of Sorbara",
+  "labelLang": "en",
+  "description": "1084 battle",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2251599760,
+  "wikidata": "https://www.wikidata.org/wiki/Q3636624",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3656607",
+  "kind": "event",
+  "label": "Siege of Xerigordon",
+  "labelLang": "en",
+  "description": "1096 battle in the People's (First) Crusade",
+  "classes": [
+   "siege"
+  ],
+  "revision": 2543920865,
+  "wikidata": "https://www.wikidata.org/wiki/Q3656607",
+  "wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Xerigordos",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3668696",
+  "kind": "institution",
+  "label": "Q3668696",
+  "labelLang": "",
+  "description": "church building in Foggia, Italy",
+  "classes": [
+   "church building"
+  ],
+  "revision": 2079548808,
+  "wikidata": "https://www.wikidata.org/wiki/Q3668696",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q36731",
+  "kind": "person",
+  "label": "Svein Knutsson",
+  "labelLang": "en",
+  "description": "Son of Cnut the Great, ruled as King of Norway",
+  "classes": [
+   "human"
+  ],
+  "revision": 2538088464,
+  "wikidata": "https://www.wikidata.org/wiki/Q36731",
+  "wikipedia": "https://en.wikipedia.org/wiki/Svein_Knutsson",
+  "lifespan": {
+   "birth": "1016",
+   "death": "1035"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q3708094",
+  "kind": "polity",
+  "label": "Seljuk Empire",
+  "labelLang": "en",
+  "description": "Turco-Persian Sunni Muslim empire (1037–1194)",
+  "classes": [
+   "historical country",
+   "empire"
+  ],
+  "revision": 2548151090,
+  "wikidata": "https://www.wikidata.org/wiki/Q3708094",
+  "wikipedia": "https://en.wikipedia.org/wiki/Seljuk_Empire",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q37594",
+  "kind": "person",
+  "label": "William the Conqueror",
+  "labelLang": "en",
+  "description": "King of England from 1066 to 1087, Duke of Normandy from 1035 to 1087 (1028–1087)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2545349693,
+  "wikidata": "https://www.wikidata.org/wiki/Q37594",
+  "wikipedia": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+  "lifespan": {
+   "birth": "1028",
+   "death": "1087"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q391944",
+  "kind": "person",
+  "label": "Matilda of Flanders",
+  "labelLang": "en",
+  "description": "wife of William the Conqueror and Queen consort of the Kingdom of England",
+  "classes": [
+   "human"
+  ],
+  "revision": 2550452297,
+  "wikidata": "https://www.wikidata.org/wiki/Q391944",
+  "wikipedia": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+  "lifespan": {
+   "birth": "1031",
+   "death": "1083"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q40037480",
+  "kind": "event",
+  "label": "Battle of Antioch",
+  "labelLang": "en",
+  "description": "1098 battle, part of the First Crusade",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2500956182,
+  "wikidata": "https://www.wikidata.org/wiki/Q40037480",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Antioch_(1098)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q40061",
+  "kind": "person",
+  "label": "Emma of Normandy",
+  "labelLang": "en",
+  "description": "Norman princess and mother of Edward the Confessor",
+  "classes": [
+   "human"
+  ],
+  "revision": 2516971461,
+  "wikidata": "https://www.wikidata.org/wiki/Q40061",
+  "wikipedia": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+  "lifespan": {
+   "birth": "987",
+   "death": "1052"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q41380",
+  "kind": "person",
+  "label": "Robert I, Duke of Normandy",
+  "labelLang": "en",
+  "description": "Robert \"The Magnificent\"",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521165773,
+  "wikidata": "https://www.wikidata.org/wiki/Q41380",
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_I_of_Normandy",
+  "lifespan": {
+   "birth": "1004",
+   "death": "1035"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q4148098",
+  "kind": "polity",
+  "label": "Norwegian Jarldom of Orkney",
+  "labelLang": "en",
+  "description": "official status of the Orkney Islands",
+  "classes": [
+   "historical country",
+   "countship",
+   "Q12319130"
+  ],
+  "revision": 2509324501,
+  "wikidata": "https://www.wikidata.org/wiki/Q4148098",
+  "wikipedia": "https://en.wikipedia.org/wiki/Earldom_of_Orkney",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q41600",
+  "kind": "person",
+  "label": "Alexios I Komnenos",
+  "labelLang": "en",
+  "description": "Byzantine emperor (1048–1118)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2550453843,
+  "wikidata": "https://www.wikidata.org/wiki/Q41600",
+  "wikipedia": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+  "lifespan": {
+   "birth": "1048",
+   "death": "1118"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q4364607",
+  "kind": "person",
+  "label": "Eadred Ætheling",
+  "labelLang": "en",
+  "description": "born 901",
+  "classes": [
+   "human"
+  ],
+  "revision": 2051289571,
+  "wikidata": "https://www.wikidata.org/wiki/Q4364607",
+  "wikipedia": "https://en.wikipedia.org/wiki/Eadred_Ætheling",
+  "lifespan": {
+   "birth": "11th century"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q452753",
+  "kind": "person",
+  "label": "William I, Duke of Aquitaine",
+  "labelLang": "en",
+  "description": "Duke of Aquitaine",
+  "classes": [
+   "human"
+  ],
+  "revision": 2521279329,
+  "wikidata": "https://www.wikidata.org/wiki/Q452753",
+  "wikipedia": "https://en.wikipedia.org/wiki/William_I_of_Aquitaine",
+  "lifespan": {
+   "birth": "875",
+   "death": "918"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q45465",
+  "kind": "person",
+  "label": "Adeliza",
+  "labelLang": "en",
+  "description": "Anglo-Norman princess (died before 1113)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2526909530,
+  "wikidata": "https://www.wikidata.org/wiki/Q45465",
+  "wikipedia": "https://en.wikipedia.org/wiki/Adeliza_of_Normandy",
+  "lifespan": {
+   "birth": "1055"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q456993",
+  "kind": "event",
+  "label": "Siege of Jerusalem",
+  "labelLang": "en",
+  "description": "1099 battle during which the Crusaders captured Jerusalem from the Fatimid Caliphate",
+  "classes": [
+   "battle",
+   "siege"
+  ],
+  "revision": 2548342151,
+  "wikidata": "https://www.wikidata.org/wiki/Q456993",
+  "wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q45722",
+  "kind": "office",
+  "label": "cardinal",
+  "labelLang": "en",
+  "description": "senior ecclesiastical official of the Catholic Church",
+  "classes": [
+   "title",
+   "position",
+   "Catholic vocation"
+  ],
+  "revision": 2536408167,
+  "wikidata": "https://www.wikidata.org/wiki/Q45722",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_(Catholic_Church)",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q460244",
+  "kind": "office",
+  "label": "Duke of Normandy",
+  "labelLang": "en",
+  "description": "title given to the rulers of the Duchy of Normandy",
+  "classes": [
+   "noble title",
+   "position"
+  ],
+  "revision": 2472232995,
+  "wikidata": "https://www.wikidata.org/wiki/Q460244",
+  "wikipedia": "https://en.wikipedia.org/wiki/Duke_of_Normandy",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q462856",
+  "kind": "person",
+  "label": "Ealdgyth",
+  "labelLang": "en",
+  "description": "daughter of Ælfgar, Earl of Mercia",
+  "classes": [
+   "human"
+  ],
+  "revision": 2505858075,
+  "wikidata": "https://www.wikidata.org/wiki/Q462856",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ealdgyth_of_Mercia",
+  "lifespan": {
+   "birth": "12th century",
+   "death": "12th century"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q464162",
+  "kind": "person",
+  "label": "Matilda of Tuscany",
+  "labelLang": "en",
+  "description": "Canossian dynasty countess of Tuscany (c.1046–1115)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2522270324,
+  "wikidata": "https://www.wikidata.org/wiki/Q464162",
+  "wikipedia": "https://en.wikipedia.org/wiki/Matilda_of_Tuscany",
+  "lifespan": {
+   "birth": "1040s",
+   "death": "1115"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q49961",
+  "kind": "person",
+  "label": "Odo, Earl of Kent",
+  "labelLang": "en",
+  "description": "Bishop of Conteville",
+  "classes": [
+   "human"
+  ],
+  "revision": 2545924024,
+  "wikidata": "https://www.wikidata.org/wiki/Q49961",
+  "wikipedia": "https://en.wikipedia.org/wiki/Odo_of_Bayeux",
+  "lifespan": {
+   "birth": "1030s",
+   "death": "1097"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q49964",
+  "kind": "event",
+  "label": "Council of Clermont",
+  "labelLang": "en",
+  "description": "mixed synod of ecclesiastics and laymen of the Catholic Church in 1095",
+  "classes": [
+   "synod"
+  ],
+  "revision": 2516833802,
+  "wikidata": "https://www.wikidata.org/wiki/Q49964",
+  "wikipedia": "https://en.wikipedia.org/wiki/Council_of_Clermont",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q499768",
+  "kind": "event",
+  "label": "Battle of Helgeå",
+  "labelLang": "en",
+  "description": "1026 middle ages battle",
+  "classes": [
+   "naval battle"
+  ],
+  "revision": 2516348299,
+  "wikidata": "https://www.wikidata.org/wiki/Q499768",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Helgeå",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q511482",
+  "kind": "dynasty",
+  "label": "House of Wessex",
+  "labelLang": "en",
+  "description": "family that initially ruled Wessex kingdom",
+  "classes": [
+   "dynasty",
+   "noble family"
+  ],
+  "revision": 2518300648,
+  "wikidata": "https://www.wikidata.org/wiki/Q511482",
+  "wikipedia": "https://en.wikipedia.org/wiki/House_of_Wessex",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q51648",
+  "kind": "event",
+  "label": "East-West Schism",
+  "labelLang": "en",
+  "description": "division of Christianity into two large parts in 1054",
+  "classes": [
+   "religious controversy",
+   "schism in Christianity"
+  ],
+  "revision": 2540514884,
+  "wikidata": "https://www.wikidata.org/wiki/Q51648",
+  "wikipedia": "https://en.wikipedia.org/wiki/East–West_Schism",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q51649",
+  "kind": "event",
+  "label": "First Crusade",
+  "labelLang": "en",
+  "description": "1096–1099 Christian conquest of the Holy Land",
+  "classes": [
+   "religious war"
+  ],
+  "revision": 2548324586,
+  "wikidata": "https://www.wikidata.org/wiki/Q51649",
+  "wikipedia": "https://en.wikipedia.org/wiki/First_Crusade",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q51651",
+  "kind": "event",
+  "label": "Rhineland massacres",
+  "labelLang": "en",
+  "description": "antisemitic massacres across the Holy Roman Empire in 1096 AD",
+  "classes": [
+   "massacre",
+   "pogrom"
+  ],
+  "revision": 2548845870,
+  "wikidata": "https://www.wikidata.org/wiki/Q51651",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rhineland_massacres",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q540099",
+  "kind": "person",
+  "label": "Hugh of Cluny",
+  "labelLang": "en",
+  "description": "Abbot of Cluny (1024-1109)",
+  "classes": [
+   "human"
+  ],
+  "revision": 2536234401,
+  "wikidata": "https://www.wikidata.org/wiki/Q540099",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Cluny",
+  "lifespan": {
+   "birth": "1024",
+   "death": "1109"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q5452886",
+  "kind": "event",
+  "label": "March from Antioch to Jerusalem during the First Crusade",
+  "labelLang": "en",
+  "description": "1099 military campaign",
+  "classes": [
+   "marching",
+   "military campaign"
+  ],
+  "revision": 2535744534,
+  "wikidata": "https://www.wikidata.org/wiki/Q5452886",
+  "wikipedia": "https://en.wikipedia.org/wiki/March_from_Antioch_to_Jerusalem_during_the_First_Crusade",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q54554836",
+  "kind": "event",
+  "label": "Battle of al-Barâ",
+  "labelLang": "en",
+  "description": "1098 battle",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2500973601,
+  "wikidata": "https://www.wikidata.org/wiki/Q54554836",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q55502",
+  "kind": "polity",
+  "label": "Kingdom of Jerusalem",
+  "labelLang": "en",
+  "description": "medieval Christian kingdom in the Middle East",
+  "classes": [
+   "Crusader states",
+   "historical country"
+  ],
+  "revision": 2546625166,
+  "wikidata": "https://www.wikidata.org/wiki/Q55502",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Jerusalem",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q5781092",
+  "kind": "event",
+  "label": "Q5781092",
+  "labelLang": "",
+  "description": "",
+  "classes": [
+   "church council"
+  ],
+  "revision": 2538338375,
+  "wikidata": "https://www.wikidata.org/wiki/Q5781092",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q58559",
+  "kind": "person",
+  "label": "Leo IX",
+  "labelLang": "en",
+  "description": "Head of the Catholic Church from 1049 to 1054",
+  "classes": [
+   "human"
+  ],
+  "revision": 2544621368,
+  "wikidata": "https://www.wikidata.org/wiki/Q58559",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope_Leo_IX",
+  "lifespan": {
+   "birth": "1002",
+   "death": "1054"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q60094",
+  "kind": "person",
+  "label": "Henry IV",
+  "labelLang": "en",
+  "description": "Holy Roman Emperor from 1084 to 1105",
+  "classes": [
+   "human"
+  ],
+  "revision": 2545392612,
+  "wikidata": "https://www.wikidata.org/wiki/Q60094",
+  "wikipedia": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
+  "lifespan": {
+   "birth": "1050",
+   "death": "1106"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q62378",
+  "kind": "institution",
+  "label": "Tower of London",
+  "labelLang": "en",
+  "description": "castle in central London, United Kingdom",
+  "classes": [
+   "castle",
+   "museum",
+   "archaeological site",
+   "independent museum"
+  ],
+  "revision": 2546509273,
+  "wikidata": "https://www.wikidata.org/wiki/Q62378",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tower_of_London",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q62651518",
+  "kind": "office",
+  "label": "Abbot of Cluny",
+  "labelLang": "en",
+  "description": "abbot",
+  "classes": [
+   "ecclesiastical occupation"
+  ],
+  "revision": 2541648084,
+  "wikidata": "https://www.wikidata.org/wiki/Q62651518",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q62978447",
+  "kind": "person",
+  "label": "Agatha of Normandy",
+  "labelLang": "en",
+  "description": "daughter of William the Conqueror and Matilda of Flanders",
+  "classes": [
+   "human"
+  ],
+  "revision": 2549939813,
+  "wikidata": "https://www.wikidata.org/wiki/Q62978447",
+  "wikipedia": "https://en.wikipedia.org/wiki/Agatha_of_Normandy",
+  "lifespan": {
+   "birth": "1061",
+   "death": "1079"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q62978706",
+  "kind": "person",
+  "label": "Matilda of Normandy",
+  "labelLang": "en",
+  "description": "daughter of William the Conqueror and Matilda of Flanders",
+  "classes": [
+   "human"
+  ],
+  "revision": 2277164545,
+  "wikidata": "https://www.wikidata.org/wiki/Q62978706",
+  "lifespan": {
+   "birth": "1061",
+   "death": "1086"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q640793",
+  "kind": "person",
+  "label": "Sikelgaita",
+  "labelLang": "en",
+  "description": "Lombard princess",
+  "classes": [
+   "human"
+  ],
+  "revision": 2526900126,
+  "wikidata": "https://www.wikidata.org/wiki/Q640793",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sikelgaita",
+  "lifespan": {
+   "birth": "1040",
+   "death": "1090"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q642117",
+  "kind": "event",
+  "label": "Siege of Nicaea",
+  "labelLang": "en",
+  "description": "1097 The siege of Nicaea",
+  "classes": [
+   "siege"
+  ],
+  "revision": 2535745387,
+  "wikidata": "https://www.wikidata.org/wiki/Q642117",
+  "wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Nicaea",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q650678",
+  "kind": "institution",
+  "label": "Mantua Cathedral",
+  "labelLang": "en",
+  "description": "cathedral",
+  "classes": [
+   "cathedral",
+   "church building"
+  ],
+  "revision": 2511587910,
+  "wikidata": "https://www.wikidata.org/wiki/Q650678",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mantua_Cathedral",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q65089021",
+  "kind": "dynasty",
+  "label": "House of Godwin",
+  "labelLang": "en",
+  "description": "Anglo-Saxon Royal family",
+  "classes": [
+   "noble family",
+   "dynasty"
+  ],
+  "revision": 2545328986,
+  "wikidata": "https://www.wikidata.org/wiki/Q65089021",
+  "wikipedia": "https://en.wikipedia.org/wiki/House_of_Godwin",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q660393",
+  "kind": "polity",
+  "label": "Lower Lotharingia",
+  "labelLang": "en",
+  "description": "duchy",
+  "classes": [
+   "duchy",
+   "historical country",
+   "state in the Holy Roman Empire"
+  ],
+  "revision": 2532357384,
+  "wikidata": "https://www.wikidata.org/wiki/Q660393",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lower_Lotharingia",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q66428194",
+  "kind": "office",
+  "label": "Queen consort of Denmark",
+  "labelLang": "en",
+  "description": "title held by the female consort of the Monarch of Denmark",
+  "classes": [
+   "position",
+   "noble title"
+  ],
+  "revision": 2547114058,
+  "wikidata": "https://www.wikidata.org/wiki/Q66428194",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q695950",
+  "kind": "person",
+  "label": "Conrad II, Duke of Bavaria",
+  "labelLang": "en",
+  "description": "German duke",
+  "classes": [
+   "human"
+  ],
+  "revision": 2536899984,
+  "wikidata": "https://www.wikidata.org/wiki/Q695950",
+  "wikipedia": "https://en.wikipedia.org/wiki/Conrad_II_of_Bavaria",
+  "lifespan": {
+   "birth": "1052",
+   "death": "1055"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q704988",
+  "kind": "person",
+  "label": "Godfrey IV, Duke of Lower Lorraine",
+  "labelLang": "en",
+  "description": "Belgian noble",
+  "classes": [
+   "human"
+  ],
+  "revision": 2527093673,
+  "wikidata": "https://www.wikidata.org/wiki/Q704988",
+  "wikipedia": "https://en.wikipedia.org/wiki/Godfrey_the_Hunchback",
+  "lifespan": {
+   "birth": "12th century",
+   "death": "1076"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q7053398",
+  "kind": "other",
+  "label": "Viking activity in the British Isles",
+  "labelLang": "en",
+  "description": "aspect of Norsemen expansion",
+  "classes": [
+   "aspect of history"
+  ],
+  "revision": 2516044884,
+  "wikidata": "https://www.wikidata.org/wiki/Q7053398",
+  "wikipedia": "https://en.wikipedia.org/wiki/Viking_activity_in_the_British_Isles",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q706674",
+  "kind": "person",
+  "label": "Welf II, Duke of Bavaria",
+  "labelLang": "en",
+  "description": "Duke of Bavaria",
+  "classes": [
+   "human"
+  ],
+  "revision": 2536899385,
+  "wikidata": "https://www.wikidata.org/wiki/Q706674",
+  "wikipedia": "https://en.wikipedia.org/wiki/Welf_II_of_Bavaria",
+  "lifespan": {
+   "birth": "1072",
+   "death": "1120"
+  },
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q71747",
+  "kind": "polity",
+  "label": "Duchy of Brittany",
+  "labelLang": "en",
+  "description": "former European sovereign state 939–1547, then dukedom of the Kingdom of France",
+  "classes": [
+   "historical country",
+   "duchy",
+   "realm"
+  ],
+  "revision": 2485688588,
+  "wikidata": "https://www.wikidata.org/wiki/Q71747",
+  "wikipedia": "https://en.wikipedia.org/wiki/Duchy_of_Brittany",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q724235",
+  "kind": "person",
+  "label": "Robert, Count of Mortain",
+  "labelLang": "en",
+  "description": "Norman nobleman and the uterine half-brother of William the Conqueror",
+  "classes": [
+   "human"
+  ],
+  "revision": 2522146629,
+  "wikidata": "https://www.wikidata.org/wiki/Q724235",
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_of_Mortain",
+  "lifespan": {
+   "birth": "1031",
+   "death": "1095"
+  },
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q727760",
+  "kind": "institution",
+  "label": "Lincoln Castle",
+  "labelLang": "en",
+  "description": "Grade I listed building in Lincolnshire, England, UK",
+  "classes": [
+   "historic house museum",
+   "motte-and-bailey castle",
+   "archaeological site",
+   "castle"
+  ],
+  "revision": 2512133534,
+  "wikidata": "https://www.wikidata.org/wiki/Q727760",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lincoln_Castle",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q741098",
+  "kind": "event",
+  "label": "Siege of Antioch",
+  "labelLang": "en",
+  "description": "1097–1098 siege during the First Crusade",
+  "classes": [
+   "siege"
+  ],
+  "revision": 2548324834,
+  "wikidata": "https://www.wikidata.org/wiki/Q741098",
+  "wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Antioch",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q7509995",
+  "kind": "event",
+  "label": "Siege of Exeter",
+  "labelLang": "en",
+  "description": "1068 siege of Exeter by William the Conqueror",
+  "classes": [
+   "battle",
+   "siege"
+  ],
+  "revision": 2504564035,
+  "wikidata": "https://www.wikidata.org/wiki/Q7509995",
+  "wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Exeter_(1068)",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q75386640",
+  "kind": "person",
+  "label": "unknown daughter (?)",
+  "labelLang": "en",
+  "description": "Peerage person ID=106663",
+  "classes": [
+   "human"
+  ],
+  "revision": 2170796805,
+  "wikidata": "https://www.wikidata.org/wiki/Q75386640",
+  "lifespan": {},
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q76346746",
+  "kind": "person",
+  "label": "Mabille de Hauteville",
+  "labelLang": "en",
+  "description": "Peerage person ID=704224",
+  "classes": [
+   "human"
+  ],
+  "revision": 2520624184,
+  "wikidata": "https://www.wikidata.org/wiki/Q76346746",
+  "lifespan": {},
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q80637",
+  "kind": "institution",
+  "label": "York Castle",
+  "labelLang": "en",
+  "description": "castle in York, North Yorkshire, England, UK",
+  "classes": [
+   "castle",
+   "motte-and-bailey castle"
+  ],
+  "revision": 2517015232,
+  "wikidata": "https://www.wikidata.org/wiki/Q80637",
+  "wikipedia": "https://en.wikipedia.org/wiki/York_Castle",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q827472",
+  "kind": "event",
+  "label": "Battle of Ascalon",
+  "labelLang": "en",
+  "description": "1099 middle ages battle",
+  "classes": [
+   "siege",
+   "battle"
+  ],
+  "revision": 2548324281,
+  "wikidata": "https://www.wikidata.org/wiki/Q827472",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Ascalon",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q830878",
+  "kind": "event",
+  "label": "Battle of Stiklestad",
+  "labelLang": "en",
+  "description": "battle in Trøndelag, Norway",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2504685653,
+  "wikidata": "https://www.wikidata.org/wiki/Q830878",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Stiklestad",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "connecting"
+   }
+  ]
+ },
+ {
+  "id": "Q83224",
+  "kind": "event",
+  "label": "Battle of Hastings",
+  "labelLang": "en",
+  "description": "battle which occurred on 14 October 1066",
+  "classes": [
+   "battle"
+  ],
+  "revision": 2542108290,
+  "wikidata": "https://www.wikidata.org/wiki/Q83224",
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "anchor"
+   }
+  ]
+ },
+ {
+  "id": "Q842091",
+  "kind": "polity",
+  "label": "Duchy of Normandy",
+  "labelLang": "en",
+  "description": "former European sovereign state, then dukedom of France",
+  "classes": [
+   "sovereign state",
+   "historical country"
+  ],
+  "revision": 2535804985,
+  "wikidata": "https://www.wikidata.org/wiki/Q842091",
+  "wikipedia": "https://en.wikipedia.org/wiki/Duchy_of_Normandy",
+  "stories": [
+   {
+    "story": "1066-succession",
+    "role": "context"
+   },
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q846670",
+  "kind": "polity",
+  "label": "Danishmendid dynasty",
+  "labelLang": "en",
+  "description": "dynasty",
+  "classes": [
+   "historical country",
+   "Anatolian beyliks",
+   "dynasty"
+  ],
+  "revision": 2472551254,
+  "wikidata": "https://www.wikidata.org/wiki/Q846670",
+  "wikipedia": "https://en.wikipedia.org/wiki/Danishmendids",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "context"
+   }
+  ]
+ },
+ {
+  "id": "Q901417",
+  "kind": "work",
+  "label": "Dictatus papae",
+  "labelLang": "en",
+  "description": "text concerning statements of powers arrogated to the pope",
+  "classes": [
+   "manuscript",
+   "letter",
+   "written work",
+   "group"
+  ],
+  "revision": 2458024988,
+  "wikidata": "https://www.wikidata.org/wiki/Q901417",
+  "wikipedia": "https://en.wikipedia.org/wiki/Dictatus_papae",
+  "stories": [
+   {
+    "story": "church-reform-papacy-crusade",
+    "role": "connecting"
+   }
+  ]
+ }
+]
